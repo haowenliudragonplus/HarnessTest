@@ -14,10 +14,10 @@
 | name | 短横线分隔小写 kebab-case，描述简短（≤5 词） |
 | date | 创建当日 YYYYMMDD（北京时间） |
 
-### 范例
-- `feat-tip-concurrent-limit-20260518`
-- `fix-iap-receipt-validate-20260518`
-- `refactor-fsm-state-naming-20260520`
+### 范例（命名形式示意）
+- `feat-<short-name>-YYYYMMDD`
+- `fix-<short-name>-YYYYMMDD`
+- `refactor-<short-name>-YYYYMMDD`
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## 最终 ACK
 - 用户 ACK 时间：—
-- 提交 commit：—
+- 用户 ACK 备注：—
 ```
 
 ---
@@ -95,5 +95,5 @@
 实际目录将由主会话在收到新需求时创建。第一次 Dry Run 时建议用：
 
 ```
-.harness/changes/feat-dry-run-demo-20260518/
+.harness/changes/feat-dry-run-demo-YYYYMMDD/
 ```

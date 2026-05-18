@@ -1,42 +1,35 @@
-# Wiki 知识库（Phase 2 占位）
+# Wiki 知识库
 
-> 本目录用于沉淀业务领域知识——账号 / 背包 / IAP / 广告 / 网络协议等链路梳理。Agent 在需要业务背景时按需 Read。
-
----
-
-## MVP 阶段：暂未填充
-
-当前为 Phase 1 MVP 阶段，本目录仅作占位。**Agent 不需要读取这里的文件**——所有 MVP 必需的信息已在 `.harness/rules/` 和 `.harness/skills/` 中。
+> 本目录用于沉淀业务领域知识——核心业务模块、关键链路、历史事故/坑等。Agent 在需要业务背景时按需 Read。
 
 ---
 
-## Phase 2 待补内容
+## 用途
 
-| 文件 | 内容 |
-|---|---|
-| `account.md` | ModAccount 登录链路、Facebook/Apple/Google 绑定流程、token 管理 |
-| `bag.md` | ModBag 道具系统、ItemPackage、奖励发放链路（DispenseReward） |
-| `iap.md` | ModIAP 内购流程、订单校验、退款 / 翻包处理 |
-| `ad.md` | AppLovin MAX 广告链路、激励视频回调、广告 A/B 实验 |
-| `storage.md` | StorageClientCommon 字段说明、跨设备同步、版本迁移 |
-| `network.md` | RPC 协议、超时重试、错误码处理 |
-| `fsm.md` | 主流程状态图（Login → Home → InGame → ...）|
-| `hybridclr.md` | HybridCLR 热更流程、AOT / Interpreter 边界、热更不能做的事 |
-| `yooasset.md` | YooAsset 资源分包策略、版本 / 清单更新 |
+`.harness/rules/` 与 `.harness/skills/coding-skill/*-spec.md` 描述的是**结构与约束**（怎么写代码、怎么分层），而 `.harness/wiki/` 描述的是**业务知识**（每个核心模块在干什么、关键链路有哪些坑）。
+
+Agent 在需要补全业务背景时主动 Read，但不强制每次启动都加载——按需即可。
 
 ---
 
 ## 命名规范
 
-- 文件名：小写 kebab-case，业务领域为单位（如 `account.md`、`iap.md`）
-- 内容结构：
-  1. 链路总览（带 ASCII 图或 mermaid）
-  2. 关键 Module / 类清单
-  3. 常见坑 / 历史事故
-  4. 相关测试入口（如 GM 命令）
+- 文件名：小写 kebab-case，**业务领域**为单位（不是按层级，是按业务）
+- 一个业务领域一份文件
+- 内容结构推荐：
+  1. **链路总览**（ASCII 图或 mermaid，谁调谁、关键时序）
+  2. **关键类/模块清单**（实际入口、关键方法）
+  3. **常见坑 / 历史事故**（每条对应一次实战教训）
+  4. **相关测试入口**（GM 命令、调试工具、跳关入口等）
 
 ---
 
 ## 何时补充
 
 每次实战中 Planner / Generator 因业务知识不足而出错时，把该问题对应的知识沉淀到这里——遵循文章 5.5 节"规范的每一行都对应一个历史失败案例"。
+
+---
+
+## 占位说明
+
+本目录在新项目初始化时通常为空。各项目按上述命名规范，针对本项目的核心业务领域逐步沉淀知识文件。

@@ -5,7 +5,7 @@ description: Evaluator Agent 的标准评审 SOP；包含 Plan Review 与 Execut
 
 # Skill: 专家评审（Expert Reviewer）
 
-> 由 Evaluator Agent 在阶段 2（计划评审）、4（编码评审）启动时加载。
+> 由 Evaluator Agent 在计划评审与编码评审阶段启动时加载。
 
 ---
 
@@ -24,7 +24,7 @@ description: Evaluator Agent 的标准评审 SOP；包含 Plan Review 与 Execut
 - [ ] 目标可测量（不是"提升体验"这种空话）
 - [ ] 不做什么明确划界
 - [ ] 影响面用 Grep/Glob 实测（**禁止**模糊词"少量""若干""一些"）
-- [ ] 风险表识别了所有高敏感模块（ModAccount / ModBag / ModIAP / 广告 / 网络）
+- [ ] 风险表识别了所有高敏感模块（具体清单以 [工程结构.md](../../rules/工程结构.md) 为准）
 - [ ] 待决议问题未被 Planner 自答
 - [ ] 验收标准可被机器或人工**明确验证**
 
@@ -44,42 +44,31 @@ description: Evaluator Agent 的标准评审 SOP；包含 Plan Review 与 Execut
 
 ### 模式 B: Execution Review（执行评审）
 
-输入：`coding_report_v{N}.md` + 实际代码改动（用 Bash `git diff` 拿）
+输入：`coding_report_v{N}.md` + 实际代码改动（用 Bash 只读 diff 命令获取改动内容；**仅读取，不触碰任何版本控制写操作**）
 输出：`coding/review/code_review_v{N}.md`
 
 #### Execution Review 检查清单
 
 **报告 vs 实际一致性**
-- [ ] coding_report 中宣称的改动文件清单 = `git diff --name-only` 的结果
+- [ ] coding_report 中宣称的改动文件清单 = 只读 diff 中实际改动的文件清单
 - [ ] 每项 Task 在报告中有明确状态（✅/⏸/❌）
 - [ ] 跳过/未完成的 Task 给了正当理由
 
-**编码规范合规性（逐条检查 [项目编码规范.md](../../rules/项目编码规范.md)）**
-- [ ] §1 命名前缀正确（Mod*/FsmState_*/UIView_*/Procedure*）
-- [ ] §2 货币/数量字段是 long，非 float/double
-- [ ] §3 模块访问用 `Game.GetMod<T>()`
-- [ ] §4 资源加载走 ModAsset（除 Boot 阶段）
-- [ ] §5 异步用 UniTask，无跨模块 coroutine
-- [ ] §6 日志用 CLog
-- [ ] §7 主工程未 new 热更类
-- [ ] §8 第三方 SDK 调用有超时和降级，封装在 Adapter 层
-- [ ] §9 事件用 ModEvent.Dispatch
-- [ ] §10 UI 打开走 ModUI.OpenSync/OpenAsync
-- [ ] §11 存档用 SDK<IStorage>，无 PlayerPrefs
-- [ ] §12 commit message 格式（如已提交则查）
-- [ ] §13 无 tasks.md 范围之外的"顺手重构"
-- [ ] §14 注释克制、必要时加 WHY
+**编码规范合规性**
+- [ ] 逐条对照 [项目编码规范.md](../../rules/项目编码规范.md) 中的每一条款检查（任何一项违反 → MUST FIX）
+- [ ] 改动遵循 [工程结构.md](../../rules/工程结构.md) 中定义的分层边界与跨层调用规则
+- [ ] 命名遵循项目约定（具体前缀/后缀以 rules/工程结构.md 为准）
 
 **业务正确性**
 - [ ] 改动是否兑现 spec.md 的"目标"
 - [ ] 验收标准是否能在改动后达成
 - [ ] 边界条件（null / 空集合 / 超时 / 重复触发）是否处理
-- [ ] 高敏感模块（账号 / 内购 / 数据持久化）有无意外破坏
-- [ ] 主-热更边界是否正确
+- [ ] 高敏感模块（按 rules/工程结构.md 标注）有无意外破坏
+- [ ] 跨分层/跨边界的调用是否合规
 
 **反熵检查**
 - [ ] 没有引入新的"代码异味"（如重复定义、死代码、注释掉的代码段）
-- [ ] 没有降级现有的代码风格（如把 `Game.GetMod<>` 改成 `static Instance`）
+- [ ] 没有降级现有的代码风格（如绕过既定访问路径、改用反模式）
 
 ---
 
@@ -93,7 +82,7 @@ description: Evaluator Agent 的标准评审 SOP；包含 Plan Review 与 Execut
 
 | 级别 | 触发条件 | 影响 |
 |---|---|---|
-| **MUST FIX** | 违反硬约束（编码规范任一条）/ 业务正确性错误 / 安全/稳定性风险 | 必须返工 |
+| **MUST FIX** | 违反 rules/ 中的任一硬约束 / 业务正确性错误 / 安全/稳定性风险 | 必须返工 |
 | **LOW** | 风格不一致 / 可读性 / 非关键性能 | 不阻断，建议改 |
 | **INFO** | 提醒 / 团队学习 / 可优化但非必须 | 仅供参考 |
 
@@ -103,28 +92,28 @@ description: Evaluator Agent 的标准评审 SOP；包含 Plan Review 与 Execut
 
 ---
 
-## 常见 MUST FIX 范例
+## MUST FIX 范例（写法示意，非项目特定）
 
 ```markdown
-### 【MUST FIX】价格字段使用 float
-- **位置**：Assets/Scripts/Hotfix/Common/Module/IAP/ModIAP.cs:87
+### 【MUST FIX】数值字段使用 float 存储金额
+- **位置**：<文件路径>:<行号>
 - **现状**：
-  ```csharp
+  ```
   public float currentPrice;
   ```
-- **问题**：违反 [项目编码规范.md §2](../../rules/项目编码规范.md)。
-  IEEE 754 浮点表示无法精确存储 1.99 等常见价格值，长期会出现累积偏差，
-  对内购金额来说是合规风险。
-- **建议**：改为 `public long currentPriceCent;`（单位：分），UI 显示时再除以 100。
+- **问题**：违反 [项目编码规范.md](../../rules/项目编码规范.md) 中关于金额/数量字段的类型约束。
+  IEEE 754 浮点表示无法精确存储常见货币值，长期会出现累积偏差。
+- **建议**：改为整数类型按"最小单位"存储（如分、毫等），UI 显示时再换算。
 
-### 【MUST FIX】UI 视图直接 Instantiate prefab
-- **位置**：Assets/Scripts/Hotfix/Common/Module/Tip/ModTip.cs:42
+### 【MUST FIX】绕过既定访问路径
+- **位置**：<文件路径>:<行号>
 - **现状**：
-  ```csharp
-  Instantiate(tipPrefab, parent);
   ```
-- **问题**：违反 §10，绕过 ModUI 生命周期管理，会导致：
-  1. UI 关闭时不会自动清理
-  2. 多语言切换不会重新刷新
-- **建议**：改用 `Game.GetMod<ModUI>().OpenSync(UIViewName.UIView_Tip, openData);`
+  Instantiate(somePrefab, parent);
+  ```
+- **问题**：违反 [项目编码规范.md](../../rules/项目编码规范.md) 中关于资源/视图统一入口的约束，
+  绕过了生命周期管理，会导致清理、刷新、依赖注入失效。
+- **建议**：改用项目约定的统一入口（具体函数名以 rules/项目编码规范.md 为准）。
 ```
+
+> 实际评审报告中的位置、规则名、修复建议都要替换为本项目真实信息。
