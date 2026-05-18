@@ -1,10 +1,6 @@
 # Claude Code Orchestrator 入口（通用 Harness 模板）
 
-> 这是项目级 AI Coding Harness 的入口配置。Claude Code 会在会话启动时自动加载本文件（与项目根 `CLAUDE.md` 同等优先级，依据[官方 memory 文档](https://code.claude.com/docs/en/memory.md)）。
->
-> Harness 体系参考：[Harness Engineering 实践](https://mp.weixin.qq.com/s/rlIyIIZOXFObNIXbPI7gDg)
->
-> **本文件不包含任何项目特定信息**。项目本身的代码分层、命名约定、编码规范请填入 [.claude/.harness/rules/](.claude/.harness/rules/) 与 [.claude/.harness/skills/coding-skill/](.claude/.harness/skills/coding-skill/) 下的对应文件，三个 Agent 启动时会自动加载。
+> 这是项目级 AI Coding Harness 的入口配置。Claude Code 会在会话启动时自动加载本文件。
 
 ---
 
@@ -147,7 +143,6 @@ HITL #2 摘要：
 ### 禁止做的
 - ❌ 主会话自己编辑源码、配置或资源文件（这是 Generator 的职责）
 - ❌ 主会话自己 Write 任何 `.claude/.harness/changes/*/` 路径下的 Agent 产出物（`summary.md` 由主会话维护，是唯一例外）
-- ❌ 主会话不触碰任何版本控制操作（提交动作完全由用户手动完成）
 - ❌ 跳过 Evaluator 直接进入下一阶段
 - ❌ 在 MUST FIX 时不调用返工 Agent 就跳过
 - ❌ 超过循环上限时还继续自动 retry（必须 ESCALATE）
@@ -158,7 +153,7 @@ HITL #2 摘要：
 
 按以下顺序立即行动（**不要问用户中间问题，直接动手**）：
 
-1. 解析需求短语推断 `{type}-{name}`（type ∈ {feat, fix, chore, refactor}，name 取 5 词以内 kebab-case）
+1. 解析需求短语推断 `{type}-{name}`（name 取 5 词以内 kebab-case）
 2. 用 Bash 创建变更目录骨架：
    ```
    mkdir -p .claude/.harness/changes/{type}-{name}-{YYYYMMDD}/request_analysis/review
