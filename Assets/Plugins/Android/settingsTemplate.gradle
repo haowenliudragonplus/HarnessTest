@@ -1,0 +1,54 @@
+pluginManagement {
+    repositories {
+        **ARTIFACTORYREPOSITORY**
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+include ':launcher', ':unityLibrary'
+**INCLUDES**
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        **ARTIFACTORYREPOSITORY**
+        google()
+        mavenCentral()
+// Android Resolver Repos Start
+        def unityProjectPath = $/file:///**DIR_UNITYPROJECT**/$.replace("\\", "/")
+        maven {
+            url "https://android-sdk.is.com/" // Packages/com.kingdomjoygames.ad.max/Amazon/Scripts/Mediations/IronSourceMediation/Editor/Dependencies.xml:7
+        }
+        maven {
+            url "https://artifactory.bidmachine.io/bidmachine" // Packages/com.applovin.mediation.adapters.bidmachine.android/Editor/Dependencies.xml:8
+        }
+        maven {
+            url "https://cboost.jfrog.io/artifactory/chartboost-ads/" // Packages/com.applovin.mediation.adapters.chartboost.android/Editor/Dependencies.xml:8
+        }
+        maven {
+            url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea" // Packages/com.applovin.mediation.adapters.mintegral.android/Editor/Dependencies.xml:8
+        }
+        maven {
+            url "https://artifact.bytedance.com/repository/pangle" // Packages/com.applovin.mediation.adapters.bytedance.android/Editor/Dependencies.xml:8
+        }
+        maven {
+            url (unityProjectPath + "/Assets/GeneratedLocalRepo/Firebase/m2repository") // Packages/com.google.firebase/Firebase/Editor/AnalyticsDependencies.xml:18, Packages/com.google.firebase/Firebase/Editor/AppDependencies.xml:22, Packages/com.google.firebase/Firebase/Editor/CrashlyticsDependencies.xml:20, Packages/com.google.firebase/Firebase/Editor/DynamicLinksDependencies.xml:20, Packages/com.google.firebase/Firebase/Editor/MessagingDependencies.xml:24, Packages/com.google.firebase/Firebase/Editor/RemoteConfigDependencies.xml:20
+        }
+        maven {
+            url "https://maven.google.com/" // Packages/com.google.ads.mobile/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:7, Packages/com.google.ads.mobile/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:12, Packages/com.google.ads.mobile/GoogleMobileAds/Editor/GoogleUmpDependencies.xml:7
+        }
+        maven {
+            url (unityProjectPath + "/Assets/GeneratedLocalRepo/Editor/m2repository") // Packages/com.google.play.games/Editor/GooglePlayGamesPluginDependencies.xml:11, Packages/com.google.signin/Editor/GoogleSignInSupportDependencies.xml:9
+        }
+        maven {
+            url "https://aws.oss.sonatype.org/content/repositories/releases/" // Packages/com.kingdomjoygames.ad.max/Amazon/Scripts/Editor/AmazonDependencies.xml:10
+        }
+        mavenLocal()
+// Android Resolver Repos End
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "jumpType": 1,
+        "paramArray": [
+            "105"
+        ]
+    },
+    {
+        "id": 2,
+        "jumpType": 1,
+        "paramArray": [
+            "119"
+        ]
+    }
+]

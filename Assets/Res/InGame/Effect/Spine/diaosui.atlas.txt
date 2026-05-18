@@ -1,0 +1,6 @@
+diaosui.png
+size:64,256
+filter:Linear,Linear
+pma:true
+UI_diaosui
+bounds:1,1,34,132

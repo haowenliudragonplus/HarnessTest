@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "UI_common_coin",
+        "desc": "UI_common_coin",
+        "icon": 1007,
+        "jump": 2,
+        "flyOrder": 1
+    },
+    {
+        "id": 2,
+        "name": "UI_common_lives",
+        "desc": "UI_common_lives",
+        "icon": 1004,
+        "timeLimitItemId": 3,
+        "numLimit": 6,
+        "autoAddInterval": 30,
+        "autoAddCount": 1,
+        "jump": 1,
+        "flyOrder": 2
+    },
+    {
+        "id": 3,
+        "name": "UI_common_lives_max",
+        "desc": "UI_common_lives_max",
+        "icon": 1008,
+        "isTimeLimitItem": true,
+        "flyOrder": 2
+    },
+    {
+        "id": 101,
+        "name": "UI_Shuffle_titile",
+        "desc": "UI_Shuffle_tip",
+        "icon": 1009,
+        "flyOrder": 3,
+        "price": 120
+    },
+    {
+        "id": 102,
+        "name": "UI_Hint_title",
+        "desc": "UI_Hint_tip",
+        "icon": 1010,
+        "flyOrder": 3,
+        "price": 100
+    },
+    {
+        "id": 103,
+        "name": "UI_seat_title",
+        "desc": "UI_seat_tip",
+        "icon": 1011,
+        "flyOrder": 3,
+        "price": 100
+    },
+    {
+        "id": 104,
+        "name": "UI_clean_title",
+        "desc": "UI_clean_tip",
+        "icon": 1012,
+        "flyOrder": 3,
+        "price": 120
+    }
+]

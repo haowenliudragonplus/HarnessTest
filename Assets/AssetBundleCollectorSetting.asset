@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185f6993d5150494d98da50e26cb1c25, type: 3}
+  m_Name: AssetBundleCollectorSetting
+  m_EditorClassIdentifier: 
+  ShowPackageView: 1
+  ShowEditorAlias: 0
+  UniqueBundleName: 0
+  Packages:
+  - PackageName: ArrowPuzzle
+    PackageDesc: 
+    EnableAddressable: 1
+    LocationToLower: 0
+    IncludeAssetGUID: 0
+    AutoCollectShaders: 1
+    IgnoreRuleName: NormalIgnoreRule
+    Groups:
+    - GroupName: CodeAssets
+      GroupDesc: 
+      AssetTags: BuildIn
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Res/Code
+        CollectorGUID: dc0b101d6539841d59658c094993976c
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: Common
+      GroupDesc: 
+      AssetTags: BuildIn
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Res/Common/Audios
+        CollectorGUID: e1505bf5465c5e244916db77512c73f3
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Common/Configs
+        CollectorGUID: 1bb42bbcb046145439126622e83faa17
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Common/FontMaterials
+        CollectorGUID: 1b5a0d87bd6fdff498317a8440c09a94
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Common/Materials
+        CollectorGUID: 8b4e714c2b8703046a315c1860847985
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Common/UI_Home
+        CollectorGUID: 2ef83116ba05ca546ace54177d645f6a
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectExcludeTexture
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Common/UI_Setting
+        CollectorGUID: 81b1d1c3264baef4b972db64d002c9ca
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectExcludeTexture
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Common/UI_Shop
+        CollectorGUID: a621f66c65e439248b924f921a8b284e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectExcludeTexture
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Common/UI_GM
+        CollectorGUID: 1950b45777bc143458a6bc3b308b4b0f
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectExcludeTexture
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Common/Atlas
+        CollectorGUID: 3815ae34ba621054bba0e0dba4221cfc
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Activity/Configs
+        CollectorGUID: c82cb15cece741d4e9a80433e4e00178
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Common/UI_Achievement
+        CollectorGUID: c49774883ed73dc45be414836980a128
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: Home
+      GroupDesc: 
+      AssetTags: BuildIn
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Res/Home/Main/Prefabs
+        CollectorGUID: 4dfa4f0635de3834680540fb514a61cd
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Home/UIGuide/Prefabs
+        CollectorGUID: 769fa31f79b5e154581a1b7988963c3f
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/Home/UIReward
+        CollectorGUID: 1fd5026e7e530304687b35a4cfc5c886
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: ResidentActivity
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: DisableGroup
+      Collectors:
+      - CollectPath: Assets/Res/Activity/UINoADS
+        CollectorGUID: 
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: BuildIn
+        UserData: 
+      - CollectPath: Assets/Res/ActivityEntrance
+        CollectorGUID: 
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: BuildIn
+        UserData: 
+      - CollectPath: Assets/Res/Activity/UIDailyChallenge
+        CollectorGUID: 
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: BuildIn
+        UserData: 
+    - GroupName: LimitedActivity
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: DisableGroup
+      Collectors:
+      - CollectPath: Assets/Res/Activity/ActivityTripleGiftPack
+        CollectorGUID: 
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: ActivityTripleGiftPack
+        UserData: 
+      - CollectPath: Assets/Res/Activity/ActivityEndlessGiftPack
+        CollectorGUID: 
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: ActivityEndlessGiftPack
+        UserData: 
+    - GroupName: InGame
+      GroupDesc: 
+      AssetTags: BuildIn
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Res/InGame/Atlas
+        CollectorGUID: b2ad15534dabe5b4fbafdbc433308be8
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/InGame/Configs
+        CollectorGUID: 541220fac0022fd4d8006868c3365ce2
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/InGame/LevelConfigs
+        CollectorGUID: 9400777073192af41b0f291a16f7a64c
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/InGame/Prefabs
+        CollectorGUID: ef5a99f50261ac24b97c370c796e0559
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Res/InGame/Audios
+        CollectorGUID: 9bc583a8eff5bcf498913b86b92aa1f8
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: Activity_Common
+      GroupDesc: 
+      AssetTags: BuildIn
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Res/Activity/RemoveAd
+        CollectorGUID: dadb58907cccce64ebab976c83fbba91
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectExcludeTextureAndAnimation
+        AssetTags: 
+        UserData: 

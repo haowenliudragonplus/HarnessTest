@@ -1,0 +1,1922 @@
+{
+    "gmeditconfig": [],
+    "presetconfig": [
+        {
+            "presetName": "T1",
+            "presetValue": "US,AU,GB,KR,JP,NL,CA,SE,DE,TW",
+            "desc": "第一梯队国家码"
+        },
+        {
+            "presetName": "T2",
+            "presetValue": "FR,MX",
+            "desc": "第二梯队国家码"
+        },
+        {
+            "presetValue": " "
+        }
+    ],
+    "rules": [
+        {
+            "groupName": "未知用户",
+            "groupId": 0,
+            "dataKey": "userGroup",
+            "operator": "gte",
+            "dataType": "number",
+            "dataValue": "-1",
+            "desc": "保底分层"
+        },
+        {
+            "groupName": "T3-Android-自然量组或无信息",
+            "groupId": 1101,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-Android-自然量组或无信息",
+            "groupId": 1101,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T3-Android-导量组",
+            "groupId": 1102,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-Android-导量组",
+            "groupId": 1102,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T3-Android-导量组",
+            "groupId": 1102,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": " FB"
+        },
+        {
+            "groupName": "T3-Android-广告组_加速回收",
+            "groupId": 1103,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-Android-广告组_加速回收",
+            "groupId": 1103,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T3-Android-广告组_加速回收",
+            "groupId": 1103,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "6",
+            "desc": "广告组_加速回收"
+        },
+        {
+            "groupName": "T3-Android-广告组_标准",
+            "groupId": 1104,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-Android-广告组_标准",
+            "groupId": 1104,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T3-Android-广告组_标准",
+            "groupId": 1104,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "5",
+            "desc": "广告组_标准"
+        },
+        {
+            "groupName": "T3-Android-新广告组",
+            "groupId": 1105,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-Android-新广告组",
+            "groupId": 1105,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T3-Android-新广告组",
+            "groupId": 1105,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "8",
+            "desc": "新广告组"
+        },
+        {
+            "groupName": "T3-Android-广告组_兼顾内购",
+            "groupId": 1106,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-Android-广告组_兼顾内购",
+            "groupId": 1106,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T3-Android-广告组_兼顾内购",
+            "groupId": 1106,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "4",
+            "desc": "广告组_兼顾内购"
+        },
+        {
+            "groupName": "T3-Android-内购组_广告增多",
+            "groupId": 1107,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-Android-内购组_广告增多",
+            "groupId": 1107,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T3-Android-内购组_广告增多",
+            "groupId": 1107,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "3",
+            "desc": "内购组_广告增多"
+        },
+        {
+            "groupName": "T3-Android-内购组_标准",
+            "groupId": 1108,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-Android-内购组_标准",
+            "groupId": 1108,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T3-Android-内购组_标准",
+            "groupId": 1108,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "内购组_标准"
+        },
+        {
+            "groupName": "T3-Android-新内购组",
+            "groupId": 1109,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-Android-新内购组",
+            "groupId": 1109,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T3-Android-新内购组",
+            "groupId": 1109,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "7",
+            "desc": "新内购组"
+        },
+        {
+            "groupName": "T3-Android-内购组_无广告",
+            "groupId": 1110,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-Android-内购组_无广告",
+            "groupId": 1110,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T3-Android-内购组_无广告",
+            "groupId": 1110,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "内购组_无广告"
+        },
+        {
+            "groupName": "T3-iOS-自然量组或无信息",
+            "groupId": 1201,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-iOS-自然量组或无信息",
+            "groupId": 1201,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T3-iOS-导量组",
+            "groupId": 1202,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-iOS-导量组",
+            "groupId": 1202,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T3-iOS-导量组",
+            "groupId": 1202,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": " FB"
+        },
+        {
+            "groupName": "T3-iOS-广告组_加速回收",
+            "groupId": 1203,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-iOS-广告组_加速回收",
+            "groupId": 1203,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T3-iOS-广告组_加速回收",
+            "groupId": 1203,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "6",
+            "desc": "广告组_加速回收"
+        },
+        {
+            "groupName": "T3-iOS-广告组_标准",
+            "groupId": 1204,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-iOS-广告组_标准",
+            "groupId": 1204,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T3-iOS-广告组_标准",
+            "groupId": 1204,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "5",
+            "desc": "广告组_标准"
+        },
+        {
+            "groupName": "T3-iOS-新广告组",
+            "groupId": 1205,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-iOS-新广告组",
+            "groupId": 1205,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T3-iOS-新广告组",
+            "groupId": 1205,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "8",
+            "desc": "新广告组"
+        },
+        {
+            "groupName": "T3-iOS-广告组_兼顾内购",
+            "groupId": 1206,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-iOS-广告组_兼顾内购",
+            "groupId": 1206,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T3-iOS-广告组_兼顾内购",
+            "groupId": 1206,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "4",
+            "desc": "广告组_兼顾内购"
+        },
+        {
+            "groupName": "T3-iOS-内购组_广告增多",
+            "groupId": 1207,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-iOS-内购组_广告增多",
+            "groupId": 1207,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T3-iOS-内购组_广告增多",
+            "groupId": 1207,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "3",
+            "desc": "内购组_广告增多"
+        },
+        {
+            "groupName": "T3-iOS-内购组_标准",
+            "groupId": 1208,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-iOS-内购组_标准",
+            "groupId": 1208,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T3-iOS-内购组_标准",
+            "groupId": 1208,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "内购组_标准"
+        },
+        {
+            "groupName": "T3-iOS-新内购组",
+            "groupId": 1209,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-iOS-新内购组",
+            "groupId": 1209,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T3-iOS-新内购组",
+            "groupId": 1209,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "7",
+            "desc": "新内购组"
+        },
+        {
+            "groupName": "T3-iOS-内购组_无广告",
+            "groupId": 1210,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1,T2",
+            "desc": "T3国家"
+        },
+        {
+            "groupName": "T3-iOS-内购组_无广告",
+            "groupId": 1210,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T3-iOS-内购组_无广告",
+            "groupId": 1210,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "内购组_无广告"
+        },
+        {
+            "groupName": "T2-Android-自然量组或无信息",
+            "groupId": 2101,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-Android-自然量组或无信息",
+            "groupId": 2101,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T2-Android-导量组",
+            "groupId": 2102,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-Android-导量组",
+            "groupId": 2102,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T2-Android-导量组",
+            "groupId": 2102,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": " FB"
+        },
+        {
+            "groupName": "T2-Android-广告组_加速回收",
+            "groupId": 2103,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-Android-广告组_加速回收",
+            "groupId": 2103,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T2-Android-广告组_加速回收",
+            "groupId": 2103,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "6",
+            "desc": "广告组_加速回收"
+        },
+        {
+            "groupName": "T2-Android-广告组_标准",
+            "groupId": 2104,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-Android-广告组_标准",
+            "groupId": 2104,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T2-Android-广告组_标准",
+            "groupId": 2104,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "5",
+            "desc": "广告组_标准"
+        },
+        {
+            "groupName": "T2-Android-新广告组",
+            "groupId": 2105,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-Android-新广告组",
+            "groupId": 2105,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T2-Android-新广告组",
+            "groupId": 2105,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "8",
+            "desc": "新广告组"
+        },
+        {
+            "groupName": "T2-Android-广告组_兼顾内购",
+            "groupId": 2106,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-Android-广告组_兼顾内购",
+            "groupId": 2106,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T2-Android-广告组_兼顾内购",
+            "groupId": 2106,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "4",
+            "desc": "广告组_兼顾内购"
+        },
+        {
+            "groupName": "T2-Android-内购组_广告增多",
+            "groupId": 2107,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-Android-内购组_广告增多",
+            "groupId": 2107,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T2-Android-内购组_广告增多",
+            "groupId": 2107,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "3",
+            "desc": "内购组_广告增多"
+        },
+        {
+            "groupName": "T2-Android-内购组_标准",
+            "groupId": 2108,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-Android-内购组_标准",
+            "groupId": 2108,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T2-Android-内购组_标准",
+            "groupId": 2108,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "内购组_标准"
+        },
+        {
+            "groupName": "T2-Android-新内购组",
+            "groupId": 2109,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-Android-新内购组",
+            "groupId": 2109,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T2-Android-新内购组",
+            "groupId": 2109,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "7",
+            "desc": "新内购组"
+        },
+        {
+            "groupName": "T2-Android-内购组_无广告",
+            "groupId": 2110,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-Android-内购组_无广告",
+            "groupId": 2110,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T2-Android-内购组_无广告",
+            "groupId": 2110,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "内购组_无广告"
+        },
+        {
+            "groupName": "T2-iOS-自然量组或无信息",
+            "groupId": 2201,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-iOS-自然量组或无信息",
+            "groupId": 2201,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T2-iOS-导量组",
+            "groupId": 2202,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-iOS-导量组",
+            "groupId": 2202,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T2-iOS-导量组",
+            "groupId": 2202,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": " FB"
+        },
+        {
+            "groupName": "T2-iOS-广告组_加速回收",
+            "groupId": 2203,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-iOS-广告组_加速回收",
+            "groupId": 2203,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T2-iOS-广告组_加速回收",
+            "groupId": 2203,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "6",
+            "desc": "广告组_加速回收"
+        },
+        {
+            "groupName": "T2-iOS-广告组_标准",
+            "groupId": 2204,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-iOS-广告组_标准",
+            "groupId": 2204,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T2-iOS-广告组_标准",
+            "groupId": 2204,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "5",
+            "desc": "广告组_标准"
+        },
+        {
+            "groupName": "T2-iOS-新广告组",
+            "groupId": 2205,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-iOS-新广告组",
+            "groupId": 2205,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T2-iOS-新广告组",
+            "groupId": 2205,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "8",
+            "desc": "新广告组"
+        },
+        {
+            "groupName": "T2-iOS-广告组_兼顾内购",
+            "groupId": 2206,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-iOS-广告组_兼顾内购",
+            "groupId": 2206,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T2-iOS-广告组_兼顾内购",
+            "groupId": 2206,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "4",
+            "desc": "广告组_兼顾内购"
+        },
+        {
+            "groupName": "T2-iOS-内购组_广告增多",
+            "groupId": 2207,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-iOS-内购组_广告增多",
+            "groupId": 2207,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T2-iOS-内购组_广告增多",
+            "groupId": 2207,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "3",
+            "desc": "内购组_广告增多"
+        },
+        {
+            "groupName": "T2-iOS-内购组_标准",
+            "groupId": 2208,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-iOS-内购组_标准",
+            "groupId": 2208,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T2-iOS-内购组_标准",
+            "groupId": 2208,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "内购组_标准"
+        },
+        {
+            "groupName": "T2-iOS-新内购组",
+            "groupId": 2209,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-iOS-新内购组",
+            "groupId": 2209,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T2-iOS-新内购组",
+            "groupId": 2209,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "7",
+            "desc": "新内购组"
+        },
+        {
+            "groupName": "T2-iOS-内购组_无广告",
+            "groupId": 2210,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T2",
+            "desc": "T2国家"
+        },
+        {
+            "groupName": "T2-iOS-内购组_无广告",
+            "groupId": 2210,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T2-iOS-内购组_无广告",
+            "groupId": 2210,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "内购组_无广告"
+        },
+        {
+            "groupName": "T1-Android-自然量组或无信息",
+            "groupId": 3101,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-Android-自然量组或无信息",
+            "groupId": 3101,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T1-Android-导量组",
+            "groupId": 3102,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-Android-导量组",
+            "groupId": 3102,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T1-Android-导量组",
+            "groupId": 3102,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": " FB"
+        },
+        {
+            "groupName": "T1-Android-广告组_加速回收",
+            "groupId": 3103,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-Android-广告组_加速回收",
+            "groupId": 3103,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T1-Android-广告组_加速回收",
+            "groupId": 3103,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "6",
+            "desc": "广告组_加速回收"
+        },
+        {
+            "groupName": "T1-Android-广告组_标准",
+            "groupId": 3104,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-Android-广告组_标准",
+            "groupId": 3104,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T1-Android-广告组_标准",
+            "groupId": 3104,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "5",
+            "desc": "广告组_标准"
+        },
+        {
+            "groupName": "T1-Android-新广告组",
+            "groupId": 3105,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-Android-新广告组",
+            "groupId": 3105,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T1-Android-新广告组",
+            "groupId": 3105,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "8",
+            "desc": "新广告组"
+        },
+        {
+            "groupName": "T1-Android-广告组_兼顾内购",
+            "groupId": 3106,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-Android-广告组_兼顾内购",
+            "groupId": 3106,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T1-Android-广告组_兼顾内购",
+            "groupId": 3106,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "4",
+            "desc": "广告组_兼顾内购"
+        },
+        {
+            "groupName": "T1-Android-内购组_广告增多",
+            "groupId": 3107,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-Android-内购组_广告增多",
+            "groupId": 3107,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T1-Android-内购组_广告增多",
+            "groupId": 3107,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "3",
+            "desc": "内购组_广告增多"
+        },
+        {
+            "groupName": "T1-Android-内购组_标准",
+            "groupId": 3108,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-Android-内购组_标准",
+            "groupId": 3108,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T1-Android-内购组_标准",
+            "groupId": 3108,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "内购组_标准"
+        },
+        {
+            "groupName": "T1-Android-新内购组",
+            "groupId": 3109,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-Android-新内购组",
+            "groupId": 3109,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T1-Android-新内购组",
+            "groupId": 3109,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "7",
+            "desc": "新内购组"
+        },
+        {
+            "groupName": "T1-Android-内购组_无广告",
+            "groupId": 3110,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-Android-内购组_无广告",
+            "groupId": 3110,
+            "dataKey": "platform",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "android或无平台信息"
+        },
+        {
+            "groupName": "T1-Android-内购组_无广告",
+            "groupId": 3110,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "内购组_无广告"
+        },
+        {
+            "groupName": "T1-iOS-自然量组或无信息",
+            "groupId": 3201,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-iOS-自然量组或无信息",
+            "groupId": 3201,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T1-iOS-导量组",
+            "groupId": 3202,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-iOS-导量组",
+            "groupId": 3202,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T1-iOS-导量组",
+            "groupId": 3202,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": " FB"
+        },
+        {
+            "groupName": "T1-iOS-广告组_加速回收",
+            "groupId": 3203,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-iOS-广告组_加速回收",
+            "groupId": 3203,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T1-iOS-广告组_加速回收",
+            "groupId": 3203,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "6",
+            "desc": "广告组_加速回收"
+        },
+        {
+            "groupName": "T1-iOS-广告组_标准",
+            "groupId": 3204,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-iOS-广告组_标准",
+            "groupId": 3204,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T1-iOS-广告组_标准",
+            "groupId": 3204,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "5",
+            "desc": "广告组_标准"
+        },
+        {
+            "groupName": "T1-iOS-新广告组",
+            "groupId": 3205,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-iOS-新广告组",
+            "groupId": 3205,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T1-iOS-新广告组",
+            "groupId": 3205,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "8",
+            "desc": "新广告组"
+        },
+        {
+            "groupName": "T1-iOS-广告组_兼顾内购",
+            "groupId": 3206,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-iOS-广告组_兼顾内购",
+            "groupId": 3206,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T1-iOS-广告组_兼顾内购",
+            "groupId": 3206,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "4",
+            "desc": "广告组_兼顾内购"
+        },
+        {
+            "groupName": "T1-iOS-内购组_广告增多",
+            "groupId": 3207,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-iOS-内购组_广告增多",
+            "groupId": 3207,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T1-iOS-内购组_广告增多",
+            "groupId": 3207,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "3",
+            "desc": "内购组_广告增多"
+        },
+        {
+            "groupName": "T1-iOS-内购组_标准",
+            "groupId": 3208,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-iOS-内购组_标准",
+            "groupId": 3208,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T1-iOS-内购组_标准",
+            "groupId": 3208,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "内购组_标准"
+        },
+        {
+            "groupName": "T1-iOS-新内购组",
+            "groupId": 3209,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-iOS-新内购组",
+            "groupId": 3209,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T1-iOS-新内购组",
+            "groupId": 3209,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "7",
+            "desc": "新内购组"
+        },
+        {
+            "groupName": "T1-iOS-内购组_无广告",
+            "groupId": 3210,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1",
+            "desc": "T1国家"
+        },
+        {
+            "groupName": "T1-iOS-内购组_无广告",
+            "groupId": 3210,
+            "dataKey": "platform",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "ios",
+            "desc": "ios"
+        },
+        {
+            "groupName": "T1-iOS-内购组_无广告",
+            "groupId": 3210,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "内购组_无广告"
+        }
+    ],
+    "mapping": [
+        {
+            "id": 1,
+            "userGroup": 0,
+            "iapGroup": 1
+        },
+        {
+            "id": 2,
+            "userGroup": 1101,
+            "iapGroup": 1
+        },
+        {
+            "id": 3,
+            "userGroup": 1102,
+            "iapGroup": 1
+        },
+        {
+            "id": 4,
+            "userGroup": 1103,
+            "iapGroup": 1
+        },
+        {
+            "id": 5,
+            "userGroup": 1104,
+            "iapGroup": 1
+        },
+        {
+            "id": 6,
+            "userGroup": 1105,
+            "iapGroup": 1
+        },
+        {
+            "id": 7,
+            "userGroup": 1106,
+            "iapGroup": 1
+        },
+        {
+            "id": 8,
+            "userGroup": 1107,
+            "iapGroup": 1
+        },
+        {
+            "id": 9,
+            "userGroup": 1108,
+            "iapGroup": 1
+        },
+        {
+            "id": 10,
+            "userGroup": 1109,
+            "iapGroup": 1
+        },
+        {
+            "id": 11,
+            "userGroup": 1110,
+            "iapGroup": 1
+        },
+        {
+            "id": 12,
+            "userGroup": 1201,
+            "iapGroup": 1
+        },
+        {
+            "id": 13,
+            "userGroup": 1202,
+            "iapGroup": 1
+        },
+        {
+            "id": 14,
+            "userGroup": 1203,
+            "iapGroup": 1
+        },
+        {
+            "id": 15,
+            "userGroup": 1204,
+            "iapGroup": 1
+        },
+        {
+            "id": 16,
+            "userGroup": 1205,
+            "iapGroup": 1
+        },
+        {
+            "id": 17,
+            "userGroup": 1206,
+            "iapGroup": 1
+        },
+        {
+            "id": 18,
+            "userGroup": 1207,
+            "iapGroup": 1
+        },
+        {
+            "id": 19,
+            "userGroup": 1208,
+            "iapGroup": 1
+        },
+        {
+            "id": 20,
+            "userGroup": 1209,
+            "iapGroup": 1
+        },
+        {
+            "id": 21,
+            "userGroup": 1210,
+            "iapGroup": 1
+        },
+        {
+            "id": 22,
+            "userGroup": 2101,
+            "iapGroup": 1
+        },
+        {
+            "id": 23,
+            "userGroup": 2102,
+            "iapGroup": 1
+        },
+        {
+            "id": 24,
+            "userGroup": 2103,
+            "iapGroup": 1
+        },
+        {
+            "id": 25,
+            "userGroup": 2104,
+            "iapGroup": 1
+        },
+        {
+            "id": 26,
+            "userGroup": 2105,
+            "iapGroup": 1
+        },
+        {
+            "id": 27,
+            "userGroup": 2106,
+            "iapGroup": 1
+        },
+        {
+            "id": 28,
+            "userGroup": 2107,
+            "iapGroup": 1
+        },
+        {
+            "id": 29,
+            "userGroup": 2108,
+            "iapGroup": 1
+        },
+        {
+            "id": 30,
+            "userGroup": 2109,
+            "iapGroup": 1
+        },
+        {
+            "id": 31,
+            "userGroup": 2110,
+            "iapGroup": 1
+        },
+        {
+            "id": 32,
+            "userGroup": 2201,
+            "iapGroup": 1
+        },
+        {
+            "id": 33,
+            "userGroup": 2202,
+            "iapGroup": 1
+        },
+        {
+            "id": 34,
+            "userGroup": 2203,
+            "iapGroup": 1
+        },
+        {
+            "id": 35,
+            "userGroup": 2204,
+            "iapGroup": 1
+        },
+        {
+            "id": 36,
+            "userGroup": 2205,
+            "iapGroup": 1
+        },
+        {
+            "id": 37,
+            "userGroup": 2206,
+            "iapGroup": 1
+        },
+        {
+            "id": 38,
+            "userGroup": 2207,
+            "iapGroup": 1
+        },
+        {
+            "id": 39,
+            "userGroup": 2208,
+            "iapGroup": 1
+        },
+        {
+            "id": 40,
+            "userGroup": 2209,
+            "iapGroup": 1
+        },
+        {
+            "id": 41,
+            "userGroup": 2210,
+            "iapGroup": 1
+        },
+        {
+            "id": 42,
+            "userGroup": 3101,
+            "iapGroup": 1
+        },
+        {
+            "id": 43,
+            "userGroup": 3102,
+            "iapGroup": 1
+        },
+        {
+            "id": 44,
+            "userGroup": 3103,
+            "iapGroup": 1
+        },
+        {
+            "id": 45,
+            "userGroup": 3104,
+            "iapGroup": 1
+        },
+        {
+            "id": 46,
+            "userGroup": 3105,
+            "iapGroup": 1
+        },
+        {
+            "id": 47,
+            "userGroup": 3106,
+            "iapGroup": 1
+        },
+        {
+            "id": 48,
+            "userGroup": 3107,
+            "iapGroup": 1
+        },
+        {
+            "id": 49,
+            "userGroup": 3108,
+            "iapGroup": 1
+        },
+        {
+            "id": 50,
+            "userGroup": 3109,
+            "iapGroup": 1
+        },
+        {
+            "id": 51,
+            "userGroup": 3110,
+            "iapGroup": 1
+        },
+        {
+            "id": 52,
+            "userGroup": 3201,
+            "iapGroup": 1
+        },
+        {
+            "id": 53,
+            "userGroup": 3202,
+            "iapGroup": 1
+        },
+        {
+            "id": 54,
+            "userGroup": 3203,
+            "iapGroup": 1
+        },
+        {
+            "id": 55,
+            "userGroup": 3204,
+            "iapGroup": 1
+        },
+        {
+            "id": 56,
+            "userGroup": 3205,
+            "iapGroup": 1
+        },
+        {
+            "id": 57,
+            "userGroup": 3206,
+            "iapGroup": 1
+        },
+        {
+            "id": 58,
+            "userGroup": 3207,
+            "iapGroup": 1
+        },
+        {
+            "id": 59,
+            "userGroup": 3208,
+            "iapGroup": 1
+        },
+        {
+            "id": 60,
+            "userGroup": 3209,
+            "iapGroup": 1
+        },
+        {
+            "id": 61,
+            "userGroup": 3210,
+            "iapGroup": 1
+        }
+    ],
+    "removead": [
+        {
+            "id": 1,
+            "groupId": 100,
+            "unlockLevel": 10,
+            "shopId": [
+                3003,
+                3004
+            ]
+        },
+        {
+            "id": 2,
+            "groupId": 200,
+            "unlockLevel": 10,
+            "shopId": [
+                3001,
+                3002
+            ]
+        }
+    ]
+}

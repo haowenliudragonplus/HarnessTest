@@ -1,0 +1,2017 @@
+[
+    {
+        "key": "公式",
+        "value": null
+    },
+    {
+        "key": "Title"
+    },
+    {
+        "key": "Custom",
+        "value": "垂唯识核渲染尺寸触震陀螺市（端辨"
+    },
+    {
+        "key": "UI_button_login",
+        "value": "Conecte-se"
+    },
+    {
+        "key": "UI_common_text_LevelLabel",
+        "value": "Nível"
+    },
+    {
+        "key": "UI_level_desc_13",
+        "value": "Não, obrigado"
+    },
+    {
+        "key": "UI_level_desc_14",
+        "value": "Sair do nível"
+    },
+    {
+        "key": "UI_level_desc_15",
+        "value": "Você tem certeza que quer sair?"
+    },
+    {
+        "key": "UI_level_desc_16",
+        "value": "Você vai perder:"
+    },
+    {
+        "key": "UI_level_desc_17",
+        "value": "Desistir"
+    },
+    {
+        "key": "UI_level_desc_18",
+        "value": "Fique"
+    },
+    {
+        "key": "UI_level_desc_19",
+        "value": "Nível falhado!"
+    },
+    {
+        "key": "UI_level_desc_20",
+        "value": "Tente novamente"
+    },
+    {
+        "key": "UI_level_desc_21",
+        "value": "Retomar"
+    },
+    {
+        "key": "UI_level_desc_23",
+        "value": "Nível completo!"
+    },
+    {
+        "key": "UI_level_desc_level_fail_1",
+        "value": "Adicione mais tempo para continuar jogando!"
+    },
+    {
+        "key": "UI_level_desc_level_fail_2",
+        "value": "Limpe todos os itens para continuar jogando!"
+    },
+    {
+        "key": "UI_level_desc_24",
+        "value": "O tempo acabou!"
+    },
+    {
+        "key": "UI_level_desc_25",
+        "value": "Continue jogando"
+    },
+    {
+        "key": "UI_level_desc_26",
+        "value": "Fora do espaço!"
+    },
+    {
+        "key": "UI_level_desc_27",
+        "value": "Limpar barra"
+    },
+    {
+        "key": "UI_level_desc_28",
+        "value": "Pausa"
+    },
+    {
+        "key": "UI_level_desc_29",
+        "value": "Obtenha mais vidas"
+    },
+    {
+        "key": "UI_level_desc_30",
+        "value": "Você pode obter vidas rapidamente das seguintes maneiras."
+    },
+    {
+        "key": "UI_level_desc_31",
+        "value": "Recarga"
+    },
+    {
+        "key": "UI_level_desc_32",
+        "value": "Vidas Gratuitas"
+    },
+    {
+        "key": "UI_button_watch",
+        "value": "Assistir"
+    },
+    {
+        "key": "UI_button_cancel",
+        "value": "Cancelar"
+    },
+    {
+        "key": "UI_button_do_it",
+        "value": "Faça"
+    },
+    {
+        "key": "UI_button_collect",
+        "value": "coletar"
+    },
+    {
+        "key": "UI_common_lives_desc",
+        "value": "Vidas"
+    },
+    {
+        "key": "UI_common_lives",
+        "value": "Vidas"
+    },
+    {
+        "key": "UI_common_lives_max",
+        "value": "Vidas ilimitadas"
+    },
+    {
+        "key": "UI_common_teams",
+        "value": "Equipes"
+    },
+    {
+        "key": "UI_common_rank",
+        "value": "Classificação"
+    },
+    {
+        "key": "UI_common_offline",
+        "value": "desligada"
+    },
+    {
+        "key": "UI_common_new",
+        "value": "Novo"
+    },
+    {
+        "key": "UI_level_desc_33",
+        "value": "OVNI "
+    },
+    {
+        "key": "UI_iap_coin_desc_1",
+        "value": "Moedas"
+    },
+    {
+        "key": "UI_shop_purchase_2",
+        "value": "COMPLETADO!"
+    },
+    {
+        "key": "UI_shop_purchase_1",
+        "value": "Sua compra foi concluída!"
+    },
+    {
+        "key": "UI_purchase_failed_title",
+        "value": "A compra falhou!"
+    },
+    {
+        "key": "UI_purchase_failed_content",
+        "value": "Sua conta não foi cobrada!"
+    },
+    {
+        "key": "UI_common_text_one_line1",
+        "value": "1 linha"
+    },
+    {
+        "key": "UI_common_text_one_line3",
+        "value": "Em breve!"
+    },
+    {
+        "key": "UI_common_text_one_line4",
+        "value": "Sem levantar o dedo e linhas sobrepostas"
+    },
+    {
+        "key": "UI_common_text_one_line6",
+        "value": "Alcance o nível {0} do jogo correspondente para desbloquear o próximo nível"
+    },
+    {
+        "key": "UI_HAPPYSHAVE_17",
+        "value": "Não desbloqueado"
+    },
+    {
+        "key": "UI_drink_game_1",
+        "value": "Desenhe% de linhas não sobrepostas e pegue toda a água dos cervos!"
+    },
+    {
+        "key": "UI_drink_game_2",
+        "value": "TENTE NOVAMENTE?"
+    },
+    {
+        "key": "UI_drink_game_3",
+        "value": "Tente novamente e ganhe todas as recompensas!"
+    },
+    {
+        "key": "UI_brain_title",
+        "value": "Cano de água"
+    },
+    {
+        "key": "UI_drink_game_4",
+        "value": "AJUDA!"
+    },
+    {
+        "key": "UI_mini_game_play_again",
+        "value": "Jogar de novo"
+    },
+    {
+        "key": "UI_common_decorate_star",
+        "value": "falta de estrelas"
+    },
+    {
+        "key": "UI_button_loading_ADS",
+        "value": "Carregar anúncios..."
+    },
+    {
+        "key": "UI_ support_1",
+        "value": "E-mail:"
+    },
+    {
+        "key": "UI_ support_2",
+        "value": "Digite o Texto"
+    },
+    {
+        "key": "UI_ support_3",
+        "value": "Mandar"
+    },
+    {
+        "key": "UI_likeus_1",
+        "value": "Como nós"
+    },
+    {
+        "key": "UI_likeus_2",
+        "value": "Bônus:"
+    },
+    {
+        "key": "UI_likeus_3",
+        "value": "Curta-nos no Facebook"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "Opinião"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "Mostra o teu amor\n dando partida na ilha"
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "Enviar"
+    },
+    {
+        "key": "UI_feedback_5",
+        "value": "Na verdade"
+    },
+    {
+        "key": "UI_feedback_8",
+        "value": "Enviar"
+    },
+    {
+        "key": "UI_feedback_9",
+        "value": "Na verdade"
+    },
+    {
+        "key": "UI_rate_us_5stars",
+        "value": "<color=#FDE74E>5 estrelas</color>"
+    },
+    {
+        "key": "UI_facebook_1",
+        "value": "Facebook"
+    },
+    {
+        "key": "UI_facebook_2",
+        "value": "Faça login com fb pela primeira vez\n tempo, você receberá:"
+    },
+    {
+        "key": "UI_facebook_3",
+        "value": "Sincronize seu progresso no jogo entre dispositivos\n e continuar jogando a qualquer momento"
+    },
+    {
+        "key": "UI_facebook_4",
+        "value": "Conectar"
+    },
+    {
+        "key": "UI_login_tip1",
+        "value": "A versão do seu jogo é muito baixa, atualize o jogo e tente novamente."
+    },
+    {
+        "key": "UI_login_tip1_btn",
+        "value": "Atualizar"
+    },
+    {
+        "key": "UI_login_tip_delete_account",
+        "value": "Sua solicitação para excluir sua conta foi processada. Ainda tem certeza de que deseja excluir sua conta do jogo?"
+    },
+    {
+        "key": "ui_fte_1001",
+        "value": "Consertar a doca quebrada requer algumas estrelas, ganhe estrelas por níveis completos!"
+    },
+    {
+        "key": "guide_enter_amsr",
+        "value": "Continue e ajude Aurora a curar seus ouvidos."
+    },
+    {
+        "key": "ui_fte_1039",
+        "value": "Continue a ajudar Aurora a se recuperar de sua doença."
+    },
+    {
+        "key": "ui_fte_1008",
+        "value": "Quando tiver coletado estrelas suficientes, toque nela para concluir suas tarefas."
+    },
+    {
+        "key": "UI_levelstart_level_empty",
+        "value": "Nível"
+    },
+    {
+        "key": "UI_BUTTON_Ok",
+        "value": "OK"
+    },
+    {
+        "key": "UI_ck_gamelose_button_leave",
+        "value": "Sair"
+    },
+    {
+        "key": "UI_button_yes",
+        "value": "Sim"
+    },
+    {
+        "key": "UI_button_no",
+        "value": "Não"
+    },
+    {
+        "key": "UI_choose_progress_now",
+        "value": "Uso atual"
+    },
+    {
+        "key": "UI_choose_progress_last",
+        "value": "Última sincronização:"
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_later",
+        "value": "Pense de novo"
+    },
+    {
+        "key": "UI_choose_progress_confirm_desc",
+        "value": "Se deseja confirmar para selecionar o arquivo para sincronização, digite \"111\" e clique em Confirmar."
+    },
+    {
+        "key": "UI_choose_progress_confirm_tip",
+        "value": "Dica: outro arquivo será excluído após a seleção, escolha com cuidado"
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_confirm",
+        "value": "confirme"
+    },
+    {
+        "key": "UI_choose_progress_recommend",
+        "value": "recomendar"
+    },
+    {
+        "key": "UI_progress_1",
+        "value": "Seleção de Progresso"
+    },
+    {
+        "key": "UI_progress_2",
+        "value": "Que progresso você\n quer manter?"
+    },
+    {
+        "key": "UI_progress_3",
+        "value": "No seu dispositivo:"
+    },
+    {
+        "key": "UI_progress_4",
+        "value": "No servidor:"
+    },
+    {
+        "key": "UI_ck_exit_text1",
+        "value": "Tem certeza?"
+    },
+    {
+        "key": "UI_update_app_desc_text",
+        "value": "Se uma nova versão for encontrada, vá até a loja para baixar a atualização. Faça login após a atualização para desbloquear mais conteúdo do jogo."
+    },
+    {
+        "key": "UI_update_app_btn_update",
+        "value": "Melhorar"
+    },
+    {
+        "key": "UI_update_app_btn_later",
+        "value": "Mais tarde"
+    },
+    {
+        "key": "UI_store_energy_full_text",
+        "value": "CHEIO"
+    },
+    {
+        "key": "UI_shop_title",
+        "value": "LOJA"
+    },
+    {
+        "key": "UI_shop_more",
+        "value": "Mais\n ofertas!"
+    },
+    {
+        "key": "UI_shop_fail_title",
+        "value": "Conexão perdida"
+    },
+    {
+        "key": "UI_shop_fail_explain",
+        "value": "Verifique sua conexão com a Internet."
+    },
+    {
+        "key": "UI_Shop_ADS",
+        "value": "Assistir"
+    },
+    {
+        "key": "UI_button_connected",
+        "value": "Conectado"
+    },
+    {
+        "key": "UI_update_reward_title",
+        "value": "Recompensa de atualização:"
+    },
+    {
+        "key": "UI_update_btn_update",
+        "value": "Melhorar"
+    },
+    {
+        "key": "UI_update_btn_later",
+        "value": "Mais tarde"
+    },
+    {
+        "key": "UI_update_btn_claim",
+        "value": "Reivindicar"
+    },
+    {
+        "key": "UI_store_common_offlineerr_text",
+        "value": "Os pagamentos não estão disponíveis enquanto está off-line. Conecte-se à internet e tente de novo."
+    },
+    {
+        "key": "UI_errmsg_duplicate_login_native",
+        "value": "O jogo foi aberto em outro dispositivo. Para jogar em outro dispositivo, feche esse jogo. Para continuar jogando aqui, clique em ‘OK’ e o jogo será reiniciado."
+    },
+    {
+        "key": "UI_profile_force_use_server_profile_desc",
+        "value": "Recuperamos seu perfil de jogo, vamos continuar o jogo!"
+    },
+    {
+        "key": "UI_update_app_title1",
+        "value": "Novos conteúdos"
+    },
+    {
+        "key": "UI_update_app_title2",
+        "value": "nova versão"
+    },
+    {
+        "key": "UI_update_app_title3",
+        "value": "atualização completa"
+    },
+    {
+        "key": "UI_bind_fb_fail_authen_error_text",
+        "value": "Falha ao vincular o Facebook, erro de autenticação."
+    },
+    {
+        "key": "UI_quit_game_tips_text",
+        "value": "Gostaria de sair?"
+    },
+    {
+        "key": "UI_gift_limit_tips_pre_text",
+        "value": "Você só pode receber até"
+    },
+    {
+        "key": "UI_gift_limit_tips_after_text",
+        "value": "energias de amigos por dia."
+    },
+    {
+        "key": "UI_take_your_reward_text",
+        "value": "Aqui está a sua recompensa"
+    },
+    {
+        "key": "UI_choose_language_tip_desc",
+        "value": "Foi detectado que o idioma atual do seu jogo é diferente do idioma do seu celular. Selecione o idioma do jogo. Você também pode mudar o idioma mais tarde em “Configurações”."
+    },
+    {
+        "key": "UI_common_download",
+        "value": "Baixar"
+    },
+    {
+        "key": "UI_common_free",
+        "value": "Grátis"
+    },
+    {
+        "key": "UI_common_free2",
+        "value": "Grátis+{0}s"
+    },
+    {
+        "key": "UI_common_iap",
+        "value": "Você cancelou a compra, pode escolher o pacote que deseja para continuar comprando!"
+    },
+    {
+        "key": "UI_daily_bonus_day",
+        "value": "Dia {0}"
+    },
+    {
+        "key": "UI_purchase_failed",
+        "value": "Falha na compra. Tentar novamente?"
+    },
+    {
+        "key": "UI_level_goals_complete",
+        "value": "Metas concluídas!"
+    },
+    {
+        "key": "UI_upgrade_locked_text",
+        "value": "Bloqueado"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Title",
+        "value": "Sair"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Content",
+        "value": "Quer sair do jogo?"
+    },
+    {
+        "key": "UI_POPUP_EXIT_BUTTON_Exit",
+        "value": "Sair"
+    },
+    {
+        "key": "UI_POPUP_RESERROR_Content",
+        "value": "Os recursos estão sendo baixados. Tente novamente."
+    },
+    {
+        "key": "UI_POPUP_SAVE_Content",
+        "value": "Salvo!"
+    },
+    {
+        "key": "UI_POPUP_BUY_Fail_Content",
+        "value": "A compra falhou!"
+    },
+    {
+        "key": "UI_CHOOSE_PROFILE_POPUP_SUCCESS_Content",
+        "value": "Seu perfil foi restaurado com sucesso! Aproveite o jogo!"
+    },
+    {
+        "key": "UI_MULTIDEVICE_LOGIN_Msg",
+        "value": "Você jogou o jogo em outro dispositivo. Para jogar naquele dispositivo, saia deste agora. Para jogar aqui, toque em “OK”. O jogo será reiniciado."
+    },
+    {
+        "key": "UI_NEEDUPDATE_Msg",
+        "value": "Uma nova versão está disponível. Faça a atualização!"
+    },
+    {
+        "key": "UI_NTWORKOVERTIME_Content",
+        "value": "Status de rede instável. Tente novamente."
+    },
+    {
+        "key": "UI_NTWORKXNET_Title",
+        "value": "Sem rede"
+    },
+    {
+        "key": "UI_NTWORKXNET_Content",
+        "value": "Verifique o status da rede do seu dispositivo e faça login no jogo novamente."
+    },
+    {
+        "key": "UI_POPUP_NOADS_Title",
+        "value": "Desculpe"
+    },
+    {
+        "key": "UI_POPUP_NOADS_Content",
+        "value": "Os anúncios estão a caminho,\n tente novamente mais tarde!"
+    },
+    {
+        "key": "UI_download_resources_error",
+        "value": "Falha ao conectar-se ao servidor. Verifique a conexão com a internet."
+    },
+    {
+        "key": "UI_no_internet_tips",
+        "value": "Falha ao conectar-se ao servidor. Verifique a conexão com a internet."
+    },
+    {
+        "key": "UI_privacy_title_native",
+        "value": "Aceitar a política de privacidade"
+    },
+    {
+        "key": "UI_privacy_message_native",
+        "value": "Para continuar jogando, você precisa confirmar e aceitar a nossa política de privacidade."
+    },
+    {
+        "key": "UI_privacy_btn_link_title_native",
+        "value": "Política de privacidade"
+    },
+    {
+        "key": "UI_privacy_btn_agree_title_native",
+        "value": "Eu aceito"
+    },
+    {
+        "key": "UI_download_fail_title",
+        "value": "Conexão perdida"
+    },
+    {
+        "key": "UI_download_fail_text",
+        "value": "Falha no download dos recursos necessários para continuar o jogo. Verifique sua conexão com a Internet e tente novamente."
+    },
+    {
+        "key": "UI_download_fail_button",
+        "value": "Tentar novamente"
+    },
+    {
+        "key": "UI_rateus_title_text",
+        "value": "Avaliação do jogo"
+    },
+    {
+        "key": "UI_rateus_ios_desc_text",
+        "value": "Se você gosta deste jogo, você se importaria de dar a ele uma classificação de cinco estrelas? Não vai demorar muito, mas vai nos ajudar muito. Obrigado."
+    },
+    {
+        "key": "UI_rateus_ios_later_text",
+        "value": "Lembre-me mais tarde"
+    },
+    {
+        "key": "UI_rateus_ios_no_text",
+        "value": "Não, obrigado."
+    },
+    {
+        "key": "UI_sensitivewords_notice",
+        "value": "As informações inseridas contêm palavras sensíveis, modifique-as!"
+    },
+    {
+        "key": "UI_storagefull_notice_text",
+        "value": "Ops, o armazenamento do celular está cheio. Limpe-o e tente novamente."
+    },
+    {
+        "key": "UI_bind_Apple_fail_authen_error_text",
+        "value": "falha ao vincular o Apple, erro de autenticação."
+    },
+    {
+        "key": "UI_Apple_accesstoken_ru_pwchange_text",
+        "value": "falha ao entrar com Apple. tente novamente."
+    },
+    {
+        "key": "UI_fb_accesstoken_ru_pwchange_text",
+        "value": "Falha ao entrar com Facebook. Tente novamente."
+    },
+    {
+        "key": "UI_Shop_Tab1",
+        "value": "Moedas"
+    },
+    {
+        "key": "UI_Shop_Tab2",
+        "value": "Normal"
+    },
+    {
+        "key": "UI_Shop_Tab3",
+        "value": "Especial"
+    },
+    {
+        "key": "UI_Shop_Text1",
+        "value": "Restante {0}"
+    },
+    {
+        "key": "UI_Shop_Text1_0",
+        "value": "Restante 0"
+    },
+    {
+        "key": "UI_Shop_Text2",
+        "value": "Desconto"
+    },
+    {
+        "key": "UI_Shop_Btn1",
+        "value": "Comprar"
+    },
+    {
+        "key": "UI_Shop_Text3",
+        "value": "Bloqueado"
+    },
+    {
+        "key": "UI_Shop_Text4",
+        "value": "Esgotado"
+    },
+    {
+        "key": "UI_Shop_Tip1",
+        "value": "Itens esgotados, por favor volte mais tarde"
+    },
+    {
+        "key": "UI_Shop_Tip2",
+        "value": "Funda mais vezes para desbloquear este item"
+    },
+    {
+        "key": "UI_button_continue",
+        "value": "Continuar"
+    },
+    {
+        "key": "UI_button_next",
+        "value": "Continuar"
+    },
+    {
+        "key": "UI_parkour_level_id",
+        "value": "Nível {0}"
+    },
+    {
+        "key": "UI_level_selectbooster",
+        "value": "Selecionar Booster"
+    },
+    {
+        "key": "UI_button_area",
+        "value": "Área {0}"
+    },
+    {
+        "key": "UI_button_house",
+        "value": "Casa {0}"
+    },
+    {
+        "key": "UI_button_house_title",
+        "value": "Tarefa"
+    },
+    {
+        "key": "UI_button_house_pragess",
+        "value": "Progresso da Área"
+    },
+    {
+        "key": "UI_house_title1",
+        "value": "Casa"
+    },
+    {
+        "key": "UI_TimeFormatWithDay",
+        "value": "{0:00}D {1:00}H"
+    },
+    {
+        "key": "UI_TimeFormatWithHour",
+        "value": "{0:00}H {1:00}M"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute",
+        "value": "{0:00}M {1:00}s"
+    },
+    {
+        "key": "UI_button_claim_text",
+        "value": "Alegar"
+    },
+    {
+        "key": "UI_button_later",
+        "value": "Mais tarde"
+    },
+    {
+        "key": "UI_rateus_ios_rate_text",
+        "value": "Avalie agora"
+    },
+    {
+        "key": "UI_PayRegion_Btn1",
+        "value": "Comprar"
+    },
+    {
+        "key": "UI_button_play",
+        "value": "Jogar"
+    },
+    {
+        "key": "UI_SpecialLevel_Map_title",
+        "value": "Mapa"
+    },
+    {
+        "key": "UI_FindTM_Unlock_Des",
+        "value": "Lv {0}"
+    },
+    {
+        "key": "UI_button_house_btn_tips",
+        "value": "Casa"
+    },
+    {
+        "key": "UI_button_ASMR_btn_tips",
+        "value": "Desafio"
+    },
+    {
+        "key": "UI_makeover_pragess",
+        "value": "Progresso de Beleza"
+    },
+    {
+        "key": "UI_build_title",
+        "value": "Casa"
+    },
+    {
+        "key": "UI_makeover_title",
+        "value": "Mini jogo"
+    },
+    {
+        "key": "UI_makeover_tips",
+        "value": "Desbloqueie mais níveis para obter mais recompensas"
+    },
+    {
+        "key": "UI_makeover_win_title",
+        "value": "COMPLETADO!"
+    },
+    {
+        "key": "UI_makeover_reward",
+        "value": "Recompensa:"
+    },
+    {
+        "key": "UI_UnlockReward_Title1",
+        "value": "Nova área desbloqueada"
+    },
+    {
+        "key": "UI_makeover_get",
+        "value": "Obter mais"
+    },
+    {
+        "key": "UI_common_home",
+        "value": "Lar"
+    },
+    {
+        "key": "UI_common_Island",
+        "value": "Lar"
+    },
+    {
+        "key": "UI_common_shop",
+        "value": "Lar"
+    },
+    {
+        "key": "UI_ASMR_coming_tips",
+        "value": "Vai ser iniciado"
+    },
+    {
+        "key": "UI_ASMR_button_cannot_play",
+        "value": "Passe o nível anterior"
+    },
+    {
+        "key": "UI_level_desc_add",
+        "value": "O tempo acabou!"
+    },
+    {
+        "key": "UI_common_box_tittle",
+        "value": "Perceber"
+    },
+    {
+        "key": "UI_cannot_connect_to_itunes_store",
+        "value": "Falha ao conectar-se à iTunes Store! Tente novamente mais tarde."
+    },
+    {
+        "key": "UI_cannot_connect_to_google_play",
+        "value": "Falha ao conectar-se ao Google Play! Tente novamente mais tarde."
+    },
+    {
+        "key": "UI_common_notice",
+        "value": "Perceber"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_1",
+        "value": "Remover propagandas"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_2",
+        "value": "Pacote Duplo"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_1",
+        "value": "Ocultar anúncios sem recompensa"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_2",
+        "value": "{0}Moedas"
+    },
+    {
+        "key": "UI_iap_market_1",
+        "value": "Oferta limitada"
+    },
+    {
+        "key": "UI_iap_market_2",
+        "value": "Mais popular"
+    },
+    {
+        "key": "UI_iap_market_3",
+        "value": "Melhor preço"
+    },
+    {
+        "key": "UI_shop_moreoffers",
+        "value": "Mais Ofertas"
+    },
+    {
+        "key": "UI_button_go",
+        "value": "Visão"
+    },
+    {
+        "key": "UI_common_function_locked_tip",
+        "value": "Desbloquear após completar o nível 21"
+    },
+    {
+        "key": "UI_common_finish_tip",
+        "value": "Em breve!"
+    },
+    {
+        "key": "UI_loading_loadStr",
+        "value": "Carregando...{0}%"
+    },
+    {
+        "key": "adbox_no_reward",
+        "value": "O anúncio ainda não foi carregado completamente."
+    },
+    {
+        "key": "UI_common_time_month",
+        "value": "M"
+    },
+    {
+        "key": "UI_common_time_week",
+        "value": "W"
+    },
+    {
+        "key": "UI_common_time_h",
+        "value": "H"
+    },
+    {
+        "key": "UI_common_time_m",
+        "value": "M"
+    },
+    {
+        "key": "UI_common_time_d",
+        "value": "D"
+    },
+    {
+        "key": "UI_common_time_s",
+        "value": "s"
+    },
+    {
+        "key": "UI_TimeFormatWithDay_2",
+        "value": "{0:00}d:{1:00}h"
+    },
+    {
+        "key": "UI_TimeFormatWithHour_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_level_desc_40",
+        "value": "Limpar todos os itens na barra de eliminação."
+    },
+    {
+        "key": "UI_level_desc_41",
+        "value": "O item não pode ser usado"
+    },
+    {
+        "key": "UI_iap_pack_name_icebreakgift",
+        "value": "Pacote Surpresa"
+    },
+    {
+        "key": "UI_iap_pack_num_per",
+        "value": "{0}%"
+    },
+    {
+        "key": "guide_world_1033",
+        "value": "Vamos jogar um jogo!"
+    },
+    {
+        "key": "UI_fb_login_fail_tips",
+        "value": "Falha no login! Por favor, conecte-se à rede e tente novamente!"
+    },
+    {
+        "key": "UI_level_desc_42",
+        "value": "Item indisponível e não pode ser clicado!"
+    },
+    {
+        "key": "UI_iap_pack_num_2",
+        "value": "80%"
+    },
+    {
+        "key": "UI_iap_pack_num_scale_2",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_iap_pack_name_new_2",
+        "value": "Pacote Mágico"
+    },
+    {
+        "key": "UI_activity_end_tips",
+        "value": "atividade termina"
+    },
+    {
+        "key": "UI_settings_on",
+        "value": "ON"
+    },
+    {
+        "key": "UI_settings_off",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_settings_autoMatch",
+        "value": "Combinação automática"
+    },
+    {
+        "key": "UI_settings_autoComplete",
+        "value": "Autocompletar"
+    },
+    {
+        "key": "UI_settings_free",
+        "value": "Destacar peças livres"
+    },
+    {
+        "key": "UI_settings_play",
+        "value": "Como jogar"
+    },
+    {
+        "key": "UI_settings_iap_no_ad",
+        "value": "Sem anúncios"
+    },
+    {
+        "key": "UI_settings_Restart",
+        "value": "Reiniciar"
+    },
+    {
+        "key": "UI_setting_ language",
+        "value": "Língua"
+    },
+    {
+        "key": "UI_setting_ support",
+        "value": "Apoio, suporte"
+    },
+    {
+        "key": "UI_setting_ Facebook",
+        "value": "Facebook"
+    },
+    {
+        "key": "UI_setting_version",
+        "value": "Versão:"
+    },
+    {
+        "key": "UI_setting_user_id",
+        "value": "UID:"
+    },
+    {
+        "key": "UI_setting_common_1",
+        "value": "Restaurar compra"
+    },
+    {
+        "key": "UI_setting_common_2",
+        "value": "Seu privilégio sem anúncios foi restaurado com sucesso, vamos continuar jogando!"
+    },
+    {
+        "key": "UI_setting_common_3",
+        "value": "No momento, você não tem privilégios recuperáveis, primeiro você precisa comprar o pacote anti-publicidade correspondente."
+    },
+    {
+        "key": "UI_common_text_ScoreLabel",
+        "value": "Pontuação"
+    },
+    {
+        "key": "UI_common_text_MatchesLabel",
+        "value": "Pares"
+    },
+    {
+        "key": "UI_contactus_panel_title",
+        "value": "Contate Nos"
+    },
+    {
+        "key": "UI_contactus_panel_email_textbox_text",
+        "value": "Digite seu endereço de e-mail aqui"
+    },
+    {
+        "key": "UI_contactus_panel_input_textbox_text",
+        "value": "Digite sua mensagem aqui"
+    },
+    {
+        "key": "UI_contactus_panel_email_err_text",
+        "value": "Insira um endereço de e-mail válido"
+    },
+    {
+        "key": "UI_contactus_panel_input_popup_text",
+        "value": "Digite sua mensagem aqui"
+    },
+    {
+        "key": "UI_contactus_panel_send_err_text",
+        "value": "Falha no envio, tente novamente"
+    },
+    {
+        "key": "UI_settings_button_save_ios",
+        "value": "Salvar progresso"
+    },
+    {
+        "key": "UI_save_ios_title",
+        "value": "Salvar seu progresso"
+    },
+    {
+        "key": "UI_save_ios_text",
+        "value": "Faça login para salvar seu progresso."
+    },
+    {
+        "key": "UI_save_ios_button_apple",
+        "value": "Iniciar sessão com a Apple"
+    },
+    {
+        "key": "UI_save_ios_button_fb",
+        "value": "Fazer login com o Facebook"
+    },
+    {
+        "key": "UI_save_ios_button_tip",
+        "value": "Fazer login com o Facebook"
+    },
+    {
+        "key": "UI_login_button_delete_account",
+        "value": "Excluir conta"
+    },
+    {
+        "key": "UI_login_tip_delete_account_7days",
+        "value": "Seu pedido de exclusão foi enviado com sucesso. A conta será excluída em 7 dias."
+    },
+    {
+        "key": "UI_login_tip_delete_account_title",
+        "value": "Excluir arquivo de armazenamento?"
+    },
+    {
+        "key": "UI_login_tip_delete_account_tips",
+        "value": "Este processo é irreversível"
+    },
+    {
+        "key": "UI_delete_txt1",
+        "value": "Você realmente deseja excluir todos os dados pessoais salvos?<color=#FF322B> (Esta ação não pode ser desfeita)</color>"
+    },
+    {
+        "key": "UI_PrivacyPolicy_1",
+        "value": "Aceitar Política de Privacidade"
+    },
+    {
+        "key": "UI_PrivacyPolicy_2",
+        "value": "Antes de continuar o jogo, você precisa concordar com nossa Política de Privacidade e Termos de Serviço:"
+    },
+    {
+        "key": "UI_PrivacyPolicy_3",
+        "value": "Política de Privacidade"
+    },
+    {
+        "key": "UI_PrivacyPolicy_4",
+        "value": "Concordo"
+    },
+    {
+        "key": "UI_PrivacyPolicy_5",
+        "value": "Termos de serviço"
+    },
+    {
+        "key": "UI_level_desc_22",
+        "value": "Definições"
+    },
+    {
+        "key": "UI_Comb_prefect",
+        "value": "Bônus de Combo Perfeito!"
+    },
+    {
+        "key": "UI_Locked_left",
+        "value": "Trancado dos dois lados"
+    },
+    {
+        "key": "UI_Locked_top",
+        "value": "Trancado por cima"
+    },
+    {
+        "key": "UI_hard_tip",
+        "value": "Hard"
+    },
+    {
+        "key": "UI_tip_loading_text",
+        "value": "Carregando... por favor, aguarde"
+    },
+    {
+        "key": "UI_Shuffle_get_one",
+        "value": "Obtenha um"
+    },
+    {
+        "key": "UI_Hint_tip_01",
+        "value": "Assista a um vídeo para obter uma dica"
+    },
+    {
+        "key": "UI_Return_tip",
+        "value": "Este é o primeiro passo"
+    },
+    {
+        "key": "UI_restart_title",
+        "value": "Sem correspondência"
+    },
+    {
+        "key": "UI_restart_tip",
+        "value": "Usar embaralhamento?"
+    },
+    {
+        "key": "UI_restart_shuffle",
+        "value": "Embaralhar -1"
+    },
+    {
+        "key": "UI_restart_shuffle_none",
+        "value": "Sem embaralhamento!"
+    },
+    {
+        "key": "UI_button_tip",
+        "value": "OK"
+    },
+    {
+        "key": "UI_button_tip_1",
+        "value": "Próximo"
+    },
+    {
+        "key": "UI_button_ok",
+        "value": "OK"
+    },
+    {
+        "key": "UI_choose_progress_title_text",
+        "value": "SELEÇÃO DE PROGRESSO"
+    },
+    {
+        "key": "UI_choose_progress_desc_main_text",
+        "value": "Qual progresso gostaria de manter?"
+    },
+    {
+        "key": "UI_choose_progress_on_server",
+        "value": "No servidor:"
+    },
+    {
+        "key": "UI_choose_progress_on_device",
+        "value": "No seu dispositivo:"
+    },
+    {
+        "key": "UI_choose_progress_button_server",
+        "value": "Servidor"
+    },
+    {
+        "key": "UI_choose_progress_button_device",
+        "value": "Seu dispositivo"
+    },
+    {
+        "key": "UI_loading_upgrade",
+        "value": "Atualizando...{0} {1}"
+    },
+    {
+        "key": "UI_return_reward_help_target",
+        "value": "Nível {0}"
+    },
+    {
+        "key": "UI_Daily_title",
+        "value": "Diário"
+    },
+    {
+        "key": "UI_Daily_title_1",
+        "value": "Desafio Diário"
+    },
+    {
+        "key": "UI_skin_Theme",
+        "value": "Tema"
+    },
+    {
+        "key": "UI_skin_Tiles",
+        "value": "Peças"
+    },
+    {
+        "key": "UI_skin_Backgroud",
+        "value": "Fundo"
+    },
+    {
+        "key": "UI_skin_simple",
+        "value": "Simples"
+    },
+    {
+        "key": "UI_skin_poker",
+        "value": "Pôquer"
+    },
+    {
+        "key": "UI_skin_old",
+        "value": "Tradição"
+    },
+    {
+        "key": "UI_game_daily_week1",
+        "value": "Mon"
+    },
+    {
+        "key": "UI_game_daily_week2",
+        "value": "Tues"
+    },
+    {
+        "key": "UI_game_daily_week3",
+        "value": "Wed"
+    },
+    {
+        "key": "UI_game_daily_week4",
+        "value": "Thur"
+    },
+    {
+        "key": "UI_game_daily_week5",
+        "value": "Fri"
+    },
+    {
+        "key": "UI_game_daily_week6",
+        "value": "Sat"
+    },
+    {
+        "key": "UI_game_daily_week7",
+        "value": "Sun"
+    },
+    {
+        "key": "UI_game_daily_date",
+        "value": "date"
+    },
+    {
+        "key": "UI_game_daily_month1",
+        "value": "Jan."
+    },
+    {
+        "key": "UI_game_daily_month2",
+        "value": "Feb."
+    },
+    {
+        "key": "UI_game_daily_month3",
+        "value": "Mar."
+    },
+    {
+        "key": "UI_game_daily_month4",
+        "value": "Apr."
+    },
+    {
+        "key": "UI_game_daily_month5",
+        "value": "May."
+    },
+    {
+        "key": "UI_game_daily_month6",
+        "value": "June."
+    },
+    {
+        "key": "UI_game_daily_month7",
+        "value": "July."
+    },
+    {
+        "key": "UI_game_daily_month8",
+        "value": "Aug."
+    },
+    {
+        "key": "UI_game_daily_month9",
+        "value": "Sept."
+    },
+    {
+        "key": "UI_game_daily_month10",
+        "value": "Oct."
+    },
+    {
+        "key": "UI_game_daily_month11",
+        "value": "Nov."
+    },
+    {
+        "key": "UI_game_daily_month12",
+        "value": "Dec."
+    },
+    {
+        "key": "UI_daily_Btn1",
+        "value": "Desafio"
+    },
+    {
+        "key": "UI_daily_Tip_2",
+        "value": "Sala de Flores"
+    },
+    {
+        "key": "UI_button_task_title",
+        "value": "Tarefa"
+    },
+    {
+        "key": "UI_common_level",
+        "value": "Nível {0}"
+    },
+    {
+        "key": "UI_common_unlock",
+        "value": "Bloqueado!"
+    },
+    {
+        "key": "UI_revive_title",
+        "value": "Sem Espaço!"
+    },
+    {
+        "key": "UI_new_tip_1",
+        "value": "Toque na seta de movimento"
+    },
+    {
+        "key": "UI_new_tip_2",
+        "value": "Use dois dedos para ampliar/reduzir"
+    },
+    {
+        "key": "UI_new_tip_3",
+        "value": "Linhas-guia podem ajudar você a completar o nível!"
+    },
+    {
+        "key": "UI_new_tip_4",
+        "value": "Use <color=#299200>Adicionar Slot</color> para criar novos espaços vazios!"
+    },
+    {
+        "key": "UI_new_tip_5",
+        "value": "Use <color=#299200>Dica</color> para coletar <color=#299200>3</color> peças de Mahjong correspondentes!"
+    },
+    {
+        "key": "UI_new_tip_6",
+        "value": "Use <color=#299200>Limpeza</color> para remover peças da área de retenção!"
+    },
+    {
+        "key": "Purchase_Failed_Title",
+        "value": "Falha na compra!"
+    },
+    {
+        "key": "Purchase_Failed_Desc",
+        "value": "A compra falhou!"
+    },
+    {
+        "key": "UI_common_button_continue",
+        "value": "Continuar"
+    },
+    {
+        "key": "UI_revive_continue_title",
+        "value": "Continuar"
+    },
+    {
+        "key": "UI_revive_continue_tips",
+        "value": "Restaure o HP e continue o jogo!"
+    },
+    {
+        "key": "UI_revive_continue_tips_01",
+        "value": "Adicione jogadas e continue o jogo!"
+    },
+    {
+        "key": "UI_end_title_1",
+        "value": "Excepcional!"
+    },
+    {
+        "key": "UI_end_title_2",
+        "value": "Maravilhoso!"
+    },
+    {
+        "key": "UI_end_title_3",
+        "value": "DOTADO!"
+    },
+    {
+        "key": "UI_end_title_4",
+        "value": "LENDÁRIO!"
+    },
+    {
+        "key": "UI_end_title_5",
+        "value": "INTREPIDO!"
+    },
+    {
+        "key": "UI_end_title_6",
+        "value": "Espetacular!"
+    },
+    {
+        "key": "UI_end_title_7",
+        "value": "Excelente!"
+    },
+    {
+        "key": "UI_end_title_8",
+        "value": "Incrível!"
+    },
+    {
+        "key": "UI_end_title_9",
+        "value": "Brilhante!"
+    },
+    {
+        "key": "UI_Superhard_tip",
+        "value": "Super hard"
+    },
+    {
+        "key": "UI_common_revive",
+        "value": "Reviver"
+    },
+    {
+        "key": "UI_tips_text1",
+        "value": "Mande energia de graça para seus amigos e peça para eles retornarem o favor!"
+    },
+    {
+        "key": "UI_tips_text2",
+        "value": "Os impulsos ajudarão a superar os desafios mais difíceis!"
+    },
+    {
+        "key": "UI_tips_text3",
+        "value": "Volte todos os dias e resgate seu bônus diário!"
+    },
+    {
+        "key": "UI_tips_text4",
+        "value": "Convide seus amigos do Facebook para jogar com você!"
+    },
+    {
+        "key": "UI_tips_text5",
+        "value": "Curta nossa página do Facebook e resgate sua recompensa!"
+    },
+    {
+        "key": "UI_tips_text6",
+        "value": "Observe os itens com clareza e colete-os rapidamente!"
+    },
+    {
+        "key": "UI_tips_text7",
+        "value": "Obtenha guirlandas douradas para obter mais adereços!"
+    },
+    {
+        "key": "UI_tips_text8",
+        "value": "Complete o desafio semanal e ganhe muitas recompensas!"
+    },
+    {
+        "key": "UI_tips_text9",
+        "value": "Acompanhe o evento e participe ativamente!"
+    },
+    {
+        "key": "UI_tips_text10",
+        "value": "Existem muitos pacotes de presentes super valiosos no shopping!"
+    },
+    {
+        "key": "UI_tips_text11",
+        "value": "As equipes são um importante sistema social!"
+    },
+    {
+        "key": "UI_tips_text12",
+        "value": "Siga as informações da equipe a qualquer momento!"
+    },
+    {
+        "key": "UI_loading_progress_text",
+        "value": "Carregando"
+    },
+    {
+        "key": "UI_loading_tip",
+        "value": "Desbloqueie mais níveis para obter mais recompensas"
+    },
+    {
+        "key": "UI_button_retry_text",
+        "value": "Tentar novamente"
+    },
+    {
+        "key": "UI_loading_init",
+        "value": "Inicializando...{0}%"
+    },
+    {
+        "key": "UI_loading_load",
+        "value": "Carregando...{0}%"
+    },
+    {
+        "key": "UI_loading_count",
+        "value": "Calculando"
+    },
+    {
+        "key": "UI_common_PlayOn",
+        "value": "Reviver"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name",
+        "value": "Remover propagandas"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_01",
+        "value": "Remove banners e anúncios em tela cheia"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_02",
+        "value": "Mantém anúncios opcionais para recompensas"
+    },
+    {
+        "key": "UI_common_no_ad_buy",
+        "value": "Parabéns, você obteve o privilégio de remover permanentemente os anúncios intersticiais e desejo-lhe um bom jogo!"
+    },
+    {
+        "key": "UI_Level_Moves",
+        "value": "Movimentos: {0}"
+    },
+    {
+        "key": "UI_daily_unlock",
+        "value": "Desbloqueia em {0}"
+    },
+    {
+        "key": "UI_Achievement_title",
+        "value": "Conquistas"
+    },
+    {
+        "key": "UI_Achievement_task",
+        "value": "Tarefas"
+    },
+    {
+        "key": "UI_Achievement_mine",
+        "value": "Já possui"
+    },
+    {
+        "key": "UI_Achievement_tip",
+        "value": "Em andamento"
+    },
+    {
+        "key": "UI_Achievement_full",
+        "value": "Nível máx."
+    },
+    {
+        "key": "UI_Achievement_get",
+        "value": "Conquista obtida"
+    },
+    {
+        "key": "UI_Achievement_number",
+        "value": "Medalhas {0}"
+    },
+    {
+        "key": "UI_Achievement_complete",
+        "value": "Concluído"
+    },
+    {
+        "key": "UI_achievenment_level_001",
+        "value": "Mestre das fases (1)"
+    },
+    {
+        "key": "UI_achievenment_level_002",
+        "value": "Mestre das fases (2)"
+    },
+    {
+        "key": "UI_achievenment_level_003",
+        "value": "Mestre das fases (3)"
+    },
+    {
+        "key": "UI_achievenment_level_004",
+        "value": "Mestre das fases (4)"
+    },
+    {
+        "key": "UI_achievenment_level_005",
+        "value": "Mestre das fases (5)"
+    },
+    {
+        "key": "UI_achievenment_level_006",
+        "value": "Mestre das fases (6)"
+    },
+    {
+        "key": "UI_achievenment_level_007",
+        "value": "Mestre das fases (7)"
+    },
+    {
+        "key": "UI_achievenment_level_008",
+        "value": "Mestre das fases (8)"
+    },
+    {
+        "key": "UI_achievenment_level_009",
+        "value": "Mestre das fases (9)"
+    },
+    {
+        "key": "UI_achievenment_level_010",
+        "value": "Mestre das fases (10)"
+    },
+    {
+        "key": "UI_achievenment_daily_001",
+        "value": "Desafio diário (1)"
+    },
+    {
+        "key": "UI_achievenment_daily_002",
+        "value": "Desafio diário (2)"
+    },
+    {
+        "key": "UI_achievenment_daily_003",
+        "value": "Desafio diário (3)"
+    },
+    {
+        "key": "UI_achievenment_daily_004",
+        "value": "Desafio diário (4)"
+    },
+    {
+        "key": "UI_achievenment_daily_005",
+        "value": "Desafio diário (5)"
+    },
+    {
+        "key": "UI_achievenment_daily_006",
+        "value": "Desafio diário (6)"
+    },
+    {
+        "key": "UI_achievenment_daily_007",
+        "value": "Desafio diário (7)"
+    },
+    {
+        "key": "UI_achievenment_daily_008",
+        "value": "Desafio diário (8)"
+    },
+    {
+        "key": "UI_achievenment_daily_009",
+        "value": "Desafio diário (9)"
+    },
+    {
+        "key": "UI_achievenment_daily_010",
+        "value": "Desafio diário (10)"
+    },
+    {
+        "key": "UI_achievenment_check_001",
+        "value": "Assiduidade (1)"
+    },
+    {
+        "key": "UI_achievenment_check_002",
+        "value": "Assiduidade (2)"
+    },
+    {
+        "key": "UI_achievenment_check_003",
+        "value": "Assiduidade (3)"
+    },
+    {
+        "key": "UI_achievenment_check_004",
+        "value": "Assiduidade (4)"
+    },
+    {
+        "key": "UI_achievenment_check_005",
+        "value": "Assiduidade (5)"
+    },
+    {
+        "key": "UI_achievenment_check_006",
+        "value": "Assiduidade (6)"
+    },
+    {
+        "key": "UI_achievenment_check_007",
+        "value": "Assiduidade (7)"
+    },
+    {
+        "key": "UI_achievenment_check_008",
+        "value": "Assiduidade (8)"
+    },
+    {
+        "key": "UI_achievenment_check_009",
+        "value": "Assiduidade (9)"
+    },
+    {
+        "key": "UI_achievenment_check_010",
+        "value": "Assiduidade (10)"
+    },
+    {
+        "key": "UI_achievenment_perfect_001",
+        "value": "Conclusão perfeita (1)"
+    },
+    {
+        "key": "UI_achievenment_perfect_002",
+        "value": "Conclusão perfeita (2)"
+    },
+    {
+        "key": "UI_achievenment_perfect_003",
+        "value": "Conclusão perfeita (3)"
+    },
+    {
+        "key": "UI_achievenment_perfect_004",
+        "value": "Conclusão perfeita (4)"
+    },
+    {
+        "key": "UI_achievenment_perfect_005",
+        "value": "Conclusão perfeita (5)"
+    },
+    {
+        "key": "UI_achievenment_perfect_006",
+        "value": "Conclusão perfeita (6)"
+    },
+    {
+        "key": "UI_achievenment_perfect_007",
+        "value": "Conclusão perfeita (7)"
+    },
+    {
+        "key": "UI_achievenment_perfect_008",
+        "value": "Conclusão perfeita (8)"
+    },
+    {
+        "key": "UI_achievenment_perfect_009",
+        "value": "Conclusão perfeita (9)"
+    },
+    {
+        "key": "UI_achievenment_perfect_010",
+        "value": "Conclusão perfeita (10)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_001",
+        "value": "Lenda das fases (1)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_002",
+        "value": "Lenda das fases (2)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_003",
+        "value": "Lenda das fases (3)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_004",
+        "value": "Lenda das fases (4)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_005",
+        "value": "Lenda das fases (5)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_006",
+        "value": "Lenda das fases (6)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_007",
+        "value": "Lenda das fases (7)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_008",
+        "value": "Lenda das fases (8)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_009",
+        "value": "Lenda das fases (9)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_010",
+        "value": "Lenda das fases (10)"
+    },
+    {
+        "key": "UI_achievenment_second_001",
+        "value": "Rei da virada (1)"
+    },
+    {
+        "key": "UI_achievenment_second_002",
+        "value": "Rei da virada (2)"
+    },
+    {
+        "key": "UI_achievenment_second_003",
+        "value": "Rei da virada (3)"
+    },
+    {
+        "key": "UI_achievenment_second_004",
+        "value": "Rei da virada (4)"
+    },
+    {
+        "key": "UI_achievenment_second_005",
+        "value": "Rei da virada (5)"
+    },
+    {
+        "key": "UI_achievenment_second_006",
+        "value": "Rei da virada (6)"
+    },
+    {
+        "key": "UI_achievenment_second_007",
+        "value": "Rei da virada (7)"
+    },
+    {
+        "key": "UI_achievenment_second_008",
+        "value": "Rei da virada (8)"
+    },
+    {
+        "key": "UI_achievenment_second_009",
+        "value": "Rei da virada (9)"
+    },
+    {
+        "key": "UI_achievenment_second_010",
+        "value": "Rei da virada (10)"
+    },
+    {
+        "key": "UI_achievenment_close_001",
+        "value": "Coração acelerado (1)"
+    },
+    {
+        "key": "UI_achievenment_close_002",
+        "value": "Coração acelerado (2)"
+    },
+    {
+        "key": "UI_achievenment_close_003",
+        "value": "Coração acelerado (3)"
+    },
+    {
+        "key": "UI_achievenment_close_004",
+        "value": "Coração acelerado (4)"
+    },
+    {
+        "key": "UI_achievenment_close_005",
+        "value": "Coração acelerado (5)"
+    },
+    {
+        "key": "UI_achievenment_close_006",
+        "value": "Coração acelerado (6)"
+    },
+    {
+        "key": "UI_achievenment_close_007",
+        "value": "Coração acelerado (7)"
+    },
+    {
+        "key": "UI_achievenment_close_008",
+        "value": "Coração acelerado (8)"
+    },
+    {
+        "key": "UI_achievenment_close_009",
+        "value": "Coração acelerado (9)"
+    },
+    {
+        "key": "UI_achievenment_close_010",
+        "value": "Coração acelerado (10)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_001",
+        "value": "Mestre supremo (1)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_002",
+        "value": "Mestre supremo (2)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_003",
+        "value": "Mestre supremo (3)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_004",
+        "value": "Mestre supremo (4)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_005",
+        "value": "Mestre supremo (5)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_006",
+        "value": "Mestre supremo (6)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_007",
+        "value": "Mestre supremo (7)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_008",
+        "value": "Mestre supremo (8)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_009",
+        "value": "Mestre supremo (9)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_010",
+        "value": "Mestre supremo (10)"
+    },
+    {
+        "key": "UI_achievenment_streak_001",
+        "value": "Mestre da sequência (1)"
+    },
+    {
+        "key": "UI_achievenment_streak_002",
+        "value": "Mestre da sequência (2)"
+    },
+    {
+        "key": "UI_achievenment_streak_003",
+        "value": "Mestre da sequência (3)"
+    },
+    {
+        "key": "UI_achievenment_streak_004",
+        "value": "Mestre da sequência (4)"
+    },
+    {
+        "key": "UI_achievenment_streak_005",
+        "value": "Mestre da sequência (5)"
+    },
+    {
+        "key": "UI_achievenment_streak_006",
+        "value": "Mestre da sequência (6)"
+    },
+    {
+        "key": "UI_achievenment_streak_007",
+        "value": "Mestre da sequência (7)"
+    },
+    {
+        "key": "UI_achievenment_streak_008",
+        "value": "Mestre da sequência (8)"
+    },
+    {
+        "key": "UI_achievenment_streak_009",
+        "value": "Mestre da sequência (9)"
+    },
+    {
+        "key": "UI_achievenment_streak_010",
+        "value": "Mestre da sequência (10)"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "SE DIVERTINDO?"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "Por favor, nos avalie."
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "Avalie agora"
+    },
+    {
+        "key": "UI_achievenment_level_name",
+        "value": "Conclua {0} fases"
+    },
+    {
+        "key": "UI_achievenment_daily_name",
+        "value": "Jogue por {0} dias"
+    },
+    {
+        "key": "UI_achievenment_check_name",
+        "value": "Entre por {0} dias seguidos e conclua 1 fase"
+    },
+    {
+        "key": "UI_achievenment_perfect_name",
+        "value": "Conclua {0} fases com corações cheios, sem reviver"
+    },
+    {
+        "key": "UI_achievenment_puzzle_name",
+        "value": "Conclua {0} fases sem dicas"
+    },
+    {
+        "key": "UI_achievenment_second_name",
+        "value": "Reviva {0} vezes em qualquer fase"
+    },
+    {
+        "key": "UI_achievenment_close_name",
+        "value": "Conclua {0} fases com 1 coração, sem reviver"
+    },
+    {
+        "key": "UI_achievenment_ultimate_name",
+        "value": "Conclua {0} fases sem usar itens"
+    },
+    {
+        "key": "UI_achievenment_streak_name",
+        "value": "Jogue {0} fases em um dia"
+    },
+    {
+        "key": "UI_skin_Theme_choose",
+        "value": "Escolher tema"
+    },
+    {
+        "key": "UI_achievenment_no_tips",
+        "value": "Conquista bloqueada.\nConclua a tarefa!"
+    }
+]

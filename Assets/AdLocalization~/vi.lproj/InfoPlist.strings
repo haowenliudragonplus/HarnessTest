@@ -1,0 +1,2 @@
+NSUserTrackingUsageDescription = "Nếu bạn chọn bật theo dõi, chúng tôi có thể hiển thị quảng cáo phù hợp hơn với sở thích của bạn, qua đó giúp cải thiện trải nghiệm chơi game. Nếu bạn chọn từ chối, chúng tôi sẽ không thể cung cấp quảng cáo được cá nhân hóa. Dù bạn chọn thế nào, chúc bạn chơi game vui vẻ!  ";
+NSCameraUsageDescription = "Mô-đun quảng cáo bên thứ ba yêu cầu quyền truy cập camera để hỗ trợ tương tác quảng cáo AR";

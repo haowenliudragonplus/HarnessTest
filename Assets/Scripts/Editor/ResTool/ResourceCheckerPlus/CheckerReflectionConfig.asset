@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: CheckerReflectionConfig
+  m_EditorClassIdentifier: Assembly-CSharp-Editor:ResourceCheckerPlus:CheckerReflectionConfig
+  sceneCheckerReflectionConfig:
+  - TextureChecker
+  - MeshChecker
+  - MaterialChecker
+  - ComponentChecker
+  - ShaderChecker
+  - AudioChecker
+  - ParticleChecker
+  - AnimClipChecker
+  - PrefabChecker
+  - GameObjectChecker
+  - RefObjectChecker
+  - NGUIChecker
+  refCheckerReflectionConfig:
+  - TextureChecker
+  - MeshChecker
+  - MaterialChecker
+  - ComponentChecker
+  - ShaderChecker
+  - AudioChecker
+  - ParticleChecker
+  - AnimClipChecker
+  - PrefabChecker
+  - GameObjectChecker
+  - RefObjectChecker
+  - NGUIChecker
+  directCheckerReflectionConfig:
+  - TextureChecker
+  - MeshChecker
+  - MaterialChecker
+  - ShaderChecker
+  - AudioChecker
+  - ParticleChecker
+  - AnimClipChecker
+  - PrefabChecker
+  - GameObjectChecker
+  - SceneChecker
+  reverseCheckerReflectionConfig:
+  - PrefabChecker
+  - SceneChecker
+  - MaterialChecker
+  customCheckerReflectionConfig:
+  - TextureChecker
+  - MeshChecker
+  - MaterialChecker
+  - ComponentChecker
+  - ShaderChecker
+  - AudioChecker
+  - ParticleChecker
+  - AnimClipChecker
+  - PrefabChecker
+  - GameObjectChecker
+  - NGUIChecker
+  sceneCheckerConfig: 010000000100000001000000010000000000000000000000000000000000000000000000000000000000000000000000
+  refCheckerConfig: 0100000001000000010000000100000000000000000000000000000000000000000000000000000000000000
+  directCheckerConfig: 01000000010000000000000000000000000000000000000000000000000000000000000000000000
+  reverseCheckerConfig: 01000000010000000100000000000000
+  customCheckerConfig: 01000000010000000100000001000000000000000000000000000000000000000000000000000000

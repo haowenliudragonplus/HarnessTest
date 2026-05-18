@@ -1,0 +1,2017 @@
+[
+    {
+        "key": "公式",
+        "value": null
+    },
+    {
+        "key": "Title"
+    },
+    {
+        "key": "Custom",
+        "value": "垂唯识核渲染尺寸触震陀螺市（端辨"
+    },
+    {
+        "key": "UI_button_login",
+        "value": "Авторизоваться"
+    },
+    {
+        "key": "UI_common_text_LevelLabel",
+        "value": "Уровень"
+    },
+    {
+        "key": "UI_level_desc_13",
+        "value": "Нет, спасибо"
+    },
+    {
+        "key": "UI_level_desc_14",
+        "value": "Выйти с уровня"
+    },
+    {
+        "key": "UI_level_desc_15",
+        "value": "Вы уверены, что хотите выйти?"
+    },
+    {
+        "key": "UI_level_desc_16",
+        "value": "Ты проиграешь:"
+    },
+    {
+        "key": "UI_level_desc_17",
+        "value": "Покидать"
+    },
+    {
+        "key": "UI_level_desc_18",
+        "value": "Оставаться"
+    },
+    {
+        "key": "UI_level_desc_19",
+        "value": "Уровень провален!"
+    },
+    {
+        "key": "UI_level_desc_20",
+        "value": "Попробуйте еще раз"
+    },
+    {
+        "key": "UI_level_desc_21",
+        "value": "Резюме"
+    },
+    {
+        "key": "UI_level_desc_23",
+        "value": "Уровень пройден!"
+    },
+    {
+        "key": "UI_level_desc_level_fail_1",
+        "value": "Добавьте больше времени, чтобы продолжить игру!"
+    },
+    {
+        "key": "UI_level_desc_level_fail_2",
+        "value": "Очистите все предметы, чтобы продолжить игру!"
+    },
+    {
+        "key": "UI_level_desc_24",
+        "value": "Время истекло!"
+    },
+    {
+        "key": "UI_level_desc_25",
+        "value": "Продолжай играть"
+    },
+    {
+        "key": "UI_level_desc_26",
+        "value": "Из космоса!"
+    },
+    {
+        "key": "UI_level_desc_27",
+        "value": "Очистить полосу"
+    },
+    {
+        "key": "UI_level_desc_28",
+        "value": "Пауза"
+    },
+    {
+        "key": "UI_level_desc_29",
+        "value": "Получите больше жизней"
+    },
+    {
+        "key": "UI_level_desc_30",
+        "value": "Быстро получить жизни можно следующими способами."
+    },
+    {
+        "key": "UI_level_desc_31",
+        "value": "Пополнение"
+    },
+    {
+        "key": "UI_level_desc_32",
+        "value": "Бесплатные жизни"
+    },
+    {
+        "key": "UI_button_watch",
+        "value": "Смотреть"
+    },
+    {
+        "key": "UI_button_cancel",
+        "value": "Отмена"
+    },
+    {
+        "key": "UI_button_do_it",
+        "value": "Сделай это"
+    },
+    {
+        "key": "UI_button_collect",
+        "value": "Собирать"
+    },
+    {
+        "key": "UI_common_lives_desc",
+        "value": "Жизни"
+    },
+    {
+        "key": "UI_common_lives",
+        "value": "Жизни"
+    },
+    {
+        "key": "UI_common_lives_max",
+        "value": "Неограниченное количество жизней"
+    },
+    {
+        "key": "UI_common_teams",
+        "value": "Команды"
+    },
+    {
+        "key": "UI_common_rank",
+        "value": "Классифицировать"
+    },
+    {
+        "key": "UI_common_offline",
+        "value": "Не в сети"
+    },
+    {
+        "key": "UI_common_new",
+        "value": "Новый"
+    },
+    {
+        "key": "UI_level_desc_33",
+        "value": "НЛО"
+    },
+    {
+        "key": "UI_iap_coin_desc_1",
+        "value": "Монеты"
+    },
+    {
+        "key": "UI_shop_purchase_2",
+        "value": "ЗАВЕРШЕННЫЙ!"
+    },
+    {
+        "key": "UI_shop_purchase_1",
+        "value": "Ваша покупка завершена!"
+    },
+    {
+        "key": "UI_purchase_failed_title",
+        "value": "Покупка не удалась!"
+    },
+    {
+        "key": "UI_purchase_failed_content",
+        "value": "Средства с вашего счета не были сняты!"
+    },
+    {
+        "key": "UI_common_text_one_line1",
+        "value": "1 линия"
+    },
+    {
+        "key": "UI_common_text_one_line3",
+        "value": "Вскоре!"
+    },
+    {
+        "key": "UI_common_text_one_line4",
+        "value": "Никаких поднимающих пальцев и перекрывающихся линий."
+    },
+    {
+        "key": "UI_common_text_one_line6",
+        "value": "Достигните уровня {0} соответствующей игры, чтобы разблокировать следующий уровень."
+    },
+    {
+        "key": "UI_HAPPYSHAVE_17",
+        "value": "Не разблокировано"
+    },
+    {
+        "key": "UI_drink_game_1",
+        "value": "Нарисуйте % непересекающихся линий и получите всю оленью воду!"
+    },
+    {
+        "key": "UI_drink_game_2",
+        "value": "ПОПРОБУЙТЕ ЕЩЕ РАЗ?"
+    },
+    {
+        "key": "UI_drink_game_3",
+        "value": "Попробуйте еще раз, выиграйте все награды!"
+    },
+    {
+        "key": "UI_brain_title",
+        "value": "Водопроводная труба"
+    },
+    {
+        "key": "UI_drink_game_4",
+        "value": "ПОМОЩЬ!"
+    },
+    {
+        "key": "UI_mini_game_play_again",
+        "value": "Играй еще раз"
+    },
+    {
+        "key": "UI_common_decorate_star",
+        "value": "Отсутствие звезд"
+    },
+    {
+        "key": "UI_button_loading_ADS",
+        "value": "Загрузить рекламу..."
+    },
+    {
+        "key": "UI_ support_1",
+        "value": "Электронная почта:"
+    },
+    {
+        "key": "UI_ support_2",
+        "value": "Введите текст"
+    },
+    {
+        "key": "UI_ support_3",
+        "value": "Отправлять"
+    },
+    {
+        "key": "UI_likeus_1",
+        "value": "Как мы"
+    },
+    {
+        "key": "UI_likeus_2",
+        "value": "Бонус:"
+    },
+    {
+        "key": "UI_likeus_3",
+        "value": "Поставьте нам лайк на фейсбуке"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "Обратная связь"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "Покажите свою любовь, подарив матч на острове"
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "Представлять на рассмотрение"
+    },
+    {
+        "key": "UI_feedback_5",
+        "value": "Не совсем"
+    },
+    {
+        "key": "UI_feedback_8",
+        "value": "Представлять на рассмотрение"
+    },
+    {
+        "key": "UI_feedback_9",
+        "value": "Не совсем"
+    },
+    {
+        "key": "UI_rate_us_5stars",
+        "value": "<color=#FDE74E>5 звезд</color>"
+    },
+    {
+        "key": "UI_facebook_1",
+        "value": "Фейсбук"
+    },
+    {
+        "key": "UI_facebook_2",
+        "value": "Войдите в систему через fb в первый раз, и вы получите:"
+    },
+    {
+        "key": "UI_facebook_3",
+        "value": "Синхронизируйте свой игровой прогресс между устройствами и продолжайте играть в любое время"
+    },
+    {
+        "key": "UI_facebook_4",
+        "value": "Соединять"
+    },
+    {
+        "key": "UI_login_tip1",
+        "value": "У вас слишком низкая версия игры, обновите игру и повторите попытку."
+    },
+    {
+        "key": "UI_login_tip1_btn",
+        "value": "Обновление"
+    },
+    {
+        "key": "UI_login_tip_delete_account",
+        "value": "Ваш запрос на удаление вашей учетной записи обработан, вы все еще уверены, что хотите удалить свою игровую учетную запись?"
+    },
+    {
+        "key": "ui_fte_1001",
+        "value": "Для ремонта сломанного дока требуется несколько звезд, зарабатывайте звезды за прохождение уровней!"
+    },
+    {
+        "key": "guide_enter_amsr",
+        "value": "Продолжайте и помогите Авроре вылечить ее уши."
+    },
+    {
+        "key": "ui_fte_1039",
+        "value": "Продолжайте помогать Авроре вылечиться от болезни."
+    },
+    {
+        "key": "ui_fte_1008",
+        "value": "Когда вы соберете достаточно звезд, коснитесь ее, чтобы завершить свои задачи."
+    },
+    {
+        "key": "UI_levelstart_level_empty",
+        "value": "Уровень"
+    },
+    {
+        "key": "UI_BUTTON_Ok",
+        "value": "ХОРОШО"
+    },
+    {
+        "key": "UI_ck_gamelose_button_leave",
+        "value": "Оставлять"
+    },
+    {
+        "key": "UI_button_yes",
+        "value": "Да"
+    },
+    {
+        "key": "UI_button_no",
+        "value": "Нет"
+    },
+    {
+        "key": "UI_choose_progress_now",
+        "value": "Текущее использование"
+    },
+    {
+        "key": "UI_choose_progress_last",
+        "value": "Последняя синхронизация:"
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_later",
+        "value": "Подумайте еще раз"
+    },
+    {
+        "key": "UI_choose_progress_confirm_desc",
+        "value": "Чтобы подтвердить выбор архива для синхронизации, введите «111» и нажмите «Подтвердить»."
+    },
+    {
+        "key": "UI_choose_progress_confirm_tip",
+        "value": "Совет: другой архив будет удален после выбора, выбирайте внимательно"
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_confirm",
+        "value": "Подтверждать"
+    },
+    {
+        "key": "UI_choose_progress_recommend",
+        "value": "Рекомендовать"
+    },
+    {
+        "key": "UI_progress_1",
+        "value": "Выбор прогресса"
+    },
+    {
+        "key": "UI_progress_2",
+        "value": "Какой прогресс вы хотите сохранить?"
+    },
+    {
+        "key": "UI_progress_3",
+        "value": "На вашем устройстве:"
+    },
+    {
+        "key": "UI_progress_4",
+        "value": "На сервере:"
+    },
+    {
+        "key": "UI_ck_exit_text1",
+        "value": "Вы уверены?"
+    },
+    {
+        "key": "UI_update_app_desc_text",
+        "value": "Если найдена новая версия, перейдите в магазин, чтобы загрузить обновление. Войдите в систему после обновления, чтобы разблокировать больше игрового контента."
+    },
+    {
+        "key": "UI_update_app_btn_update",
+        "value": "Обновление"
+    },
+    {
+        "key": "UI_update_app_btn_later",
+        "value": "Позже"
+    },
+    {
+        "key": "UI_store_energy_full_text",
+        "value": "ПОЛНЫЙ"
+    },
+    {
+        "key": "UI_shop_title",
+        "value": "МАГАЗИН"
+    },
+    {
+        "key": "UI_shop_more",
+        "value": "Больше предложений!"
+    },
+    {
+        "key": "UI_shop_fail_title",
+        "value": "Связь потеряна"
+    },
+    {
+        "key": "UI_shop_fail_explain",
+        "value": "Пожалуйста, проверьте подключение к Интернету."
+    },
+    {
+        "key": "UI_Shop_ADS",
+        "value": "Смотреть"
+    },
+    {
+        "key": "UI_button_connected",
+        "value": "Связанный"
+    },
+    {
+        "key": "UI_update_reward_title",
+        "value": "Обновление награды:"
+    },
+    {
+        "key": "UI_update_btn_update",
+        "value": "Обновить"
+    },
+    {
+        "key": "UI_update_btn_later",
+        "value": "Позже"
+    },
+    {
+        "key": "UI_update_btn_claim",
+        "value": "Требовать"
+    },
+    {
+        "key": "UI_store_common_offlineerr_text",
+        "value": "Платежи недоступны в автономном режиме. Подключитесь к Интернету и повторите попытку."
+    },
+    {
+        "key": "UI_errmsg_duplicate_login_native",
+        "value": "Вы открыли игру на другом устройстве. Чтобы играть на другом устройстве, закройте эту игру. Чтобы продолжить играть здесь, просто нажмите «ХОРОШО», и игра перезапустится."
+    },
+    {
+        "key": "UI_profile_force_use_server_profile_desc",
+        "value": "Мы восстановили ваш игровой профиль, давайте продолжим игру!"
+    },
+    {
+        "key": "UI_update_app_title1",
+        "value": "Новый контент"
+    },
+    {
+        "key": "UI_update_app_title2",
+        "value": "Новая версия"
+    },
+    {
+        "key": "UI_update_app_title3",
+        "value": "Обновление завершено"
+    },
+    {
+        "key": "UI_bind_fb_fail_authen_error_text",
+        "value": "Ошибка привязки facebook, ошибка аутентификации."
+    },
+    {
+        "key": "UI_quit_game_tips_text",
+        "value": "Хотели бы вы бросить?"
+    },
+    {
+        "key": "UI_gift_limit_tips_pre_text",
+        "value": "Вы можете получить только до"
+    },
+    {
+        "key": "UI_gift_limit_tips_after_text",
+        "value": "энергии от друзей в день."
+    },
+    {
+        "key": "UI_take_your_reward_text",
+        "value": "Вот твоя награда"
+    },
+    {
+        "key": "UI_choose_language_tip_desc",
+        "value": "Обнаружено, что текущий язык в игре отличается от языка, установленного на вашем телефоне. Пожалуйста, выберите язык игры. Вы также можете изменить язык позже в «Настройках»."
+    },
+    {
+        "key": "UI_common_download",
+        "value": "Скачать"
+    },
+    {
+        "key": "UI_common_free",
+        "value": "Бесплатно"
+    },
+    {
+        "key": "UI_common_free2",
+        "value": "Бесплатно+{0}s"
+    },
+    {
+        "key": "UI_common_iap",
+        "value": "Вы отменили покупку, вы можете выбрать пакет, который вам нравится, чтобы продолжить покупку!"
+    },
+    {
+        "key": "UI_daily_bonus_day",
+        "value": "День {0}"
+    },
+    {
+        "key": "UI_purchase_failed",
+        "value": "Покупка не удалась. Попробуйте еще раз?"
+    },
+    {
+        "key": "UI_level_goals_complete",
+        "value": "Цели завершены!"
+    },
+    {
+        "key": "UI_upgrade_locked_text",
+        "value": "Заблокировано"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Title",
+        "value": "Выйти из игры"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Content",
+        "value": "Вы хотите выйти из игры?"
+    },
+    {
+        "key": "UI_POPUP_EXIT_BUTTON_Exit",
+        "value": "Выход"
+    },
+    {
+        "key": "UI_POPUP_RESERROR_Content",
+        "value": "Ресурсы загружаются. Пожалуйста, попробуйте еще раз."
+    },
+    {
+        "key": "UI_POPUP_SAVE_Content",
+        "value": "Сохранено!"
+    },
+    {
+        "key": "UI_POPUP_BUY_Fail_Content",
+        "value": "Купить не удалось!"
+    },
+    {
+        "key": "UI_CHOOSE_PROFILE_POPUP_SUCCESS_Content",
+        "value": "Ваш профиль успешно восстановлен! Пожалуйста, наслаждайтесь игрой!"
+    },
+    {
+        "key": "UI_MULTIDEVICE_LOGIN_Msg",
+        "value": "Вы играли в игру на другом устройстве. Чтобы играть на этом устройстве, выйдите сейчас. Чтобы воспроизвести его здесь, нажмите «ОК». Игра перезапустится."
+    },
+    {
+        "key": "UI_NEEDUPDATE_Msg",
+        "value": "Доступна новая версия, пожалуйста, обновите!"
+    },
+    {
+        "key": "UI_NTWORKOVERTIME_Content",
+        "value": "Нестабильный статус сети и повторите попытку."
+    },
+    {
+        "key": "UI_NTWORKXNET_Title",
+        "value": "Без связи"
+    },
+    {
+        "key": "UI_NTWORKXNET_Content",
+        "value": "Пожалуйста, проверьте состояние сети вашего устройства и повторно войдите в игру."
+    },
+    {
+        "key": "UI_POPUP_NOADS_Title",
+        "value": "Извини"
+    },
+    {
+        "key": "UI_POPUP_NOADS_Content",
+        "value": "Объявления уже в пути, попробуйте позже!"
+    },
+    {
+        "key": "UI_download_resources_error",
+        "value": "Не удалось подключиться к серверу. Пожалуйста, проверьте ваше интернет-соединение."
+    },
+    {
+        "key": "UI_no_internet_tips",
+        "value": "Не удалось подключиться к серверу. Пожалуйста, проверьте ваше интернет-соединение."
+    },
+    {
+        "key": "UI_privacy_title_native",
+        "value": "Принять политику конфиденциальности"
+    },
+    {
+        "key": "UI_privacy_message_native",
+        "value": "Чтобы продолжить игру, вам необходимо подтвердить свое согласие с нашей Политикой конфиденциальности."
+    },
+    {
+        "key": "UI_privacy_btn_link_title_native",
+        "value": "политика конфиденциальности"
+    },
+    {
+        "key": "UI_privacy_btn_agree_title_native",
+        "value": "Я согласен"
+    },
+    {
+        "key": "UI_download_fail_title",
+        "value": "Соединение потеряно"
+    },
+    {
+        "key": "UI_download_fail_text",
+        "value": "Загрузка ресурсов, необходимых для продолжения игры, не удалась. Проверьте подключение к Интернету и повторите попытку."
+    },
+    {
+        "key": "UI_download_fail_button",
+        "value": "Повторить попытку"
+    },
+    {
+        "key": "UI_rateus_title_text",
+        "value": "Рейтинг игры"
+    },
+    {
+        "key": "UI_rateus_ios_desc_text",
+        "value": "Если вам нравится эта игра, не могли бы вы уделить минутку, чтобы поставить ей пятизвездочный рейтинг? Это не займет много времени, но очень поможет нам. Спасибо."
+    },
+    {
+        "key": "UI_rateus_ios_later_text",
+        "value": "Напомни мне позже"
+    },
+    {
+        "key": "UI_rateus_ios_no_text",
+        "value": "Нет, спасибо."
+    },
+    {
+        "key": "UI_sensitivewords_notice",
+        "value": "Введенная вами информация содержит деликатные слова, пожалуйста, измените ее!"
+    },
+    {
+        "key": "UI_storagefull_notice_text",
+        "value": "К сожалению, память вашего телефона заполнена, пожалуйста, очистите и повторите попытку."
+    },
+    {
+        "key": "UI_bind_Apple_fail_authen_error_text",
+        "value": "привязка Apple не удалась, ошибка аутентификации."
+    },
+    {
+        "key": "UI_Apple_accesstoken_ru_pwchange_text",
+        "value": "войти через Apple не удалось, попробуйте войти еще раз."
+    },
+    {
+        "key": "UI_fb_accesstoken_ru_pwchange_text",
+        "value": "Не удалось войти через Facebook, попробуйте войти еще раз."
+    },
+    {
+        "key": "UI_Shop_Tab1",
+        "value": "Монеты"
+    },
+    {
+        "key": "UI_Shop_Tab2",
+        "value": "Обычный"
+    },
+    {
+        "key": "UI_Shop_Tab3",
+        "value": "Особый"
+    },
+    {
+        "key": "UI_Shop_Text1",
+        "value": "Осталось {0}"
+    },
+    {
+        "key": "UI_Shop_Text1_0",
+        "value": "Осталось 0"
+    },
+    {
+        "key": "UI_Shop_Text2",
+        "value": "Скидка"
+    },
+    {
+        "key": "UI_Shop_Btn1",
+        "value": "Купить"
+    },
+    {
+        "key": "UI_Shop_Text3",
+        "value": "Заблокировано"
+    },
+    {
+        "key": "UI_Shop_Text4",
+        "value": "Распродано"
+    },
+    {
+        "key": "UI_Shop_Tip1",
+        "value": "Товары распроданы, пожалуйста, зайдите позже"
+    },
+    {
+        "key": "UI_Shop_Tip2",
+        "value": "Объедините больше раз, чтобы разблокировать этот предмет"
+    },
+    {
+        "key": "UI_button_continue",
+        "value": "Продолжать"
+    },
+    {
+        "key": "UI_button_next",
+        "value": "Продолжать"
+    },
+    {
+        "key": "UI_parkour_level_id",
+        "value": "Уровень {0}"
+    },
+    {
+        "key": "UI_level_selectbooster",
+        "value": "Выбрать Бустер"
+    },
+    {
+        "key": "UI_button_area",
+        "value": "Область {0} "
+    },
+    {
+        "key": "UI_button_house",
+        "value": "Дом {0} "
+    },
+    {
+        "key": "UI_button_house_title",
+        "value": "Задача "
+    },
+    {
+        "key": "UI_button_house_pragess",
+        "value": "Прогресс области "
+    },
+    {
+        "key": "UI_house_title1",
+        "value": "Дом"
+    },
+    {
+        "key": "UI_TimeFormatWithDay",
+        "value": "{0:00}г {1:00}час"
+    },
+    {
+        "key": "UI_TimeFormatWithHour",
+        "value": "{0:00}ч {1:00}м"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute",
+        "value": "{0:00}м {1:00}с"
+    },
+    {
+        "key": "UI_button_claim_text",
+        "value": "Требовать"
+    },
+    {
+        "key": "UI_button_later",
+        "value": "Позже"
+    },
+    {
+        "key": "UI_rateus_ios_rate_text",
+        "value": "Оценить сейчас"
+    },
+    {
+        "key": "UI_PayRegion_Btn1",
+        "value": "Купить"
+    },
+    {
+        "key": "UI_button_play",
+        "value": "Играть"
+    },
+    {
+        "key": "UI_SpecialLevel_Map_title",
+        "value": "Карта"
+    },
+    {
+        "key": "UI_FindTM_Unlock_Des",
+        "value": "Lv {0}"
+    },
+    {
+        "key": "UI_button_house_btn_tips",
+        "value": "Дом"
+    },
+    {
+        "key": "UI_button_ASMR_btn_tips",
+        "value": "Вызов"
+    },
+    {
+        "key": "UI_makeover_pragess",
+        "value": "Прогресс Красоты"
+    },
+    {
+        "key": "UI_build_title",
+        "value": "Дом"
+    },
+    {
+        "key": "UI_makeover_title",
+        "value": "Мини-игра"
+    },
+    {
+        "key": "UI_makeover_tips",
+        "value": "Разблокируйте больше уровней, чтобы получить больше наград"
+    },
+    {
+        "key": "UI_makeover_win_title",
+        "value": "ЗАВЕРШЕННЫЙ!"
+    },
+    {
+        "key": "UI_makeover_reward",
+        "value": "Награда:"
+    },
+    {
+        "key": "UI_UnlockReward_Title1",
+        "value": "Новая область разблокирована"
+    },
+    {
+        "key": "UI_makeover_get",
+        "value": "Получить больше"
+    },
+    {
+        "key": "UI_common_home",
+        "value": "Дом"
+    },
+    {
+        "key": "UI_common_Island",
+        "value": "Дом"
+    },
+    {
+        "key": "UI_common_shop",
+        "value": "Дом"
+    },
+    {
+        "key": "UI_ASMR_coming_tips",
+        "value": "будет запущен"
+    },
+    {
+        "key": "UI_ASMR_button_cannot_play",
+        "value": "Пройти предыдущий уровень"
+    },
+    {
+        "key": "UI_level_desc_add",
+        "value": "Время истекло!"
+    },
+    {
+        "key": "UI_common_box_tittle",
+        "value": "Уведомление"
+    },
+    {
+        "key": "UI_cannot_connect_to_itunes_store",
+        "value": "Не удалось подключиться к iTunes Store! Повторите попытку позже."
+    },
+    {
+        "key": "UI_cannot_connect_to_google_play",
+        "value": "Не удалось подключиться к Google Play. Повторите попытку позже."
+    },
+    {
+        "key": "UI_common_notice",
+        "value": "Уведомление"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_1",
+        "value": "рекламировать"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_2",
+        "value": "двойной подарочный пакет"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_1",
+        "value": "Скрыть рекламу без вознаграждения"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_2",
+        "value": "{0}золото"
+    },
+    {
+        "key": "UI_iap_market_1",
+        "value": "Ограниченная оптимизация"
+    },
+    {
+        "key": "UI_iap_market_2",
+        "value": "самый популярный"
+    },
+    {
+        "key": "UI_iap_market_3",
+        "value": "горячий приоритет"
+    },
+    {
+        "key": "UI_shop_moreoffers",
+        "value": "Больше Предложений"
+    },
+    {
+        "key": "UI_button_go",
+        "value": "Просмотр"
+    },
+    {
+        "key": "UI_common_function_locked_tip",
+        "value": "Разблокировать после завершения уровня 21"
+    },
+    {
+        "key": "UI_common_finish_tip",
+        "value": "Вскоре!"
+    },
+    {
+        "key": "UI_loading_loadStr",
+        "value": "Загрузка...{0}%"
+    },
+    {
+        "key": "adbox_no_reward",
+        "value": "Реклама еще не загрузилась полностью."
+    },
+    {
+        "key": "UI_common_time_month",
+        "value": "м"
+    },
+    {
+        "key": "UI_common_time_week",
+        "value": "н"
+    },
+    {
+        "key": "UI_common_time_h",
+        "value": "ч"
+    },
+    {
+        "key": "UI_common_time_m",
+        "value": "мин"
+    },
+    {
+        "key": "UI_common_time_d",
+        "value": "д"
+    },
+    {
+        "key": "UI_common_time_s",
+        "value": "с"
+    },
+    {
+        "key": "UI_TimeFormatWithDay_2",
+        "value": "{0:00}д:{1:00}ч"
+    },
+    {
+        "key": "UI_TimeFormatWithHour_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_level_desc_40",
+        "value": "Очистить все элементы в панели удаления."
+    },
+    {
+        "key": "UI_level_desc_41",
+        "value": "Предмет не может быть использован"
+    },
+    {
+        "key": "UI_iap_pack_name_icebreakgift",
+        "value": "Сюрприз"
+    },
+    {
+        "key": "UI_iap_pack_num_per",
+        "value": "{0}%"
+    },
+    {
+        "key": "guide_world_1033",
+        "value": "Давай сыграем в игру! "
+    },
+    {
+        "key": "UI_fb_login_fail_tips",
+        "value": "Вход не выполнен! Пожалуйста, подключитесь к сети и попробуйте снова!"
+    },
+    {
+        "key": "UI_level_desc_42",
+        "value": "Предмет недоступен и не может быть нажат!"
+    },
+    {
+        "key": "UI_iap_pack_num_2",
+        "value": "80%"
+    },
+    {
+        "key": "UI_iap_pack_num_scale_2",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_iap_pack_name_new_2",
+        "value": "Магический пакет"
+    },
+    {
+        "key": "UI_activity_end_tips",
+        "value": "действие заканчивается"
+    },
+    {
+        "key": "UI_settings_on",
+        "value": "ON"
+    },
+    {
+        "key": "UI_settings_off",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_settings_autoMatch",
+        "value": "Автосопоставление"
+    },
+    {
+        "key": "UI_settings_autoComplete",
+        "value": "Автозаполнение"
+    },
+    {
+        "key": "UI_settings_free",
+        "value": "Выделить свободные плитки"
+    },
+    {
+        "key": "UI_settings_play",
+        "value": "Как играть"
+    },
+    {
+        "key": "UI_settings_iap_no_ad",
+        "value": "Без рекламы"
+    },
+    {
+        "key": "UI_settings_Restart",
+        "value": "Перезапуск"
+    },
+    {
+        "key": "UI_setting_ language",
+        "value": "Язык"
+    },
+    {
+        "key": "UI_setting_ support",
+        "value": "Поддерживать"
+    },
+    {
+        "key": "UI_setting_ Facebook",
+        "value": "Фейсбук"
+    },
+    {
+        "key": "UI_setting_version",
+        "value": "Версия:"
+    },
+    {
+        "key": "UI_setting_user_id",
+        "value": "UID:"
+    },
+    {
+        "key": "UI_setting_common_1",
+        "value": "Восстановить покупку"
+    },
+    {
+        "key": "UI_setting_common_2",
+        "value": "Ваша привилегия без рекламы была успешно восстановлена, давайте продолжим играть!"
+    },
+    {
+        "key": "UI_setting_common_3",
+        "value": "В настоящее время у вас нет восстанавливаемых привилегий, вам необходимо сначала приобрести соответствующий антирекламный пакет."
+    },
+    {
+        "key": "UI_common_text_ScoreLabel",
+        "value": "Счёт"
+    },
+    {
+        "key": "UI_common_text_MatchesLabel",
+        "value": "Пары"
+    },
+    {
+        "key": "UI_contactus_panel_title",
+        "value": "Свяжитесь с нами"
+    },
+    {
+        "key": "UI_contactus_panel_email_textbox_text",
+        "value": "Введите ваш электронный адрес"
+    },
+    {
+        "key": "UI_contactus_panel_input_textbox_text",
+        "value": "Введите ваши вопросы здесь"
+    },
+    {
+        "key": "UI_contactus_panel_email_err_text",
+        "value": "Пожалуйста, введите действительный адрес электронной почты"
+    },
+    {
+        "key": "UI_contactus_panel_input_popup_text",
+        "value": "Введите ваши вопросы здесь"
+    },
+    {
+        "key": "UI_contactus_panel_send_err_text",
+        "value": "Не удалось отправить, попробуйте еще раз, пожалуйста"
+    },
+    {
+        "key": "UI_settings_button_save_ios",
+        "value": "Сохранить прогресс"
+    },
+    {
+        "key": "UI_save_ios_title",
+        "value": "Сохраните свой прогресс"
+    },
+    {
+        "key": "UI_save_ios_text",
+        "value": "Войдите, чтобы сохранить Ваши успехи."
+    },
+    {
+        "key": "UI_save_ios_button_apple",
+        "value": "Войти через Apple"
+    },
+    {
+        "key": "UI_save_ios_button_fb",
+        "value": "Авторизоваться с помощью Фэйсбука"
+    },
+    {
+        "key": "UI_save_ios_button_tip",
+        "value": "Авторизоваться с помощью Фэйсбука"
+    },
+    {
+        "key": "UI_login_button_delete_account",
+        "value": "Удалить аккаунт"
+    },
+    {
+        "key": "UI_login_tip_delete_account_7days",
+        "value": "Ваш запрос на удаление успешно отправлен. Учетная запись будет удалена через 7 дней."
+    },
+    {
+        "key": "UI_login_tip_delete_account_title",
+        "value": "Удалить архив?"
+    },
+    {
+        "key": "UI_login_tip_delete_account_tips",
+        "value": "Этот процесс необратим"
+    },
+    {
+        "key": "UI_delete_txt1",
+        "value": "Вы действительно хотите удалить все сохранённые личные данные? <color=#FF322B>(Это действие необратимо)</color>"
+    },
+    {
+        "key": "UI_PrivacyPolicy_1",
+        "value": "Принять политику конфиденциальности"
+    },
+    {
+        "key": "UI_PrivacyPolicy_2",
+        "value": "Прежде чем продолжить игру, вам необходимо согласиться с нашей Политикой конфиденциальности и Условиями обслуживания:"
+    },
+    {
+        "key": "UI_PrivacyPolicy_3",
+        "value": "Политика"
+    },
+    {
+        "key": "UI_PrivacyPolicy_4",
+        "value": "Я согласен"
+    },
+    {
+        "key": "UI_PrivacyPolicy_5",
+        "value": "Срок службы"
+    },
+    {
+        "key": "UI_level_desc_22",
+        "value": "Настройки"
+    },
+    {
+        "key": "UI_Comb_prefect",
+        "value": "Идеальный Комбо Бонус!"
+    },
+    {
+        "key": "UI_Locked_left",
+        "value": "Заблокировано с обеих сторон"
+    },
+    {
+        "key": "UI_Locked_top",
+        "value": "Заблокировано сверху"
+    },
+    {
+        "key": "UI_hard_tip",
+        "value": "Hard"
+    },
+    {
+        "key": "UI_tip_loading_text",
+        "value": "Загрузка... пожалуйста, подождите"
+    },
+    {
+        "key": "UI_Shuffle_get_one",
+        "value": "Получить один"
+    },
+    {
+        "key": "UI_Hint_tip_01",
+        "value": "Посмотрите видео, чтобы получить подсказку"
+    },
+    {
+        "key": "UI_Return_tip",
+        "value": "Это первый шаг"
+    },
+    {
+        "key": "UI_restart_title",
+        "value": "Нет допустимых совпадений"
+    },
+    {
+        "key": "UI_restart_tip",
+        "value": "Использовать перемешивание?"
+    },
+    {
+        "key": "UI_restart_shuffle",
+        "value": "Перемешать -1"
+    },
+    {
+        "key": "UI_restart_shuffle_none",
+        "value": "Нет перемешивания!"
+    },
+    {
+        "key": "UI_button_tip",
+        "value": "ХОРОШО"
+    },
+    {
+        "key": "UI_button_tip_1",
+        "value": "Следующий "
+    },
+    {
+        "key": "UI_button_ok",
+        "value": "ХОРОШО"
+    },
+    {
+        "key": "UI_choose_progress_title_text",
+        "value": "ВЫБОР ПРОГРЕССА"
+    },
+    {
+        "key": "UI_choose_progress_desc_main_text",
+        "value": "Какой прогресс вы хотите сохранить?"
+    },
+    {
+        "key": "UI_choose_progress_on_server",
+        "value": "На сервере:"
+    },
+    {
+        "key": "UI_choose_progress_on_device",
+        "value": "На вашем устройстве:"
+    },
+    {
+        "key": "UI_choose_progress_button_server",
+        "value": "Сервер"
+    },
+    {
+        "key": "UI_choose_progress_button_device",
+        "value": "Ваше устройство"
+    },
+    {
+        "key": "UI_loading_upgrade",
+        "value": "Обновление...{0} {1}"
+    },
+    {
+        "key": "UI_return_reward_help_target",
+        "value": "Уровень {0}"
+    },
+    {
+        "key": "UI_Daily_title",
+        "value": "Ежедневно"
+    },
+    {
+        "key": "UI_Daily_title_1",
+        "value": "Ежедневное задание"
+    },
+    {
+        "key": "UI_skin_Theme",
+        "value": "Тема"
+    },
+    {
+        "key": "UI_skin_Tiles",
+        "value": "Плитки"
+    },
+    {
+        "key": "UI_skin_Backgroud",
+        "value": "Фон"
+    },
+    {
+        "key": "UI_skin_simple",
+        "value": "Простой"
+    },
+    {
+        "key": "UI_skin_poker",
+        "value": "Покер"
+    },
+    {
+        "key": "UI_skin_old",
+        "value": "традиция"
+    },
+    {
+        "key": "UI_game_daily_week1",
+        "value": "Mon"
+    },
+    {
+        "key": "UI_game_daily_week2",
+        "value": "Tues"
+    },
+    {
+        "key": "UI_game_daily_week3",
+        "value": "Wed"
+    },
+    {
+        "key": "UI_game_daily_week4",
+        "value": "Thur"
+    },
+    {
+        "key": "UI_game_daily_week5",
+        "value": "Fri"
+    },
+    {
+        "key": "UI_game_daily_week6",
+        "value": "Sat"
+    },
+    {
+        "key": "UI_game_daily_week7",
+        "value": "Sun"
+    },
+    {
+        "key": "UI_game_daily_date",
+        "value": "Дата"
+    },
+    {
+        "key": "UI_game_daily_month1",
+        "value": "Jan."
+    },
+    {
+        "key": "UI_game_daily_month2",
+        "value": "Feb."
+    },
+    {
+        "key": "UI_game_daily_month3",
+        "value": "Mar."
+    },
+    {
+        "key": "UI_game_daily_month4",
+        "value": "Apr."
+    },
+    {
+        "key": "UI_game_daily_month5",
+        "value": "May."
+    },
+    {
+        "key": "UI_game_daily_month6",
+        "value": "June."
+    },
+    {
+        "key": "UI_game_daily_month7",
+        "value": "July."
+    },
+    {
+        "key": "UI_game_daily_month8",
+        "value": "Aug."
+    },
+    {
+        "key": "UI_game_daily_month9",
+        "value": "Sept."
+    },
+    {
+        "key": "UI_game_daily_month10",
+        "value": "Oct."
+    },
+    {
+        "key": "UI_game_daily_month11",
+        "value": "Nov."
+    },
+    {
+        "key": "UI_game_daily_month12",
+        "value": "Dec."
+    },
+    {
+        "key": "UI_daily_Btn1",
+        "value": "Испытание"
+    },
+    {
+        "key": "UI_daily_Tip_2",
+        "value": "Цветочная комната"
+    },
+    {
+        "key": "UI_button_task_title",
+        "value": "Задача "
+    },
+    {
+        "key": "UI_common_level",
+        "value": "Уровень {0}"
+    },
+    {
+        "key": "UI_common_unlock",
+        "value": "Недоступно!"
+    },
+    {
+        "key": "UI_revive_title",
+        "value": "Места нет!"
+    },
+    {
+        "key": "UI_new_tip_1",
+        "value": "Нажмите на стрелку движения"
+    },
+    {
+        "key": "UI_new_tip_2",
+        "value": "Используйте два пальца, чтобы увеличить/уменьшить"
+    },
+    {
+        "key": "UI_new_tip_3",
+        "value": "Направляющие линии помогут пройти уровень!"
+    },
+    {
+        "key": "UI_new_tip_4",
+        "value": "Используйте <color=#299200>Добавить Слот</color>, чтобы создавать новые пустые слоты!"
+    },
+    {
+        "key": "UI_new_tip_5",
+        "value": "Используйте <color=#299200>Подсказка</color>, чтобы собрать <color=#299200>3</color> соответствующие плитки маджонга!"
+    },
+    {
+        "key": "UI_new_tip_6",
+        "value": "Используйте <color=#299200>Очистка</color>, чтобы удалить плитки из области временного хранения!"
+    },
+    {
+        "key": "Purchase_Failed_Title",
+        "value": "Покупка не удалась!"
+    },
+    {
+        "key": "Purchase_Failed_Desc",
+        "value": "Покупка не удалась!"
+    },
+    {
+        "key": "UI_common_button_continue",
+        "value": "Продолжить"
+    },
+    {
+        "key": "UI_revive_continue_title",
+        "value": "Продолжить"
+    },
+    {
+        "key": "UI_revive_continue_tips",
+        "value": "Восстановите ОЗ и продолжите игру!"
+    },
+    {
+        "key": "UI_revive_continue_tips_01",
+        "value": "Добавьте ходы и продолжайте игру!"
+    },
+    {
+        "key": "UI_end_title_1",
+        "value": "Великолепно!"
+    },
+    {
+        "key": "UI_end_title_2",
+        "value": "Потрясающе!"
+    },
+    {
+        "key": "UI_end_title_3",
+        "value": "ОДАРЁННЫЙ!"
+    },
+    {
+        "key": "UI_end_title_4",
+        "value": "ЛЕГЕНДАРНЫЙ!"
+    },
+    {
+        "key": "UI_end_title_5",
+        "value": "БЕССТРАШНЫЙ!"
+    },
+    {
+        "key": "UI_end_title_6",
+        "value": "Зрелищно!"
+    },
+    {
+        "key": "UI_end_title_7",
+        "value": "Превосходно!"
+    },
+    {
+        "key": "UI_end_title_8",
+        "value": "Потрясающе!"
+    },
+    {
+        "key": "UI_end_title_9",
+        "value": "Блестяще!"
+    },
+    {
+        "key": "UI_Superhard_tip",
+        "value": "Super hard"
+    },
+    {
+        "key": "UI_common_revive",
+        "value": "Возродить"
+    },
+    {
+        "key": "UI_tips_text1",
+        "value": "Отправьте бесплатную энергию своим друзьям и попросите их вернуть долг!"
+    },
+    {
+        "key": "UI_tips_text2",
+        "value": "Усиления помогут вам справиться с трудными задачами!"
+    },
+    {
+        "key": "UI_tips_text3",
+        "value": "Возвращайтесь и получайте ежедневный бонус каждый день!"
+    },
+    {
+        "key": "UI_tips_text4",
+        "value": "Пригласите своих друзей из Facebook и играйте вместе!"
+    },
+    {
+        "key": "UI_tips_text5",
+        "value": "Поставьте лайк нашей фан-странице в Facebook и получите свою награду!"
+    },
+    {
+        "key": "UI_tips_text6",
+        "value": "Четко наблюдайте за предметами и быстро собирайте их!"
+    },
+    {
+        "key": "UI_tips_text7",
+        "value": "Получите золотые венки, чтобы получить больше реквизита!"
+    },
+    {
+        "key": "UI_tips_text8",
+        "value": "Выполняйте еженедельные задания и получайте множество наград!"
+    },
+    {
+        "key": "UI_tips_text9",
+        "value": "Следите за событием и принимайте в нем активное участие!"
+    },
+    {
+        "key": "UI_tips_text10",
+        "value": "В торговом центре есть много суперценных подарочных наборов!"
+    },
+    {
+        "key": "UI_tips_text11",
+        "value": "Команды – важная социальная система!"
+    },
+    {
+        "key": "UI_tips_text12",
+        "value": "Следите за информацией о команде в любое время!"
+    },
+    {
+        "key": "UI_loading_progress_text",
+        "value": "Загрузка"
+    },
+    {
+        "key": "UI_loading_tip",
+        "value": "Разблокируйте больше уровней, чтобы получить больше наград"
+    },
+    {
+        "key": "UI_button_retry_text",
+        "value": "Повторить попытку"
+    },
+    {
+        "key": "UI_loading_init",
+        "value": "Инициализация...{0}%"
+    },
+    {
+        "key": "UI_loading_load",
+        "value": "Загрузка...{0}%"
+    },
+    {
+        "key": "UI_loading_count",
+        "value": "Расчет"
+    },
+    {
+        "key": "UI_common_PlayOn",
+        "value": "Возродить"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name",
+        "value": "рекламировать"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_01",
+        "value": "Удаляет баннеры и полноэкранную рекламу"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_02",
+        "value": "Сохраняет необязательную рекламу за награды"
+    },
+    {
+        "key": "UI_common_no_ad_buy",
+        "value": "Поздравляем, вы получили возможность навсегда удалить межстраничную рекламу, и я желаю вам счастливой игры!"
+    },
+    {
+        "key": "UI_Level_Moves",
+        "value": "Ходов: {0}"
+    },
+    {
+        "key": "UI_daily_unlock",
+        "value": "Откроется на {0}"
+    },
+    {
+        "key": "UI_Achievement_title",
+        "value": "Достижения"
+    },
+    {
+        "key": "UI_Achievement_task",
+        "value": "Задания"
+    },
+    {
+        "key": "UI_Achievement_mine",
+        "value": "Уже есть"
+    },
+    {
+        "key": "UI_Achievement_tip",
+        "value": "В процессе"
+    },
+    {
+        "key": "UI_Achievement_full",
+        "value": "Макс. ур."
+    },
+    {
+        "key": "UI_Achievement_get",
+        "value": "Достижение получено"
+    },
+    {
+        "key": "UI_Achievement_number",
+        "value": "Медали {0}"
+    },
+    {
+        "key": "UI_Achievement_complete",
+        "value": "Завершено"
+    },
+    {
+        "key": "UI_achievenment_level_001",
+        "value": "Мастер уровней (1)"
+    },
+    {
+        "key": "UI_achievenment_level_002",
+        "value": "Мастер уровней (2)"
+    },
+    {
+        "key": "UI_achievenment_level_003",
+        "value": "Мастер уровней (3)"
+    },
+    {
+        "key": "UI_achievenment_level_004",
+        "value": "Мастер уровней (4)"
+    },
+    {
+        "key": "UI_achievenment_level_005",
+        "value": "Мастер уровней (5)"
+    },
+    {
+        "key": "UI_achievenment_level_006",
+        "value": "Мастер уровней (6)"
+    },
+    {
+        "key": "UI_achievenment_level_007",
+        "value": "Мастер уровней (7)"
+    },
+    {
+        "key": "UI_achievenment_level_008",
+        "value": "Мастер уровней (8)"
+    },
+    {
+        "key": "UI_achievenment_level_009",
+        "value": "Мастер уровней (9)"
+    },
+    {
+        "key": "UI_achievenment_level_010",
+        "value": "Мастер уровней (10)"
+    },
+    {
+        "key": "UI_achievenment_daily_001",
+        "value": "Дневной вызов (1)"
+    },
+    {
+        "key": "UI_achievenment_daily_002",
+        "value": "Дневной вызов (2)"
+    },
+    {
+        "key": "UI_achievenment_daily_003",
+        "value": "Дневной вызов (3)"
+    },
+    {
+        "key": "UI_achievenment_daily_004",
+        "value": "Дневной вызов (4)"
+    },
+    {
+        "key": "UI_achievenment_daily_005",
+        "value": "Дневной вызов (5)"
+    },
+    {
+        "key": "UI_achievenment_daily_006",
+        "value": "Дневной вызов (6)"
+    },
+    {
+        "key": "UI_achievenment_daily_007",
+        "value": "Дневной вызов (7)"
+    },
+    {
+        "key": "UI_achievenment_daily_008",
+        "value": "Дневной вызов (8)"
+    },
+    {
+        "key": "UI_achievenment_daily_009",
+        "value": "Дневной вызов (9)"
+    },
+    {
+        "key": "UI_achievenment_daily_010",
+        "value": "Дневной вызов (10)"
+    },
+    {
+        "key": "UI_achievenment_check_001",
+        "value": "Полная явка (1)"
+    },
+    {
+        "key": "UI_achievenment_check_002",
+        "value": "Полная явка (2)"
+    },
+    {
+        "key": "UI_achievenment_check_003",
+        "value": "Полная явка (3)"
+    },
+    {
+        "key": "UI_achievenment_check_004",
+        "value": "Полная явка (4)"
+    },
+    {
+        "key": "UI_achievenment_check_005",
+        "value": "Полная явка (5)"
+    },
+    {
+        "key": "UI_achievenment_check_006",
+        "value": "Полная явка (6)"
+    },
+    {
+        "key": "UI_achievenment_check_007",
+        "value": "Полная явка (7)"
+    },
+    {
+        "key": "UI_achievenment_check_008",
+        "value": "Полная явка (8)"
+    },
+    {
+        "key": "UI_achievenment_check_009",
+        "value": "Полная явка (9)"
+    },
+    {
+        "key": "UI_achievenment_check_010",
+        "value": "Полная явка (10)"
+    },
+    {
+        "key": "UI_achievenment_perfect_001",
+        "value": "Идеально пройдено (1)"
+    },
+    {
+        "key": "UI_achievenment_perfect_002",
+        "value": "Идеально пройдено (2)"
+    },
+    {
+        "key": "UI_achievenment_perfect_003",
+        "value": "Идеально пройдено (3)"
+    },
+    {
+        "key": "UI_achievenment_perfect_004",
+        "value": "Идеально пройдено (4)"
+    },
+    {
+        "key": "UI_achievenment_perfect_005",
+        "value": "Идеально пройдено (5)"
+    },
+    {
+        "key": "UI_achievenment_perfect_006",
+        "value": "Идеально пройдено (6)"
+    },
+    {
+        "key": "UI_achievenment_perfect_007",
+        "value": "Идеально пройдено (7)"
+    },
+    {
+        "key": "UI_achievenment_perfect_008",
+        "value": "Идеально пройдено (8)"
+    },
+    {
+        "key": "UI_achievenment_perfect_009",
+        "value": "Идеально пройдено (9)"
+    },
+    {
+        "key": "UI_achievenment_perfect_010",
+        "value": "Идеально пройдено (10)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_001",
+        "value": "Легенда уровней (1)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_002",
+        "value": "Легенда уровней (2)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_003",
+        "value": "Легенда уровней (3)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_004",
+        "value": "Легенда уровней (4)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_005",
+        "value": "Легенда уровней (5)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_006",
+        "value": "Легенда уровней (6)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_007",
+        "value": "Легенда уровней (7)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_008",
+        "value": "Легенда уровней (8)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_009",
+        "value": "Легенда уровней (9)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_010",
+        "value": "Легенда уровней (10)"
+    },
+    {
+        "key": "UI_achievenment_second_001",
+        "value": "Мастер камбэка (1)"
+    },
+    {
+        "key": "UI_achievenment_second_002",
+        "value": "Мастер камбэка (2)"
+    },
+    {
+        "key": "UI_achievenment_second_003",
+        "value": "Мастер камбэка (3)"
+    },
+    {
+        "key": "UI_achievenment_second_004",
+        "value": "Мастер камбэка (4)"
+    },
+    {
+        "key": "UI_achievenment_second_005",
+        "value": "Мастер камбэка (5)"
+    },
+    {
+        "key": "UI_achievenment_second_006",
+        "value": "Мастер камбэка (6)"
+    },
+    {
+        "key": "UI_achievenment_second_007",
+        "value": "Мастер камбэка (7)"
+    },
+    {
+        "key": "UI_achievenment_second_008",
+        "value": "Мастер камбэка (8)"
+    },
+    {
+        "key": "UI_achievenment_second_009",
+        "value": "Мастер камбэка (9)"
+    },
+    {
+        "key": "UI_achievenment_second_010",
+        "value": "Мастер камбэка (10)"
+    },
+    {
+        "key": "UI_achievenment_close_001",
+        "value": "Момент адреналина (1)"
+    },
+    {
+        "key": "UI_achievenment_close_002",
+        "value": "Момент адреналина (2)"
+    },
+    {
+        "key": "UI_achievenment_close_003",
+        "value": "Момент адреналина (3)"
+    },
+    {
+        "key": "UI_achievenment_close_004",
+        "value": "Момент адреналина (4)"
+    },
+    {
+        "key": "UI_achievenment_close_005",
+        "value": "Момент адреналина (5)"
+    },
+    {
+        "key": "UI_achievenment_close_006",
+        "value": "Момент адреналина (6)"
+    },
+    {
+        "key": "UI_achievenment_close_007",
+        "value": "Момент адреналина (7)"
+    },
+    {
+        "key": "UI_achievenment_close_008",
+        "value": "Момент адреналина (8)"
+    },
+    {
+        "key": "UI_achievenment_close_009",
+        "value": "Момент адреналина (9)"
+    },
+    {
+        "key": "UI_achievenment_close_010",
+        "value": "Момент адреналина (10)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_001",
+        "value": "Абсолютный мастер (1)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_002",
+        "value": "Абсолютный мастер (2)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_003",
+        "value": "Абсолютный мастер (3)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_004",
+        "value": "Абсолютный мастер (4)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_005",
+        "value": "Абсолютный мастер (5)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_006",
+        "value": "Абсолютный мастер (6)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_007",
+        "value": "Абсолютный мастер (7)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_008",
+        "value": "Абсолютный мастер (8)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_009",
+        "value": "Абсолютный мастер (9)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_010",
+        "value": "Абсолютный мастер (10)"
+    },
+    {
+        "key": "UI_achievenment_streak_001",
+        "value": "Мастер серии (1)"
+    },
+    {
+        "key": "UI_achievenment_streak_002",
+        "value": "Мастер серии (2)"
+    },
+    {
+        "key": "UI_achievenment_streak_003",
+        "value": "Мастер серии (3)"
+    },
+    {
+        "key": "UI_achievenment_streak_004",
+        "value": "Мастер серии (4)"
+    },
+    {
+        "key": "UI_achievenment_streak_005",
+        "value": "Мастер серии (5)"
+    },
+    {
+        "key": "UI_achievenment_streak_006",
+        "value": "Мастер серии (6)"
+    },
+    {
+        "key": "UI_achievenment_streak_007",
+        "value": "Мастер серии (7)"
+    },
+    {
+        "key": "UI_achievenment_streak_008",
+        "value": "Мастер серии (8)"
+    },
+    {
+        "key": "UI_achievenment_streak_009",
+        "value": "Мастер серии (9)"
+    },
+    {
+        "key": "UI_achievenment_streak_010",
+        "value": "Мастер серии (10)"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "ВЕСЕЛИТЬСЯ?"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "Пожалуйста, оцените нас."
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "Оценить сейчас"
+    },
+    {
+        "key": "UI_achievenment_level_name",
+        "value": "Пройдите {0} уровней"
+    },
+    {
+        "key": "UI_achievenment_daily_name",
+        "value": "Играйте {0} дней"
+    },
+    {
+        "key": "UI_achievenment_check_name",
+        "value": "Войдите {0} дней подряд и пройдите 1 уровень"
+    },
+    {
+        "key": "UI_achievenment_perfect_name",
+        "value": "Пройдите {0} уровней с полными сердцами, без воскрешения"
+    },
+    {
+        "key": "UI_achievenment_puzzle_name",
+        "value": "Пройдите {0} уровней без подсказок"
+    },
+    {
+        "key": "UI_achievenment_second_name",
+        "value": "Возродитесь {0} раз на любом уровне"
+    },
+    {
+        "key": "UI_achievenment_close_name",
+        "value": "Пройдите {0} уровней с 1 сердцем, без воскрешения"
+    },
+    {
+        "key": "UI_achievenment_ultimate_name",
+        "value": "Пройдите {0} уровней без предметов"
+    },
+    {
+        "key": "UI_achievenment_streak_name",
+        "value": "Сыграйте {0} уровней за день"
+    },
+    {
+        "key": "UI_skin_Theme_choose",
+        "value": "Выбрать тему"
+    },
+    {
+        "key": "UI_achievenment_no_tips",
+        "value": "Достижение не получено.\nВыполните задание!"
+    }
+]

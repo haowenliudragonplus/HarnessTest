@@ -1,0 +1,2018 @@
+[
+    {
+        "key": "公式",
+        "value": null
+    },
+    {
+        "key": "Title",
+        "value": "%名称"
+    },
+    {
+        "key": "Custom",
+        "value": "垂唯识核渲染尺寸触震陀螺市（端辨"
+    },
+    {
+        "key": "UI_button_login",
+        "value": "登录"
+    },
+    {
+        "key": "UI_common_text_LevelLabel",
+        "value": "关卡"
+    },
+    {
+        "key": "UI_level_desc_13",
+        "value": "不用"
+    },
+    {
+        "key": "UI_level_desc_14",
+        "value": "退出关卡"
+    },
+    {
+        "key": "UI_level_desc_15",
+        "value": "你确定想要退出关卡吗？"
+    },
+    {
+        "key": "UI_level_desc_16",
+        "value": "你将会失去："
+    },
+    {
+        "key": "UI_level_desc_17",
+        "value": "退出"
+    },
+    {
+        "key": "UI_level_desc_18",
+        "value": "停留"
+    },
+    {
+        "key": "UI_level_desc_19",
+        "value": "闯关失败"
+    },
+    {
+        "key": "UI_level_desc_20",
+        "value": "再试一次"
+    },
+    {
+        "key": "UI_level_desc_21",
+        "value": "返回"
+    },
+    {
+        "key": "UI_level_desc_23",
+        "value": "成功通关"
+    },
+    {
+        "key": "UI_level_desc_level_fail_1",
+        "value": "添加更多时间继续玩！"
+    },
+    {
+        "key": "UI_level_desc_level_fail_2",
+        "value": "清除消除栏中所有物品继续玩！"
+    },
+    {
+        "key": "UI_level_desc_24",
+        "value": "超时"
+    },
+    {
+        "key": "UI_level_desc_25",
+        "value": "继续玩"
+    },
+    {
+        "key": "UI_level_desc_26",
+        "value": "超过空间！"
+    },
+    {
+        "key": "UI_level_desc_27",
+        "value": "清理"
+    },
+    {
+        "key": "UI_level_desc_28",
+        "value": "暂停"
+    },
+    {
+        "key": "UI_level_desc_29",
+        "value": "获取体力"
+    },
+    {
+        "key": "UI_level_desc_30",
+        "value": "你可以通过以下方式快速获取体力哟。"
+    },
+    {
+        "key": "UI_level_desc_31",
+        "value": "填满"
+    },
+    {
+        "key": "UI_level_desc_32",
+        "value": "免费体力"
+    },
+    {
+        "key": "UI_button_watch",
+        "value": "观看广告"
+    },
+    {
+        "key": "UI_button_cancel",
+        "value": "取消"
+    },
+    {
+        "key": "UI_button_do_it",
+        "value": "Do it"
+    },
+    {
+        "key": "UI_button_collect",
+        "value": "领取"
+    },
+    {
+        "key": "UI_common_lives_desc",
+        "value": "为你增加体力"
+    },
+    {
+        "key": "UI_common_lives",
+        "value": "体力"
+    },
+    {
+        "key": "UI_common_lives_max",
+        "value": "无限体力"
+    },
+    {
+        "key": "UI_common_teams",
+        "value": "队伍"
+    },
+    {
+        "key": "UI_common_rank",
+        "value": "排行榜"
+    },
+    {
+        "key": "UI_common_offline",
+        "value": "断网"
+    },
+    {
+        "key": "UI_common_new",
+        "value": "新"
+    },
+    {
+        "key": "UI_level_desc_33",
+        "value": "飞碟"
+    },
+    {
+        "key": "UI_iap_coin_desc_1",
+        "value": "金币"
+    },
+    {
+        "key": "UI_shop_purchase_2",
+        "value": "完成！"
+    },
+    {
+        "key": "UI_shop_purchase_1",
+        "value": "购买成功！"
+    },
+    {
+        "key": "UI_purchase_failed_title",
+        "value": "购买失败！"
+    },
+    {
+        "key": "UI_purchase_failed_content",
+        "value": "您的帐户未被扣款！"
+    },
+    {
+        "key": "UI_common_text_one_line1",
+        "value": "一笔画"
+    },
+    {
+        "key": "UI_common_text_one_line3",
+        "value": "敬请期待！"
+    },
+    {
+        "key": "UI_common_text_one_line4",
+        "value": "请一笔画完，过程中不要抬起手和出现重叠的线"
+    },
+    {
+        "key": "UI_common_text_one_line6",
+        "value": "请先抵达消除游戏的第{0}关来解锁下一关"
+    },
+    {
+        "key": "UI_HAPPYSHAVE_17",
+        "value": "未解锁"
+    },
+    {
+        "key": "UI_drink_game_1",
+        "value": "画%条不相交的线让所有鹿喝到水！"
+    },
+    {
+        "key": "UI_drink_game_2",
+        "value": "再试一次？"
+    },
+    {
+        "key": "UI_drink_game_3",
+        "value": "再试一次，赢取所有奖励！"
+    },
+    {
+        "key": "UI_brain_title",
+        "value": "接水管"
+    },
+    {
+        "key": "UI_drink_game_4",
+        "value": "求救！"
+    },
+    {
+        "key": "UI_mini_game_play_again",
+        "value": "再玩一次"
+    },
+    {
+        "key": "UI_common_decorate_star",
+        "value": "星星不足"
+    },
+    {
+        "key": "UI_button_loading_ADS",
+        "value": "广告加载中......"
+    },
+    {
+        "key": "UI_ support_1",
+        "value": "电子邮件："
+    },
+    {
+        "key": "UI_ support_2",
+        "value": "输入文字"
+    },
+    {
+        "key": "UI_ support_3",
+        "value": "发送"
+    },
+    {
+        "key": "UI_likeus_1",
+        "value": "为我们点赞"
+    },
+    {
+        "key": "UI_likeus_2",
+        "value": "奖励："
+    },
+    {
+        "key": "UI_likeus_3",
+        "value": "在 Facebook 上为我们点赞"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "反馈"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "展示你的喜欢，通过给予"
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "提交"
+    },
+    {
+        "key": "UI_feedback_5",
+        "value": "不确定"
+    },
+    {
+        "key": "UI_feedback_8",
+        "value": "提交"
+    },
+    {
+        "key": "UI_feedback_9",
+        "value": "不确定"
+    },
+    {
+        "key": "UI_rate_us_5stars",
+        "value": "<color=#FDE74E>5 星</color>"
+    },
+    {
+        "key": "UI_facebook_1",
+        "value": "Facebook"
+    },
+    {
+        "key": "UI_facebook_2",
+        "value": "首次用Facebook登陆你将获得："
+    },
+    {
+        "key": "UI_facebook_3",
+        "value": "跨设备同步您的游戏进度，并可以随时继续游戏"
+    },
+    {
+        "key": "UI_facebook_4",
+        "value": "连接"
+    },
+    {
+        "key": "UI_login_tip1",
+        "value": "您的游戏版本过低，请更新游戏后再试。"
+    },
+    {
+        "key": "UI_login_tip1_btn",
+        "value": "更新"
+    },
+    {
+        "key": "UI_login_tip_delete_account",
+        "value": "您删除账号的请求已经处理完成，您仍然确认要删除您的游戏账户吗？"
+    },
+    {
+        "key": "ui_fte_1001",
+        "value": "修复破损的码头需要一些星星，通过完成关卡即可获得星星！"
+    },
+    {
+        "key": "guide_enter_amsr",
+        "value": "继续帮助奥萝拉治疗耳朵。"
+    },
+    {
+        "key": "ui_fte_1039",
+        "value": "继续帮助奥萝拉从疾病中恢复。"
+    },
+    {
+        "key": "ui_fte_1008",
+        "value": "当你收集了足够的星星后，点击它即可完成你的任务。"
+    },
+    {
+        "key": "UI_levelstart_level_empty",
+        "value": "关卡"
+    },
+    {
+        "key": "UI_BUTTON_Ok",
+        "value": "确定"
+    },
+    {
+        "key": "UI_ck_gamelose_button_leave",
+        "value": "离开"
+    },
+    {
+        "key": "UI_button_yes",
+        "value": "是"
+    },
+    {
+        "key": "UI_button_no",
+        "value": "否"
+    },
+    {
+        "key": "UI_choose_progress_now",
+        "value": "当前使用"
+    },
+    {
+        "key": "UI_choose_progress_last",
+        "value": "上次同步："
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_later",
+        "value": "再想想"
+    },
+    {
+        "key": "UI_choose_progress_confirm_desc",
+        "value": "是否确认选择该存档进行同步，请输入“111”后点击确认。"
+    },
+    {
+        "key": "UI_choose_progress_confirm_tip",
+        "value": "注意：选择后将删除另一存档，请谨慎选择"
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_confirm",
+        "value": "确认"
+    },
+    {
+        "key": "UI_choose_progress_recommend",
+        "value": "推荐"
+    },
+    {
+        "key": "UI_progress_1",
+        "value": "选择您的存档"
+    },
+    {
+        "key": "UI_progress_2",
+        "value": "您想保留哪份存档？"
+    },
+    {
+        "key": "UI_progress_3",
+        "value": "在您的设备上："
+    },
+    {
+        "key": "UI_progress_4",
+        "value": "在服务器上："
+    },
+    {
+        "key": "UI_ck_exit_text1",
+        "value": "你确定？"
+    },
+    {
+        "key": "UI_update_app_desc_text",
+        "value": "发现新版本，请前往商店下载更新。更新后登录可解锁更多游戏内容。"
+    },
+    {
+        "key": "UI_update_app_btn_update",
+        "value": "更新"
+    },
+    {
+        "key": "UI_update_app_btn_later",
+        "value": "稍后"
+    },
+    {
+        "key": "UI_store_energy_full_text",
+        "value": "满"
+    },
+    {
+        "key": "UI_shop_title",
+        "value": "商店"
+    },
+    {
+        "key": "UI_shop_more",
+        "value": "更多商品"
+    },
+    {
+        "key": "UI_shop_fail_title",
+        "value": "连接失败"
+    },
+    {
+        "key": "UI_shop_fail_explain",
+        "value": "请检查网络状态"
+    },
+    {
+        "key": "UI_Shop_ADS",
+        "value": "观看"
+    },
+    {
+        "key": "UI_button_connected",
+        "value": "已登录"
+    },
+    {
+        "key": "UI_update_reward_title",
+        "value": "更新奖励："
+    },
+    {
+        "key": "UI_update_btn_update",
+        "value": "去更新"
+    },
+    {
+        "key": "UI_update_btn_later",
+        "value": "稍后"
+    },
+    {
+        "key": "UI_update_btn_claim",
+        "value": "领取"
+    },
+    {
+        "key": "UI_store_common_offlineerr_text",
+        "value": "在离线模式下游戏时，你不能进行支付。请连接到互联网并重新启动游戏。"
+    },
+    {
+        "key": "UI_errmsg_duplicate_login_native",
+        "value": "另一台设备上也打开了该游戏。如果你想在其他设备上玩，请关闭这个游戏。如果你现在想继续玩，请点击“确定”，我们会重新打开该游戏。"
+    },
+    {
+        "key": "UI_profile_force_use_server_profile_desc",
+        "value": "我们已将你的存档修复完成，快继续游戏吧！"
+    },
+    {
+        "key": "UI_update_app_title1",
+        "value": "新内容"
+    },
+    {
+        "key": "UI_update_app_title2",
+        "value": "新版本"
+    },
+    {
+        "key": "UI_update_app_title3",
+        "value": "更新成功"
+    },
+    {
+        "key": "UI_bind_fb_fail_authen_error_text",
+        "value": "绑定Facebook失败，身份验证错误。"
+    },
+    {
+        "key": "UI_quit_game_tips_text",
+        "value": "你想要退出游戏吗？"
+    },
+    {
+        "key": "UI_gift_limit_tips_pre_text",
+        "value": "您每天只能从朋友那"
+    },
+    {
+        "key": "UI_gift_limit_tips_after_text",
+        "value": "获得不超过最大体力数的体力"
+    },
+    {
+        "key": "UI_take_your_reward_text",
+        "value": "请领取你的奖励"
+    },
+    {
+        "key": "UI_choose_language_tip_desc",
+        "value": "检测到您手机使用的语言与当前游戏内语言不一致，请选择游戏内使用的语言。稍后也可以在“设置”中修改。"
+    },
+    {
+        "key": "UI_common_download",
+        "value": "下载"
+    },
+    {
+        "key": "UI_common_free",
+        "value": "免费"
+    },
+    {
+        "key": "UI_common_free2",
+        "value": "免费+{0}s"
+    },
+    {
+        "key": "UI_common_iap",
+        "value": "您已经取消购买，您可以选择喜欢的礼包继续购买！"
+    },
+    {
+        "key": "UI_daily_bonus_day",
+        "value": "第{0}天"
+    },
+    {
+        "key": "UI_purchase_failed",
+        "value": "购买失败。再试一次？"
+    },
+    {
+        "key": "UI_level_goals_complete",
+        "value": "目标完成！"
+    },
+    {
+        "key": "UI_upgrade_locked_text",
+        "value": "未解锁"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Title",
+        "value": "退出游戏"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Content",
+        "value": "您确定退出游戏？"
+    },
+    {
+        "key": "UI_POPUP_EXIT_BUTTON_Exit",
+        "value": "退出"
+    },
+    {
+        "key": "UI_POPUP_RESERROR_Content",
+        "value": "下载资源失败。请再试一遍。"
+    },
+    {
+        "key": "UI_POPUP_SAVE_Content",
+        "value": "已保存！"
+    },
+    {
+        "key": "UI_POPUP_BUY_Fail_Content",
+        "value": "购买失败！"
+    },
+    {
+        "key": "UI_CHOOSE_PROFILE_POPUP_SUCCESS_Content",
+        "value": "您的个人存档已成功恢复！游戏愉快！"
+    },
+    {
+        "key": "UI_MULTIDEVICE_LOGIN_Msg",
+        "value": "您在另一台设备上打开过游戏，要在该设备上游戏，请立即退出。要在此设备游戏，请点击“确定”。游戏将重新启动。"
+    },
+    {
+        "key": "UI_NEEDUPDATE_Msg",
+        "value": "新版本已发布，请更新！"
+    },
+    {
+        "key": "UI_NTWORKOVERTIME_Content",
+        "value": "网络状态不稳定，请重试。"
+    },
+    {
+        "key": "UI_NTWORKXNET_Title",
+        "value": "无连接"
+    },
+    {
+        "key": "UI_NTWORKXNET_Content",
+        "value": "请检查您的设备网络状态，然后重新登录游戏。"
+    },
+    {
+        "key": "UI_POPUP_NOADS_Title",
+        "value": "抱歉"
+    },
+    {
+        "key": "UI_POPUP_NOADS_Content",
+        "value": "广告正在拉取，\n  请稍后再试！"
+    },
+    {
+        "key": "UI_download_resources_error",
+        "value": "没有互联网连接，请检查网络连接并重试。"
+    },
+    {
+        "key": "UI_no_internet_tips",
+        "value": "没有互联网连接，请连接到互联网再试。"
+    },
+    {
+        "key": "UI_privacy_title_native",
+        "value": "隐私协议"
+    },
+    {
+        "key": "UI_privacy_message_native",
+        "value": "继续游戏前，您需要同意我们的隐私协议"
+    },
+    {
+        "key": "UI_privacy_btn_link_title_native",
+        "value": "详情链接"
+    },
+    {
+        "key": "UI_privacy_btn_agree_title_native",
+        "value": "同意"
+    },
+    {
+        "key": "UI_download_fail_title",
+        "value": "下载失败"
+    },
+    {
+        "key": "UI_download_fail_text",
+        "value": "无法下载进行游戏必要的资源，请检查网络连接，然后重试一次。"
+    },
+    {
+        "key": "UI_download_fail_button",
+        "value": "重试"
+    },
+    {
+        "key": "UI_rateus_title_text",
+        "value": "评价游戏"
+    },
+    {
+        "key": "UI_rateus_ios_desc_text",
+        "value": "如果你喜欢这款游戏，请你花稍许时间给我们一个五星好评吧！这会给予我们很多帮助！谢谢！"
+    },
+    {
+        "key": "UI_rateus_ios_later_text",
+        "value": "稍后提醒"
+    },
+    {
+        "key": "UI_rateus_ios_no_text",
+        "value": "不了，谢谢"
+    },
+    {
+        "key": "UI_sensitivewords_notice",
+        "value": "您输入的信息包含敏感词，请修改！"
+    },
+    {
+        "key": "UI_storagefull_notice_text",
+        "value": "手机存储空间已满, 请清理后再进入游戏。"
+    },
+    {
+        "key": "UI_bind_Apple_fail_authen_error_text",
+        "value": "绑定Apple的失败，身份验证错误。"
+    },
+    {
+        "key": "UI_Apple_accesstoken_ru_pwchange_text",
+        "value": "使用Apple登录失败，请尝试重新登录。"
+    },
+    {
+        "key": "UI_fb_accesstoken_ru_pwchange_text",
+        "value": "使用Facebook登录失败，请尝试重新登录。"
+    },
+    {
+        "key": "UI_Shop_Tab1",
+        "value": "金币"
+    },
+    {
+        "key": "UI_Shop_Tab2",
+        "value": "普通"
+    },
+    {
+        "key": "UI_Shop_Tab3",
+        "value": "特殊"
+    },
+    {
+        "key": "UI_Shop_Text1",
+        "value": "剩余 {0}"
+    },
+    {
+        "key": "UI_Shop_Text1_0",
+        "value": "剩余 0"
+    },
+    {
+        "key": "UI_Shop_Text2",
+        "value": "折扣"
+    },
+    {
+        "key": "UI_Shop_Btn1",
+        "value": "购买"
+    },
+    {
+        "key": "UI_Shop_Text3",
+        "value": "未解锁"
+    },
+    {
+        "key": "UI_Shop_Text4",
+        "value": "售罄"
+    },
+    {
+        "key": "UI_Shop_Tip1",
+        "value": "道具已买完，请稍后查看"
+    },
+    {
+        "key": "UI_Shop_Tip2",
+        "value": "进行更多次合成，解锁这个商品"
+    },
+    {
+        "key": "UI_button_continue",
+        "value": "继续"
+    },
+    {
+        "key": "UI_button_next",
+        "value": "next"
+    },
+    {
+        "key": "UI_parkour_level_id",
+        "value": "关卡 {0}"
+    },
+    {
+        "key": "UI_level_selectbooster",
+        "value": "选择道具"
+    },
+    {
+        "key": "UI_button_area",
+        "value": "区域 {0}"
+    },
+    {
+        "key": "UI_button_house",
+        "value": "建筑{0}"
+    },
+    {
+        "key": "UI_button_house_title",
+        "value": "任务"
+    },
+    {
+        "key": "UI_button_house_pragess",
+        "value": "装修进度"
+    },
+    {
+        "key": "UI_house_title1",
+        "value": "建筑"
+    },
+    {
+        "key": "UI_TimeFormatWithDay",
+        "value": "{0:00}天 {1:00}时"
+    },
+    {
+        "key": "UI_TimeFormatWithHour",
+        "value": "{0:00}时 {1:00}分"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute",
+        "value": "{0:00}分 {1:00}秒"
+    },
+    {
+        "key": "UI_button_claim_text",
+        "value": "领取"
+    },
+    {
+        "key": "UI_button_later",
+        "value": "稍后"
+    },
+    {
+        "key": "UI_rateus_ios_rate_text",
+        "value": "现在就评分"
+    },
+    {
+        "key": "UI_PayRegion_Btn1",
+        "value": "购买"
+    },
+    {
+        "key": "UI_button_play",
+        "value": "开始"
+    },
+    {
+        "key": "UI_SpecialLevel_Map_title",
+        "value": "地图"
+    },
+    {
+        "key": "UI_FindTM_Unlock_Des",
+        "value": "Lv {0}"
+    },
+    {
+        "key": "UI_button_house_btn_tips",
+        "value": "建筑"
+    },
+    {
+        "key": "UI_button_ASMR_btn_tips",
+        "value": "挑战"
+    },
+    {
+        "key": "UI_makeover_pragess",
+        "value": "美妆进度"
+    },
+    {
+        "key": "UI_build_title",
+        "value": "建筑"
+    },
+    {
+        "key": "UI_makeover_title",
+        "value": "美妆室"
+    },
+    {
+        "key": "UI_makeover_tips",
+        "value": "解锁更多的关卡"
+    },
+    {
+        "key": "UI_makeover_win_title",
+        "value": "房间完成!"
+    },
+    {
+        "key": "UI_makeover_reward",
+        "value": "奖励"
+    },
+    {
+        "key": "UI_UnlockReward_Title1",
+        "value": "新区域解锁"
+    },
+    {
+        "key": "UI_makeover_get",
+        "value": "获取更多"
+    },
+    {
+        "key": "UI_common_home",
+        "value": "大厅"
+    },
+    {
+        "key": "UI_common_Island",
+        "value": "地图"
+    },
+    {
+        "key": "UI_common_shop",
+        "value": "商店"
+    },
+    {
+        "key": "UI_ASMR_coming_tips",
+        "value": "即将开启"
+    },
+    {
+        "key": "UI_ASMR_button_cannot_play",
+        "value": "请通关上一关"
+    },
+    {
+        "key": "UI_level_desc_add",
+        "value": "加时"
+    },
+    {
+        "key": "UI_common_box_tittle",
+        "value": "通知"
+    },
+    {
+        "key": "UI_cannot_connect_to_itunes_store",
+        "value": "无法连接到iTunes商店！请稍后再试。"
+    },
+    {
+        "key": "UI_cannot_connect_to_google_play",
+        "value": "无法连接到Google play！请稍后再试。"
+    },
+    {
+        "key": "UI_common_notice",
+        "value": "通知"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_1",
+        "value": "去广告"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_2",
+        "value": "双倍礼包"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_1",
+        "value": "隐藏非激励广告"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_2",
+        "value": "{0}金币"
+    },
+    {
+        "key": "UI_iap_market_1",
+        "value": "限量\n优惠"
+    },
+    {
+        "key": "UI_iap_market_2",
+        "value": "最受\n欢迎"
+    },
+    {
+        "key": "UI_iap_market_3",
+        "value": "最优\n价格"
+    },
+    {
+        "key": "UI_shop_moreoffers",
+        "value": "更多优惠"
+    },
+    {
+        "key": "UI_button_go",
+        "value": "查看"
+    },
+    {
+        "key": "UI_common_function_locked_tip",
+        "value": "完成第21关后解锁"
+    },
+    {
+        "key": "UI_common_finish_tip",
+        "value": "即将推出"
+    },
+    {
+        "key": "UI_loading_loadStr",
+        "value": "加载中...{0}%"
+    },
+    {
+        "key": "adbox_no_reward",
+        "value": "广告还未加载完成"
+    },
+    {
+        "key": "UI_common_time_month",
+        "value": "月"
+    },
+    {
+        "key": "UI_common_time_week",
+        "value": "周"
+    },
+    {
+        "key": "UI_common_time_h",
+        "value": "时"
+    },
+    {
+        "key": "UI_common_time_m",
+        "value": "分"
+    },
+    {
+        "key": "UI_common_time_d",
+        "value": "天"
+    },
+    {
+        "key": "UI_common_time_s",
+        "value": "秒"
+    },
+    {
+        "key": "UI_TimeFormatWithDay_2",
+        "value": "{0:00}天:{1:00}时"
+    },
+    {
+        "key": "UI_TimeFormatWithHour_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_level_desc_40",
+        "value": "清除消除栏中所有物品"
+    },
+    {
+        "key": "UI_level_desc_41",
+        "value": "道具无法使用"
+    },
+    {
+        "key": "UI_iap_pack_name_icebreakgift",
+        "value": "惊喜礼包"
+    },
+    {
+        "key": "UI_iap_pack_num_per",
+        "value": "{0}%"
+    },
+    {
+        "key": "guide_world_1033",
+        "value": "我们玩一局游戏吧！"
+    },
+    {
+        "key": "UI_fb_login_fail_tips",
+        "value": "登陆失败!连接网络后重试！"
+    },
+    {
+        "key": "UI_level_desc_42",
+        "value": "道具无法使用,不可点击!"
+    },
+    {
+        "key": "UI_iap_pack_num_2",
+        "value": "80%"
+    },
+    {
+        "key": "UI_iap_pack_num_scale_2",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_iap_pack_name_new_2",
+        "value": "魔术礼包"
+    },
+    {
+        "key": "UI_activity_end_tips",
+        "value": "活动结束"
+    },
+    {
+        "key": "UI_settings_on",
+        "value": "ON"
+    },
+    {
+        "key": "UI_settings_off",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_settings_autoMatch",
+        "value": "自动匹配"
+    },
+    {
+        "key": "UI_settings_autoComplete",
+        "value": "自动完成"
+    },
+    {
+        "key": "UI_settings_free",
+        "value": "突出显示自由方块"
+    },
+    {
+        "key": "UI_settings_play",
+        "value": "怎么玩"
+    },
+    {
+        "key": "UI_settings_iap_no_ad",
+        "value": "无广告 "
+    },
+    {
+        "key": "UI_settings_Restart",
+        "value": "重新开始"
+    },
+    {
+        "key": "UI_setting_ language",
+        "value": "语言"
+    },
+    {
+        "key": "UI_setting_ support",
+        "value": "支持"
+    },
+    {
+        "key": "UI_setting_ Facebook",
+        "value": "Facebook"
+    },
+    {
+        "key": "UI_setting_version",
+        "value": "版本："
+    },
+    {
+        "key": "UI_setting_user_id",
+        "value": "UID:"
+    },
+    {
+        "key": "UI_setting_common_1",
+        "value": "恢复购买"
+    },
+    {
+        "key": "UI_setting_common_2",
+        "value": "已经成功恢复了你的去广告特权，继续游戏吧！"
+    },
+    {
+        "key": "UI_setting_common_3",
+        "value": "你当前没有可恢复的特权，需要先购买对应的去广告礼包。"
+    },
+    {
+        "key": "UI_common_text_ScoreLabel",
+        "value": "得分"
+    },
+    {
+        "key": "UI_common_text_MatchesLabel",
+        "value": "匹配"
+    },
+    {
+        "key": "UI_contactus_panel_title",
+        "value": "建议与问题"
+    },
+    {
+        "key": "UI_contactus_panel_email_textbox_text",
+        "value": "请输入您的电子邮箱地址"
+    },
+    {
+        "key": "UI_contactus_panel_input_textbox_text",
+        "value": "请告诉我们您的建议和问题"
+    },
+    {
+        "key": "UI_contactus_panel_email_err_text",
+        "value": "请输入有效的电子邮箱地址"
+    },
+    {
+        "key": "UI_contactus_panel_input_popup_text",
+        "value": "请告诉我们您的建议和问题"
+    },
+    {
+        "key": "UI_contactus_panel_send_err_text",
+        "value": "发送失败，请再试一次"
+    },
+    {
+        "key": "UI_settings_button_save_ios",
+        "value": "保存进度"
+    },
+    {
+        "key": "UI_save_ios_title",
+        "value": "保存你的进度"
+    },
+    {
+        "key": "UI_save_ios_text",
+        "value": "登录保存你的进度"
+    },
+    {
+        "key": "UI_save_ios_button_apple",
+        "value": "通过 Apple 登录"
+    },
+    {
+        "key": "UI_save_ios_button_fb",
+        "value": "Facebook登录"
+    },
+    {
+        "key": "UI_save_ios_button_tip",
+        "value": "Facebook登录"
+    },
+    {
+        "key": "UI_login_button_delete_account",
+        "value": "账号删除"
+    },
+    {
+        "key": "UI_login_tip_delete_account_7days",
+        "value": "您的账号删除请求已提交成功，账号会在7日后完成删除"
+    },
+    {
+        "key": "UI_login_tip_delete_account_title",
+        "value": "删除存档?"
+    },
+    {
+        "key": "UI_login_tip_delete_account_tips",
+        "value": "此过程不可逆"
+    },
+    {
+        "key": "UI_delete_txt1",
+        "value": "您真的想删除所有保存的个人数据吗？<color=#FF322B>(此操作不可撤销）</color>"
+    },
+    {
+        "key": "UI_PrivacyPolicy_1",
+        "value": "接受隐私政策"
+    },
+    {
+        "key": "UI_PrivacyPolicy_2",
+        "value": "继续游戏前，您需要同意我们的隐私政策和服务协议："
+    },
+    {
+        "key": "UI_PrivacyPolicy_3",
+        "value": "隐私政策"
+    },
+    {
+        "key": "UI_PrivacyPolicy_4",
+        "value": "我同意"
+    },
+    {
+        "key": "UI_PrivacyPolicy_5",
+        "value": "服务协议"
+    },
+    {
+        "key": "UI_level_desc_22",
+        "value": "设置"
+    },
+    {
+        "key": "UI_Comb_prefect",
+        "value": "完美连击奖励！"
+    },
+    {
+        "key": "UI_Locked_left",
+        "value": "左右被锁住"
+    },
+    {
+        "key": "UI_Locked_top",
+        "value": "被上方锁住"
+    },
+    {
+        "key": "UI_hard_tip",
+        "value": "Hard"
+    },
+    {
+        "key": "UI_tip_loading_text",
+        "value": "加载中...请稍候"
+    },
+    {
+        "key": "UI_Shuffle_get_one",
+        "value": "获取一个"
+    },
+    {
+        "key": "UI_Hint_tip_01",
+        "value": "观看视频获得提示"
+    },
+    {
+        "key": "UI_Return_tip",
+        "value": "现在是第一步"
+    },
+    {
+        "key": "UI_restart_title",
+        "value": "没有有效的匹配"
+    },
+    {
+        "key": "UI_restart_tip",
+        "value": "使用洗牌？"
+    },
+    {
+        "key": "UI_restart_shuffle",
+        "value": "洗牌-1"
+    },
+    {
+        "key": "UI_restart_shuffle_none",
+        "value": "洗牌用完了！"
+    },
+    {
+        "key": "UI_button_tip",
+        "value": "好的"
+    },
+    {
+        "key": "UI_button_tip_1",
+        "value": "下一个"
+    },
+    {
+        "key": "UI_button_ok",
+        "value": "确定"
+    },
+    {
+        "key": "UI_choose_progress_title_text",
+        "value": "存档选择"
+    },
+    {
+        "key": "UI_choose_progress_desc_main_text",
+        "value": "你要保留哪一个存档？"
+    },
+    {
+        "key": "UI_choose_progress_on_server",
+        "value": "服务器上的"
+    },
+    {
+        "key": "UI_choose_progress_on_device",
+        "value": "你的设备上的"
+    },
+    {
+        "key": "UI_choose_progress_button_server",
+        "value": "服务器"
+    },
+    {
+        "key": "UI_choose_progress_button_device",
+        "value": "你的设备"
+    },
+    {
+        "key": "UI_loading_upgrade",
+        "value": "更新中...{0} {1}"
+    },
+    {
+        "key": "UI_return_reward_help_target",
+        "value": "关卡{0}"
+    },
+    {
+        "key": "UI_Daily_title",
+        "value": "每日"
+    },
+    {
+        "key": "UI_Daily_title_1",
+        "value": "每日挑战"
+    },
+    {
+        "key": "UI_skin_Theme",
+        "value": "主题"
+    },
+    {
+        "key": "UI_skin_Tiles",
+        "value": "麻将"
+    },
+    {
+        "key": "UI_skin_Backgroud",
+        "value": "背景"
+    },
+    {
+        "key": "UI_skin_simple",
+        "value": "简单"
+    },
+    {
+        "key": "UI_skin_poker",
+        "value": "扑克"
+    },
+    {
+        "key": "UI_skin_old",
+        "value": "传统"
+    },
+    {
+        "key": "UI_game_daily_week1",
+        "value": "周一"
+    },
+    {
+        "key": "UI_game_daily_week2",
+        "value": "周二"
+    },
+    {
+        "key": "UI_game_daily_week3",
+        "value": "周三"
+    },
+    {
+        "key": "UI_game_daily_week4",
+        "value": "周四"
+    },
+    {
+        "key": "UI_game_daily_week5",
+        "value": "周五"
+    },
+    {
+        "key": "UI_game_daily_week6",
+        "value": "周六"
+    },
+    {
+        "key": "UI_game_daily_week7",
+        "value": "周日"
+    },
+    {
+        "key": "UI_game_daily_date",
+        "value": "日期"
+    },
+    {
+        "key": "UI_game_daily_month1",
+        "value": "1月"
+    },
+    {
+        "key": "UI_game_daily_month2",
+        "value": "2月"
+    },
+    {
+        "key": "UI_game_daily_month3",
+        "value": "3月"
+    },
+    {
+        "key": "UI_game_daily_month4",
+        "value": "4月"
+    },
+    {
+        "key": "UI_game_daily_month5",
+        "value": "5月"
+    },
+    {
+        "key": "UI_game_daily_month6",
+        "value": "6月"
+    },
+    {
+        "key": "UI_game_daily_month7",
+        "value": "7月"
+    },
+    {
+        "key": "UI_game_daily_month8",
+        "value": "8月"
+    },
+    {
+        "key": "UI_game_daily_month9",
+        "value": "9月"
+    },
+    {
+        "key": "UI_game_daily_month10",
+        "value": "10月"
+    },
+    {
+        "key": "UI_game_daily_month11",
+        "value": "11月"
+    },
+    {
+        "key": "UI_game_daily_month12",
+        "value": "12月"
+    },
+    {
+        "key": "UI_daily_Btn1",
+        "value": "挑战"
+    },
+    {
+        "key": "UI_daily_Tip_2",
+        "value": "花房"
+    },
+    {
+        "key": "UI_button_task_title",
+        "value": "任务"
+    },
+    {
+        "key": "UI_common_level",
+        "value": "关卡 {0}"
+    },
+    {
+        "key": "UI_common_unlock",
+        "value": "未解锁！"
+    },
+    {
+        "key": "UI_revive_title",
+        "value": "空间不足"
+    },
+    {
+        "key": "UI_new_tip_1",
+        "value": "点击移动箭头"
+    },
+    {
+        "key": "UI_new_tip_2",
+        "value": "双手滑动放大或缩小图案"
+    },
+    {
+        "key": "UI_new_tip_3",
+        "value": "辅助线可以帮助你完成关卡！"
+    },
+    {
+        "key": "UI_new_tip_4",
+        "value": "使用<color=#299200>加孔</color>，可以增加新的空位！"
+    },
+    {
+        "key": "UI_new_tip_5",
+        "value": "使用<color=#299200>提示</color>，收集<color=#299200>3</color>个配对麻将！"
+    },
+    {
+        "key": "UI_new_tip_6",
+        "value": "使用<color=#299200>清扫</color>，清除暂存栏中的麻将牌！"
+    },
+    {
+        "key": "Purchase_Failed_Title",
+        "value": "购买失败！"
+    },
+    {
+        "key": "Purchase_Failed_Desc",
+        "value": "购买已失败！"
+    },
+    {
+        "key": "UI_common_button_continue",
+        "value": "继续"
+    },
+    {
+        "key": "UI_revive_continue_title",
+        "value": "继续？"
+    },
+    {
+        "key": "UI_revive_continue_tips",
+        "value": "回复血量，并继续游戏！"
+    },
+    {
+        "key": "UI_revive_continue_tips_01",
+        "value": "增加步数并继续游戏！"
+    },
+    {
+        "key": "UI_end_title_1",
+        "value": "才思敏捷！"
+    },
+    {
+        "key": "UI_end_title_2",
+        "value": "聪慧卓越！"
+    },
+    {
+        "key": "UI_end_title_3",
+        "value": "才华横溢！"
+    },
+    {
+        "key": "UI_end_title_4",
+        "value": "传奇大师！"
+    },
+    {
+        "key": "UI_end_title_5",
+        "value": "无所畏惧！"
+    },
+    {
+        "key": "UI_end_title_6",
+        "value": "壮丽非凡！"
+    },
+    {
+        "key": "UI_end_title_7",
+        "value": "杰出优异！"
+    },
+    {
+        "key": "UI_end_title_8",
+        "value": "令人惊叹！"
+    },
+    {
+        "key": "UI_end_title_9",
+        "value": "才华闪耀！"
+    },
+    {
+        "key": "UI_Superhard_tip",
+        "value": "Super hard"
+    },
+    {
+        "key": "UI_common_revive",
+        "value": "复活"
+    },
+    {
+        "key": "UI_tips_text1",
+        "value": "给你的朋友送体力，并请他们回赠给你！"
+    },
+    {
+        "key": "UI_tips_text2",
+        "value": "使用道具帮助你完成挑战"
+    },
+    {
+        "key": "UI_tips_text3",
+        "value": "不要忘记每天回来领取你的每日奖励"
+    },
+    {
+        "key": "UI_tips_text4",
+        "value": "邀请你的Facebook朋友来玩这个游戏，请他们送你免费的体力"
+    },
+    {
+        "key": "UI_tips_text5",
+        "value": "不要忘了喜欢我们的Facebook粉丝专页"
+    },
+    {
+        "key": "UI_tips_text6",
+        "value": "观察清楚物品，然后快速收集！"
+    },
+    {
+        "key": "UI_tips_text7",
+        "value": "获得金色花环，可以获得更多道具！"
+    },
+    {
+        "key": "UI_tips_text8",
+        "value": "完成周挑战，可以获得超多奖励！"
+    },
+    {
+        "key": "UI_tips_text9",
+        "value": "关注活动，并积极参与活动！"
+    },
+    {
+        "key": "UI_tips_text10",
+        "value": "商城中有很多超值礼包！"
+    },
+    {
+        "key": "UI_tips_text11",
+        "value": "队伍是重要的社交系统！"
+    },
+    {
+        "key": "UI_tips_text12",
+        "value": "随时关注队伍信息！"
+    },
+    {
+        "key": "UI_loading_progress_text",
+        "value": "加载中"
+    },
+    {
+        "key": "UI_loading_tip",
+        "value": "解锁更多的关卡，以获得更多奖励"
+    },
+    {
+        "key": "UI_button_retry_text",
+        "value": "重试"
+    },
+    {
+        "key": "UI_loading_init",
+        "value": "初始化中...{0}%"
+    },
+    {
+        "key": "UI_loading_load",
+        "value": "加载中...{0}%"
+    },
+    {
+        "key": "UI_loading_count",
+        "value": "计算中"
+    },
+    {
+        "key": "UI_common_PlayOn",
+        "value": "继续"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name",
+        "value": "去广告"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_01",
+        "value": "移除横幅广告和全屏广告"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_02",
+        "value": "保留可选的奖励广告"
+    },
+    {
+        "key": "UI_common_no_ad_buy",
+        "value": "恭喜您获得永久去插屏广告特权，祝您游戏愉快！"
+    },
+    {
+        "key": "UI_Level_Moves",
+        "value": "步数：{0}"
+    },
+    {
+        "key": "UI_daily_unlock",
+        "value": "第{0}解锁"
+    },
+    {
+        "key": "UI_Achievement_title",
+        "value": "成就"
+    },
+    {
+        "key": "UI_Achievement_task",
+        "value": "任务"
+    },
+    {
+        "key": "UI_Achievement_mine",
+        "value": "已拥有"
+    },
+    {
+        "key": "UI_Achievement_tip",
+        "value": "进行中"
+    },
+    {
+        "key": "UI_Achievement_full",
+        "value": "已满级"
+    },
+    {
+        "key": "UI_Achievement_get",
+        "value": "获得成就"
+    },
+    {
+        "key": "UI_Achievement_number",
+        "value": "已获得勋章数量 {0}"
+    },
+    {
+        "key": "UI_Achievement_complete",
+        "value": "成就达成"
+    },
+    {
+        "key": "UI_achievenment_level_001",
+        "value": "通关达人(1)"
+    },
+    {
+        "key": "UI_achievenment_level_002",
+        "value": "通关达人(2)"
+    },
+    {
+        "key": "UI_achievenment_level_003",
+        "value": "通关达人(3)"
+    },
+    {
+        "key": "UI_achievenment_level_004",
+        "value": "通关达人(4)"
+    },
+    {
+        "key": "UI_achievenment_level_005",
+        "value": "通关达人(5)"
+    },
+    {
+        "key": "UI_achievenment_level_006",
+        "value": "通关达人(6)"
+    },
+    {
+        "key": "UI_achievenment_level_007",
+        "value": "通关达人(7)"
+    },
+    {
+        "key": "UI_achievenment_level_008",
+        "value": "通关达人(8)"
+    },
+    {
+        "key": "UI_achievenment_level_009",
+        "value": "通关达人(9)"
+    },
+    {
+        "key": "UI_achievenment_level_010",
+        "value": "通关达人(10)"
+    },
+    {
+        "key": "UI_achievenment_daily_001",
+        "value": "每日挑战(1)"
+    },
+    {
+        "key": "UI_achievenment_daily_002",
+        "value": "每日挑战(2)"
+    },
+    {
+        "key": "UI_achievenment_daily_003",
+        "value": "每日挑战(3)"
+    },
+    {
+        "key": "UI_achievenment_daily_004",
+        "value": "每日挑战(4)"
+    },
+    {
+        "key": "UI_achievenment_daily_005",
+        "value": "每日挑战(5)"
+    },
+    {
+        "key": "UI_achievenment_daily_006",
+        "value": "每日挑战(6)"
+    },
+    {
+        "key": "UI_achievenment_daily_007",
+        "value": "每日挑战(7)"
+    },
+    {
+        "key": "UI_achievenment_daily_008",
+        "value": "每日挑战(8)"
+    },
+    {
+        "key": "UI_achievenment_daily_009",
+        "value": "每日挑战(9)"
+    },
+    {
+        "key": "UI_achievenment_daily_010",
+        "value": "每日挑战(10)"
+    },
+    {
+        "key": "UI_achievenment_check_001",
+        "value": "全勤打卡(1)"
+    },
+    {
+        "key": "UI_achievenment_check_002",
+        "value": "全勤打卡(2)"
+    },
+    {
+        "key": "UI_achievenment_check_003",
+        "value": "全勤打卡(3)"
+    },
+    {
+        "key": "UI_achievenment_check_004",
+        "value": "全勤打卡(4)"
+    },
+    {
+        "key": "UI_achievenment_check_005",
+        "value": "全勤打卡(5)"
+    },
+    {
+        "key": "UI_achievenment_check_006",
+        "value": "全勤打卡(6)"
+    },
+    {
+        "key": "UI_achievenment_check_007",
+        "value": "全勤打卡(7)"
+    },
+    {
+        "key": "UI_achievenment_check_008",
+        "value": "全勤打卡(8)"
+    },
+    {
+        "key": "UI_achievenment_check_009",
+        "value": "全勤打卡(9)"
+    },
+    {
+        "key": "UI_achievenment_check_010",
+        "value": "全勤打卡(10)"
+    },
+    {
+        "key": "UI_achievenment_perfect_001",
+        "value": "完美通关(1)"
+    },
+    {
+        "key": "UI_achievenment_perfect_002",
+        "value": "完美通关(2)"
+    },
+    {
+        "key": "UI_achievenment_perfect_003",
+        "value": "完美通关(3)"
+    },
+    {
+        "key": "UI_achievenment_perfect_004",
+        "value": "完美通关(4)"
+    },
+    {
+        "key": "UI_achievenment_perfect_005",
+        "value": "完美通关(5)"
+    },
+    {
+        "key": "UI_achievenment_perfect_006",
+        "value": "完美通关(6)"
+    },
+    {
+        "key": "UI_achievenment_perfect_007",
+        "value": "完美通关(7)"
+    },
+    {
+        "key": "UI_achievenment_perfect_008",
+        "value": "完美通关(8)"
+    },
+    {
+        "key": "UI_achievenment_perfect_009",
+        "value": "完美通关(9)"
+    },
+    {
+        "key": "UI_achievenment_perfect_010",
+        "value": "完美通关(10)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_001",
+        "value": "关卡传奇(1)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_002",
+        "value": "关卡传奇(2)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_003",
+        "value": "关卡传奇(3)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_004",
+        "value": "关卡传奇(4)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_005",
+        "value": "关卡传奇(5)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_006",
+        "value": "关卡传奇(6)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_007",
+        "value": "关卡传奇(7)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_008",
+        "value": "关卡传奇(8)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_009",
+        "value": "关卡传奇(9)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_010",
+        "value": "关卡传奇(10)"
+    },
+    {
+        "key": "UI_achievenment_second_001",
+        "value": "逆转玩家(1)"
+    },
+    {
+        "key": "UI_achievenment_second_002",
+        "value": "逆转玩家(2)"
+    },
+    {
+        "key": "UI_achievenment_second_003",
+        "value": "逆转玩家(3)"
+    },
+    {
+        "key": "UI_achievenment_second_004",
+        "value": "逆转玩家(4)"
+    },
+    {
+        "key": "UI_achievenment_second_005",
+        "value": "逆转玩家(5)"
+    },
+    {
+        "key": "UI_achievenment_second_006",
+        "value": "逆转玩家(6)"
+    },
+    {
+        "key": "UI_achievenment_second_007",
+        "value": "逆转玩家(7)"
+    },
+    {
+        "key": "UI_achievenment_second_008",
+        "value": "逆转玩家(8)"
+    },
+    {
+        "key": "UI_achievenment_second_009",
+        "value": "逆转玩家(9)"
+    },
+    {
+        "key": "UI_achievenment_second_010",
+        "value": "逆转玩家(10)"
+    },
+    {
+        "key": "UI_achievenment_close_001",
+        "value": "心跳时刻(1)"
+    },
+    {
+        "key": "UI_achievenment_close_002",
+        "value": "心跳时刻(2)"
+    },
+    {
+        "key": "UI_achievenment_close_003",
+        "value": "心跳时刻(3)"
+    },
+    {
+        "key": "UI_achievenment_close_004",
+        "value": "心跳时刻(4)"
+    },
+    {
+        "key": "UI_achievenment_close_005",
+        "value": "心跳时刻(5)"
+    },
+    {
+        "key": "UI_achievenment_close_006",
+        "value": "心跳时刻(6)"
+    },
+    {
+        "key": "UI_achievenment_close_007",
+        "value": "心跳时刻(7)"
+    },
+    {
+        "key": "UI_achievenment_close_008",
+        "value": "心跳时刻(8)"
+    },
+    {
+        "key": "UI_achievenment_close_009",
+        "value": "心跳时刻(9)"
+    },
+    {
+        "key": "UI_achievenment_close_010",
+        "value": "心跳时刻(10)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_001",
+        "value": "终极大师(1)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_002",
+        "value": "终极大师(2)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_003",
+        "value": "终极大师(3)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_004",
+        "value": "终极大师(4)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_005",
+        "value": "终极大师(5)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_006",
+        "value": "终极大师(6)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_007",
+        "value": "终极大师(7)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_008",
+        "value": "终极大师(8)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_009",
+        "value": "终极大师(9)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_010",
+        "value": "终极大师(10)"
+    },
+    {
+        "key": "UI_achievenment_streak_001",
+        "value": "连胜专家(1)"
+    },
+    {
+        "key": "UI_achievenment_streak_002",
+        "value": "连胜专家(2)"
+    },
+    {
+        "key": "UI_achievenment_streak_003",
+        "value": "连胜专家(3)"
+    },
+    {
+        "key": "UI_achievenment_streak_004",
+        "value": "连胜专家(4)"
+    },
+    {
+        "key": "UI_achievenment_streak_005",
+        "value": "连胜专家(5)"
+    },
+    {
+        "key": "UI_achievenment_streak_006",
+        "value": "连胜专家(6)"
+    },
+    {
+        "key": "UI_achievenment_streak_007",
+        "value": "连胜专家(7)"
+    },
+    {
+        "key": "UI_achievenment_streak_008",
+        "value": "连胜专家(8)"
+    },
+    {
+        "key": "UI_achievenment_streak_009",
+        "value": "连胜专家(9)"
+    },
+    {
+        "key": "UI_achievenment_streak_010",
+        "value": "连胜专家(10)"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "玩的开心吗？"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "请给我们评分吧！"
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "现在评分"
+    },
+    {
+        "key": "UI_achievenment_level_name",
+        "value": "通过关卡{0}关"
+    },
+    {
+        "key": "UI_achievenment_daily_name",
+        "value": "挑战{0}天"
+    },
+    {
+        "key": "UI_achievenment_check_name",
+        "value": "连续登录{0}天并完成任意1次关卡"
+    },
+    {
+        "key": "UI_achievenment_perfect_name",
+        "value": "满心，无复活完成{0}关卡"
+    },
+    {
+        "key": "UI_achievenment_puzzle_name",
+        "value": "不使用提示的情况下通过{0}关"
+    },
+    {
+        "key": "UI_achievenment_second_name",
+        "value": "在任意关卡复活{0}次"
+    },
+    {
+        "key": "UI_achievenment_close_name",
+        "value": "没有复活状态下，只剩下一颗心通过关卡{0}次"
+    },
+    {
+        "key": "UI_achievenment_ultimate_name",
+        "value": "全程不使用任何道具通过{0}关"
+    },
+    {
+        "key": "UI_achievenment_streak_name",
+        "value": "一天内连续挑战{0}关"
+    },
+    {
+        "key": "UI_skin_Theme_choose",
+        "value": "选择主题"
+    },
+    {
+        "key": "UI_achievenment_no_tips",
+        "value": "未获得成就，\n请完成成就任务！"
+    }
+]

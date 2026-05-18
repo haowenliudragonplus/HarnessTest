@@ -1,0 +1,24 @@
+{
+    "name": "Main",
+    "rootNamespace": "",
+    "references": [
+        "BetterStreamingAssets",
+        "YooAsset",
+        "UniTask",
+        "HybridCLR.Runtime",
+        "StrompyRobot",
+        "Unity.TextMeshPro",
+        "spine-unity",
+        "YooAsset.RuntimeExtension",
+        "MaxSdk.Scripts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

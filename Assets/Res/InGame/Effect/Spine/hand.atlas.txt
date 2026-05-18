@@ -1,0 +1,7 @@
+hand.png
+size:512,512
+filter:Linear,Linear
+pma:true
+icon_shou
+bounds:1,1,271,328
+offsets:1,0,272,328

@@ -1,0 +1,1599 @@
+{
+    "gmeditconfig": [],
+    "presetconfig": [
+        {
+            "presetName": "T1T2",
+            "presetValue": "US",
+            "desc": "第一梯队国家码"
+        }
+    ],
+    "rules": [
+        {
+            "groupName": "未知用户",
+            "groupId": 0,
+            "dataKey": "userGroup",
+            "operator": "gte",
+            "dataType": "number",
+            "dataValue": "-2",
+            "desc": "Firebase预测分组为0,2,3,4（主要为了兜底）"
+        },
+        {
+            "groupName": "自然量-T1T2-0至3天未付费",
+            "groupId": 1001,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-T1T2-0至3天未付费",
+            "groupId": 1001,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "T1T2国家"
+        },
+        {
+            "groupName": "自然量-T1T2-0至3天未付费",
+            "groupId": 1001,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "自然量-T1T2-0至3天未付费",
+            "groupId": 1001,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "3",
+            "desc": "总登录天数小于等于3天"
+        },
+        {
+            "groupName": "自然量-T1T2-3至7天未付费",
+            "groupId": 1002,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-T1T2-3至7天未付费",
+            "groupId": 1002,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "T1T2国家"
+        },
+        {
+            "groupName": "自然量-T1T2-3至7天未付费",
+            "groupId": 1002,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "自然量-T1T2-3至7天未付费",
+            "groupId": 1002,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "3",
+            "desc": "总登录天数大于3天"
+        },
+        {
+            "groupName": "自然量-T1T2-3至7天未付费",
+            "groupId": 1002,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "7",
+            "desc": "总登录天数小于等于7天"
+        },
+        {
+            "groupName": "自然量-T1T2-7至14天未付费",
+            "groupId": 1003,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-T1T2-7至14天未付费",
+            "groupId": 1003,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "T1T2国家"
+        },
+        {
+            "groupName": "自然量-T1T2-7至14天未付费",
+            "groupId": 1003,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "自然量-T1T2-7至14天未付费",
+            "groupId": 1003,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "7",
+            "desc": "总登录天数大于7天"
+        },
+        {
+            "groupName": "自然量-T1T2-7至14天未付费",
+            "groupId": 1003,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "14",
+            "desc": "总登录天数小于等于14天"
+        },
+        {
+            "groupName": "自然量-T1T2-14天未付费",
+            "groupId": 1004,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-T1T2-14天未付费",
+            "groupId": 1004,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "T1T2国家"
+        },
+        {
+            "groupName": "自然量-T1T2-14天未付费",
+            "groupId": 1004,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "自然量-T1T2-14天未付费",
+            "groupId": 1004,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "14",
+            "desc": "总登录天数大于14天"
+        },
+        {
+            "groupName": "自然量-T1T2-0美元<付费<=10美元",
+            "groupId": 1011,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-T1T2-0美元<付费<=10美元",
+            "groupId": 1011,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "T1T2国家"
+        },
+        {
+            "groupName": "自然量-T1T2-0美元<付费<=10美元",
+            "groupId": 1011,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费总额大于0美分"
+        },
+        {
+            "groupName": "自然量-T1T2-0美元<付费<=10美元",
+            "groupId": 1011,
+            "dataKey": "iapTotal",
+            "operator": "lte",
+            "dataType": "number",
+            "dataValue": "1000",
+            "desc": "付费总额小于等于1000美分"
+        },
+        {
+            "groupName": "自然量-T1T2-10美元<付费<=100美元",
+            "groupId": 1012,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-T1T2-10美元<付费<=100美元",
+            "groupId": 1012,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "T1T2国家"
+        },
+        {
+            "groupName": "自然量-T1T2-10美元<付费<=100美元",
+            "groupId": 1012,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "1000",
+            "desc": "付费总额大于1000美分"
+        },
+        {
+            "groupName": "自然量-T1T2-10美元<付费<=100美元",
+            "groupId": 1012,
+            "dataKey": "iapTotal",
+            "operator": "lte",
+            "dataType": "number",
+            "dataValue": "10000",
+            "desc": "付费总额小于等于10000美分"
+        },
+        {
+            "groupName": "自然量-T1T2-100美元<付费",
+            "groupId": 1013,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-T1T2-100美元<付费",
+            "groupId": 1013,
+            "dataKey": "country",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "T1T2国家"
+        },
+        {
+            "groupName": "自然量-T1T2-100美元<付费",
+            "groupId": 1013,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "10000",
+            "desc": "付费总额大于10000美分"
+        },
+        {
+            "groupName": "自然量-非T1T2-0至1天未付费",
+            "groupId": 1101,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-非T1T2-0至1天未付费",
+            "groupId": 1101,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "非T1T2国家"
+        },
+        {
+            "groupName": "自然量-非T1T2-0至1天未付费",
+            "groupId": 1101,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "自然量-非T1T2-0至1天未付费",
+            "groupId": 1101,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "1",
+            "desc": "总登录天数小于等于1天"
+        },
+        {
+            "groupName": "自然量-非T1T2-1至3天未付费",
+            "groupId": 1102,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-非T1T2-1至3天未付费",
+            "groupId": 1102,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "非T1T2国家"
+        },
+        {
+            "groupName": "自然量-非T1T2-1至3天未付费",
+            "groupId": 1102,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "自然量-非T1T2-1至3天未付费",
+            "groupId": 1102,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "1",
+            "desc": "总登录天数大于1天"
+        },
+        {
+            "groupName": "自然量-非T1T2-1至3天未付费",
+            "groupId": 1102,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "3",
+            "desc": "总登录天数小于等于3天"
+        },
+        {
+            "groupName": "自然量-非T1T2-3至7天未付费",
+            "groupId": 1103,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-非T1T2-3至7天未付费",
+            "groupId": 1103,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "非T1T2国家"
+        },
+        {
+            "groupName": "自然量-非T1T2-3至7天未付费",
+            "groupId": 1103,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "自然量-非T1T2-3至7天未付费",
+            "groupId": 1103,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "3",
+            "desc": "总登录天数大于3天"
+        },
+        {
+            "groupName": "自然量-非T1T2-3至7天未付费",
+            "groupId": 1103,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "7",
+            "desc": "总登录天数小于等于7天"
+        },
+        {
+            "groupName": "自然量-非T1T2-7天未付费",
+            "groupId": 1104,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-非T1T2-7天未付费",
+            "groupId": 1104,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "非T1T2国家"
+        },
+        {
+            "groupName": "自然量-非T1T2-7天未付费",
+            "groupId": 1104,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "自然量-非T1T2-7天未付费",
+            "groupId": 1104,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "7",
+            "desc": "总登录天数大于7天"
+        },
+        {
+            "groupName": "自然量-非T1T2-0美元<付费<=10美元",
+            "groupId": 1111,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-非T1T2-0美元<付费<=10美元",
+            "groupId": 1111,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "非T1T2国家"
+        },
+        {
+            "groupName": "自然量-非T1T2-0美元<付费<=10美元",
+            "groupId": 1111,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费总额大于0美分"
+        },
+        {
+            "groupName": "自然量-非T1T2-0美元<付费<=10美元",
+            "groupId": 1111,
+            "dataKey": "iapTotal",
+            "operator": "lte",
+            "dataType": "number",
+            "dataValue": "1000",
+            "desc": "付费总额小于等于1000美分"
+        },
+        {
+            "groupName": "自然量-非T1T2-10美元<付费<=100美元",
+            "groupId": 1112,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-非T1T2-10美元<付费<=100美元",
+            "groupId": 1112,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "非T1T2国家"
+        },
+        {
+            "groupName": "自然量-非T1T2-10美元<付费<=100美元",
+            "groupId": 1112,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "1000",
+            "desc": "付费总额大于1000美分"
+        },
+        {
+            "groupName": "自然量-非T1T2-10美元<付费<=100美元",
+            "groupId": 1112,
+            "dataKey": "iapTotal",
+            "operator": "lte",
+            "dataType": "number",
+            "dataValue": "10000",
+            "desc": "付费总额小于等于10000美分"
+        },
+        {
+            "groupName": "自然量-非T1T2-100美元<付费",
+            "groupId": 1113,
+            "dataKey": "sourceCampaign",
+            "operator": "in",
+            "dataType": "arraytypecode",
+            "dataValue": "-1,0",
+            "desc": "市场没有指定分层或指定为默认分层"
+        },
+        {
+            "groupName": "自然量-非T1T2-100美元<付费",
+            "groupId": 1113,
+            "dataKey": "country",
+            "operator": "nin",
+            "dataType": "arraystring",
+            "dataValue": "T1T2",
+            "desc": "非T1T2国家"
+        },
+        {
+            "groupName": "自然量-非T1T2-100美元<付费",
+            "groupId": 1113,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "10000",
+            "desc": "付费总额大于10000美分"
+        },
+        {
+            "groupName": "FB-0至1天未付费",
+            "groupId": 1501,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": "无法归因的买量用户，FB用户"
+        },
+        {
+            "groupName": "FB-0至1天未付费",
+            "groupId": 1501,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "FB-0至1天未付费",
+            "groupId": 1501,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "1",
+            "desc": "总登录天数小于等于1天"
+        },
+        {
+            "groupName": "FB-1至3天未付费",
+            "groupId": 1502,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": "无法归因的买量用户，FB用户"
+        },
+        {
+            "groupName": "FB-1至3天未付费",
+            "groupId": 1502,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "FB-1至3天未付费",
+            "groupId": 1502,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "1",
+            "desc": "总登录天数大于1天"
+        },
+        {
+            "groupName": "FB-1至3天未付费",
+            "groupId": 1502,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "3",
+            "desc": "总登录天数小于等于3天"
+        },
+        {
+            "groupName": "FB-3至7天未付费",
+            "groupId": 1503,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": "无法归因的买量用户，FB用户"
+        },
+        {
+            "groupName": "FB-3至7天未付费",
+            "groupId": 1503,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "FB-3至7天未付费",
+            "groupId": 1503,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "3",
+            "desc": "总登录天数大于3天"
+        },
+        {
+            "groupName": "FB-3至7天未付费",
+            "groupId": 1503,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "7",
+            "desc": "总登录天数小于等于7天"
+        },
+        {
+            "groupName": "FB-7天未付费",
+            "groupId": 1504,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": "无法归因的买量用户，FB用户"
+        },
+        {
+            "groupName": "FB-7天未付费",
+            "groupId": 1504,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "FB-7天未付费",
+            "groupId": 1504,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "7",
+            "desc": "总登录天数大于7天"
+        },
+        {
+            "groupName": "FB-0美元<付费<=10美元",
+            "groupId": 1511,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": "无法归因的买量用户，FB用户"
+        },
+        {
+            "groupName": "FB-0美元<付费<=10美元",
+            "groupId": 1511,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费总额大于0美分"
+        },
+        {
+            "groupName": "FB-0美元<付费<=10美元",
+            "groupId": 1511,
+            "dataKey": "iapTotal",
+            "operator": "lte",
+            "dataType": "number",
+            "dataValue": "1000",
+            "desc": "付费总额小于等于1000美分"
+        },
+        {
+            "groupName": "FB-10美元<付费<=100美元",
+            "groupId": 1512,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": "无法归因的买量用户，FB用户"
+        },
+        {
+            "groupName": "FB-10美元<付费<=100美元",
+            "groupId": 1512,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "1000",
+            "desc": "付费总额大于1000美分"
+        },
+        {
+            "groupName": "FB-10美元<付费<=100美元",
+            "groupId": 1512,
+            "dataKey": "iapTotal",
+            "operator": "lte",
+            "dataType": "number",
+            "dataValue": "10000",
+            "desc": "付费总额小于等于10000美分"
+        },
+        {
+            "groupName": "FB-100美元<付费",
+            "groupId": 1513,
+            "dataKey": "sourceNetwork",
+            "operator": "in",
+            "dataType": "arraystring",
+            "dataValue": "Unattributed,FB",
+            "desc": "无法归因的买量用户，FB用户"
+        },
+        {
+            "groupName": "FB-100美元<付费",
+            "groupId": 1513,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "10000",
+            "desc": "付费总额大于10000美分"
+        },
+        {
+            "groupName": "【广告组_标准】-0至1天未付费",
+            "groupId": 2011,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准】-0至1天未付费",
+            "groupId": 2011,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "【广告组_标准】-0至1天未付费",
+            "groupId": 2011,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "1",
+            "desc": "总登录天数小于等于1天"
+        },
+        {
+            "groupName": "【广告组_标准】-1至3天未付费",
+            "groupId": 2012,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准】-1至3天未付费",
+            "groupId": 2012,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "【广告组_标准】-1至3天未付费",
+            "groupId": 2012,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "1",
+            "desc": "总登录天数大于1天"
+        },
+        {
+            "groupName": "【广告组_标准】-1至3天未付费",
+            "groupId": 2012,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "3",
+            "desc": "总登录天数小于等于3天"
+        },
+        {
+            "groupName": "【广告组_标准】-3至7天未付费",
+            "groupId": 2013,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准】-3至7天未付费",
+            "groupId": 2013,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "【广告组_标准】-3至7天未付费",
+            "groupId": 2013,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "3",
+            "desc": "总登录天数大于3天"
+        },
+        {
+            "groupName": "【广告组_标准】-3至7天未付费",
+            "groupId": 2013,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "7",
+            "desc": "总登录天数小于等于7天"
+        },
+        {
+            "groupName": "【广告组_标准】-7天未付费",
+            "groupId": 2014,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准】-7天未付费",
+            "groupId": 2014,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "【广告组_标准】-7天未付费",
+            "groupId": 2014,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "7",
+            "desc": "总登录天数大于7天"
+        },
+        {
+            "groupName": "【广告组_标准】-0美元<付费<=10美元",
+            "groupId": 2021,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准】-0美元<付费<=10美元",
+            "groupId": 2021,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费总额大于0美分"
+        },
+        {
+            "groupName": "【广告组_标准】-0美元<付费<=10美元",
+            "groupId": 2021,
+            "dataKey": "iapTotal",
+            "operator": "lte",
+            "dataType": "number",
+            "dataValue": "1000",
+            "desc": "付费总额小于等于1000美分"
+        },
+        {
+            "groupName": "【广告组_标准】-10美元<付费<=100美元",
+            "groupId": 2022,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准】-10美元<付费<=100美元",
+            "groupId": 2022,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "1000",
+            "desc": "付费总额大于1000美分"
+        },
+        {
+            "groupName": "【广告组_标准】-10美元<付费<=100美元",
+            "groupId": 2022,
+            "dataKey": "iapTotal",
+            "operator": "lte",
+            "dataType": "number",
+            "dataValue": "10000",
+            "desc": "付费总额小于等于10000美分"
+        },
+        {
+            "groupName": "【广告组_标准】-100美元<付费",
+            "groupId": 2023,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "1",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准】-100美元<付费",
+            "groupId": 2023,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "10000",
+            "desc": "付费总额大于10000美分"
+        },
+        {
+            "groupName": "【广告组_标准2】-0至1天未付费",
+            "groupId": 2111,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准2】-0至1天未付费",
+            "groupId": 2111,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "【广告组_标准2】-0至1天未付费",
+            "groupId": 2111,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "1",
+            "desc": "总登录天数小于等于1天"
+        },
+        {
+            "groupName": "【广告组_标准2】-1至3天未付费",
+            "groupId": 2112,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准2】-1至3天未付费",
+            "groupId": 2112,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "【广告组_标准2】-1至3天未付费",
+            "groupId": 2112,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "1",
+            "desc": "总登录天数大于1天"
+        },
+        {
+            "groupName": "【广告组_标准2】-1至3天未付费",
+            "groupId": 2112,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "3",
+            "desc": "总登录天数小于等于3天"
+        },
+        {
+            "groupName": "【广告组_标准2】-3至7天未付费",
+            "groupId": 2113,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准2】-3至7天未付费",
+            "groupId": 2113,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "【广告组_标准2】-3至7天未付费",
+            "groupId": 2113,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "3",
+            "desc": "总登录天数大于3天"
+        },
+        {
+            "groupName": "【广告组_标准2】-3至7天未付费",
+            "groupId": 2113,
+            "dataKey": "installedAt",
+            "operator": "lte",
+            "dataType": "days",
+            "dataValue": "7",
+            "desc": "总登录天数小于等于7天"
+        },
+        {
+            "groupName": "【广告组_标准2】-7天未付费",
+            "groupId": 2114,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准2】-7天未付费",
+            "groupId": 2114,
+            "dataKey": "iapTotal",
+            "operator": "eq",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费额是0"
+        },
+        {
+            "groupName": "【广告组_标准2】-7天未付费",
+            "groupId": 2114,
+            "dataKey": "installedAt",
+            "operator": "gt",
+            "dataType": "days",
+            "dataValue": "7",
+            "desc": "总登录天数大于7天"
+        },
+        {
+            "groupName": "【广告组_标准2】-0美元<付费<=10美元",
+            "groupId": 2121,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准2】-0美元<付费<=10美元",
+            "groupId": 2121,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "0",
+            "desc": "付费总额大于0美分"
+        },
+        {
+            "groupName": "【广告组_标准2】-0美元<付费<=10美元",
+            "groupId": 2121,
+            "dataKey": "iapTotal",
+            "operator": "lte",
+            "dataType": "number",
+            "dataValue": "1000",
+            "desc": "付费总额小于等于1000美分"
+        },
+        {
+            "groupName": "【广告组_标准2】-10美元<付费<=100美元",
+            "groupId": 2122,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准2】-10美元<付费<=100美元",
+            "groupId": 2122,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "1000",
+            "desc": "付费总额大于1000美分"
+        },
+        {
+            "groupName": "【广告组_标准2】-10美元<付费<=100美元",
+            "groupId": 2122,
+            "dataKey": "iapTotal",
+            "operator": "lte",
+            "dataType": "number",
+            "dataValue": "10000",
+            "desc": "付费总额小于等于10000美分"
+        },
+        {
+            "groupName": "【广告组_标准2】-100美元<付费",
+            "groupId": 2123,
+            "dataKey": "sourceCampaign",
+            "operator": "eq",
+            "dataType": "typecode",
+            "dataValue": "2",
+            "desc": "市场指定为【广告组_标准】"
+        },
+        {
+            "groupName": "【广告组_标准2】-100美元<付费",
+            "groupId": 2123,
+            "dataKey": "iapTotal",
+            "operator": "gt",
+            "dataType": "number",
+            "dataValue": "10000",
+            "desc": "付费总额大于10000美分"
+        }
+    ],
+    "mapping": [
+        {
+            "id": 1,
+            "userGroup": 0,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 2,
+            "userGroup": 1001,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 3,
+            "userGroup": 1002,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 4,
+            "userGroup": 1003,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 200
+        },
+        {
+            "id": 5,
+            "userGroup": 1004,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 100
+        },
+        {
+            "id": 6,
+            "userGroup": 1011,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 7,
+            "userGroup": 1012,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 8,
+            "userGroup": 1013,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 9,
+            "userGroup": 1101,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 10,
+            "userGroup": 1102,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 11,
+            "userGroup": 1103,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 200
+        },
+        {
+            "id": 12,
+            "userGroup": 1104,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 100
+        },
+        {
+            "id": 13,
+            "userGroup": 1111,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 14,
+            "userGroup": 1112,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 15,
+            "userGroup": 1113,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 16,
+            "userGroup": 1501,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 200
+        },
+        {
+            "id": 17,
+            "userGroup": 1502,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 200
+        },
+        {
+            "id": 18,
+            "userGroup": 1503,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 200
+        },
+        {
+            "id": 19,
+            "userGroup": 1504,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 200
+        },
+        {
+            "id": 20,
+            "userGroup": 1511,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 200
+        },
+        {
+            "id": 21,
+            "userGroup": 1512,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 200
+        },
+        {
+            "id": 22,
+            "userGroup": 1513,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 23,
+            "userGroup": 2011,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 1000
+        },
+        {
+            "id": 24,
+            "userGroup": 2012,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 25,
+            "userGroup": 2013,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 300
+        },
+        {
+            "id": 26,
+            "userGroup": 2014,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 200
+        },
+        {
+            "id": 27,
+            "userGroup": 2021,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 1000
+        },
+        {
+            "id": 28,
+            "userGroup": 2022,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 1000
+        },
+        {
+            "id": 29,
+            "userGroup": 2023,
+            "adReward": 100,
+            "adInterstitial": 100,
+            "adBanner": 100,
+            "removeAdGroup": 100,
+            "adTask": 1000
+        },
+        {
+            "id": 30,
+            "userGroup": 2111,
+            "adReward": 100,
+            "adInterstitial": 200,
+            "adBanner": 200,
+            "removeAdGroup": 200,
+            "adTask": 1000
+        },
+        {
+            "id": 31,
+            "userGroup": 2112,
+            "adReward": 100,
+            "adInterstitial": 200,
+            "adBanner": 200,
+            "removeAdGroup": 200,
+            "adTask": 300
+        },
+        {
+            "id": 32,
+            "userGroup": 2113,
+            "adReward": 100,
+            "adInterstitial": 200,
+            "adBanner": 200,
+            "removeAdGroup": 200,
+            "adTask": 300
+        },
+        {
+            "id": 33,
+            "userGroup": 2114,
+            "adReward": 100,
+            "adInterstitial": 200,
+            "adBanner": 200,
+            "removeAdGroup": 200,
+            "adTask": 200
+        },
+        {
+            "id": 34,
+            "userGroup": 2121,
+            "adReward": 100,
+            "adInterstitial": 200,
+            "adBanner": 200,
+            "removeAdGroup": 200,
+            "adTask": 1000
+        },
+        {
+            "id": 35,
+            "userGroup": 2122,
+            "adReward": 100,
+            "adInterstitial": 200,
+            "adBanner": 200,
+            "removeAdGroup": 200,
+            "adTask": 1000
+        },
+        {
+            "id": 36,
+            "userGroup": 2123,
+            "adReward": 100,
+            "adInterstitial": 200,
+            "adBanner": 200,
+            "removeAdGroup": 200,
+            "adTask": 1000
+        }
+    ],
+    "adreward": [
+        {
+            "id": 1,
+            "placeId": 1,
+            "groupId": 100,
+            "unlockLevel": 1,
+            "showInterval": 0,
+            "limitPerDay": 9999
+        },
+        {
+            "id": 2,
+            "placeId": 1,
+            "groupId": 200,
+            "unlockLevel": 1,
+            "showInterval": 0,
+            "limitPerDay": 9999
+        },
+        {
+            "id": 3,
+            "placeId": 1,
+            "groupId": 300,
+            "unlockLevel": 1,
+            "showInterval": 0,
+            "limitPerDay": 9999
+        },
+        {
+            "id": 4,
+            "placeId": 1,
+            "groupId": 1000,
+            "unlockLevel": 1,
+            "showInterval": 0,
+            "limitPerDay": 9999
+        },
+        {
+            "id": 5,
+            "placeId": 2,
+            "groupId": 100,
+            "unlockLevel": 10,
+            "showInterval": 0,
+            "limitPerDay": 9999
+        },
+        {
+            "id": 6,
+            "placeId": 2,
+            "groupId": 200,
+            "unlockLevel": 10,
+            "showInterval": 0,
+            "limitPerDay": 9999
+        },
+        {
+            "id": 7,
+            "placeId": 2,
+            "groupId": 300,
+            "unlockLevel": 10,
+            "showInterval": 0,
+            "limitPerDay": 9999
+        },
+        {
+            "id": 8,
+            "placeId": 2,
+            "groupId": 1000,
+            "unlockLevel": 10,
+            "showInterval": 0,
+            "limitPerDay": 9999
+        }
+    ],
+    "adinterstitial": [
+        {
+            "id": 1,
+            "placeId": 1,
+            "groupId": 100,
+            "unlockLevel": 16,
+            "showInterval": 100,
+            "limitPerDay": 999,
+            "InterstitiaADGlobalCD": 120
+        },
+        {
+            "id": 2,
+            "placeId": 2,
+            "groupId": 100,
+            "unlockLevel": 16,
+            "showInterval": 100,
+            "limitPerDay": 999,
+            "InterstitiaADGlobalCD": 120
+        },
+        {
+            "id": 3,
+            "placeId": 3,
+            "groupId": 100,
+            "unlockLevel": 16,
+            "showInterval": 100,
+            "limitPerDay": 999,
+            "InterstitiaADGlobalCD": 120
+        },
+        {
+            "id": 4,
+            "placeId": 1,
+            "groupId": 200,
+            "unlockLevel": 10,
+            "showInterval": 60,
+            "limitPerDay": 999,
+            "InterstitiaADGlobalCD": 60
+        },
+        {
+            "id": 5,
+            "placeId": 2,
+            "groupId": 200,
+            "unlockLevel": 10,
+            "showInterval": 60,
+            "limitPerDay": 999,
+            "InterstitiaADGlobalCD": 60
+        },
+        {
+            "id": 6,
+            "placeId": 3,
+            "groupId": 200,
+            "unlockLevel": 10,
+            "showInterval": 60,
+            "limitPerDay": 999,
+            "InterstitiaADGlobalCD": 60
+        }
+    ],
+    "adbanner": [
+        {
+            "id": 1,
+            "placeId": 1,
+            "groupId": 100,
+            "unlockLevel": 16
+        },
+        {
+            "id": 2,
+            "placeId": 1,
+            "groupId": 200,
+            "unlockLevel": 5
+        }
+    ]
+}

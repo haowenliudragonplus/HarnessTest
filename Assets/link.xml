@@ -1,0 +1,8 @@
+<linker>
+    <assembly fullname="YooAsset" preserve="all"/>
+     <assembly fullname="UnityEngine">
+        <type fullname="UnityEngine.SpriteMask" preserve="all"/>
+     </assembly>
+    <assembly fullname="UnityEngine.CoreModule" preserve="all"/>
+    <assembly fullname="DragonPlus.InAppPurchasing.Stripe.Android" preserve="all"/>
+</linker>

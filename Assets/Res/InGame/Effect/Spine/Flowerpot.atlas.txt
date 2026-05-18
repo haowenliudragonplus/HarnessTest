@@ -1,0 +1,9 @@
+Flowerpot.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Flowerpot_L
+bounds:1,1,477,800
+Flowerpot_R
+bounds:479,55,501,746
+offsets:38,0,559,844

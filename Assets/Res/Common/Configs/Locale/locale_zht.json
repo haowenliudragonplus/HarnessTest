@@ -1,0 +1,2017 @@
+[
+    {
+        "key": "公式",
+        "value": null
+    },
+    {
+        "key": "Title"
+    },
+    {
+        "key": "Custom",
+        "value": "垂唯识核渲染尺寸触震陀螺市（端辨"
+    },
+    {
+        "key": "UI_button_login",
+        "value": "登入"
+    },
+    {
+        "key": "UI_common_text_LevelLabel",
+        "value": "關卡"
+    },
+    {
+        "key": "UI_level_desc_13",
+        "value": "不用"
+    },
+    {
+        "key": "UI_level_desc_14",
+        "value": "退出關卡"
+    },
+    {
+        "key": "UI_level_desc_15",
+        "value": "你確定想要退出關卡嗎？"
+    },
+    {
+        "key": "UI_level_desc_16",
+        "value": "你將會失去："
+    },
+    {
+        "key": "UI_level_desc_17",
+        "value": "退出"
+    },
+    {
+        "key": "UI_level_desc_18",
+        "value": "停留"
+    },
+    {
+        "key": "UI_level_desc_19",
+        "value": "闖關失敗"
+    },
+    {
+        "key": "UI_level_desc_20",
+        "value": "再試一次"
+    },
+    {
+        "key": "UI_level_desc_21",
+        "value": "返回"
+    },
+    {
+        "key": "UI_level_desc_23",
+        "value": "成功通關"
+    },
+    {
+        "key": "UI_level_desc_level_fail_1",
+        "value": "增加更多時間繼續玩！"
+    },
+    {
+        "key": "UI_level_desc_level_fail_2",
+        "value": "清除消除欄中所有物品繼續玩！"
+    },
+    {
+        "key": "UI_level_desc_24",
+        "value": "超時"
+    },
+    {
+        "key": "UI_level_desc_25",
+        "value": "繼續玩"
+    },
+    {
+        "key": "UI_level_desc_26",
+        "value": "超過空間！"
+    },
+    {
+        "key": "UI_level_desc_27",
+        "value": "清理"
+    },
+    {
+        "key": "UI_level_desc_28",
+        "value": "暫停"
+    },
+    {
+        "key": "UI_level_desc_29",
+        "value": "獲取體力"
+    },
+    {
+        "key": "UI_level_desc_30",
+        "value": "你可以透過以下方式快速獲取體力喲。"
+    },
+    {
+        "key": "UI_level_desc_31",
+        "value": "填滿"
+    },
+    {
+        "key": "UI_level_desc_32",
+        "value": "免費體力"
+    },
+    {
+        "key": "UI_button_watch",
+        "value": "觀看廣告"
+    },
+    {
+        "key": "UI_button_cancel",
+        "value": "取消"
+    },
+    {
+        "key": "UI_button_do_it",
+        "value": "Do it"
+    },
+    {
+        "key": "UI_button_collect",
+        "value": "領取"
+    },
+    {
+        "key": "UI_common_lives_desc",
+        "value": "為你增加體力"
+    },
+    {
+        "key": "UI_common_lives",
+        "value": "體力"
+    },
+    {
+        "key": "UI_common_lives_max",
+        "value": "無限體力"
+    },
+    {
+        "key": "UI_common_teams",
+        "value": "隊伍"
+    },
+    {
+        "key": "UI_common_rank",
+        "value": "排行榜"
+    },
+    {
+        "key": "UI_common_offline",
+        "value": "斷網"
+    },
+    {
+        "key": "UI_common_new",
+        "value": "新"
+    },
+    {
+        "key": "UI_level_desc_33",
+        "value": "飛碟"
+    },
+    {
+        "key": "UI_iap_coin_desc_1",
+        "value": "金幣"
+    },
+    {
+        "key": "UI_shop_purchase_2",
+        "value": "完成！"
+    },
+    {
+        "key": "UI_shop_purchase_1",
+        "value": "購買成功！"
+    },
+    {
+        "key": "UI_purchase_failed_title",
+        "value": "購買失敗！"
+    },
+    {
+        "key": "UI_purchase_failed_content",
+        "value": "您的帳戶未扣款！"
+    },
+    {
+        "key": "UI_common_text_one_line1",
+        "value": "一筆畫"
+    },
+    {
+        "key": "UI_common_text_one_line3",
+        "value": "敬請期待！"
+    },
+    {
+        "key": "UI_common_text_one_line4",
+        "value": "請一筆畫完，過程中不要抬起手和出現重疊的線"
+    },
+    {
+        "key": "UI_common_text_one_line6",
+        "value": "請先抵達消除遊戲的第{0}關來解鎖下一關"
+    },
+    {
+        "key": "UI_HAPPYSHAVE_17",
+        "value": "未解鎖"
+    },
+    {
+        "key": "UI_drink_game_1",
+        "value": "畫出%條不相交的線讓所有鹿喝到水！"
+    },
+    {
+        "key": "UI_drink_game_2",
+        "value": "再試一次？"
+    },
+    {
+        "key": "UI_drink_game_3",
+        "value": "再試一次，贏取所有獎勵！"
+    },
+    {
+        "key": "UI_brain_title",
+        "value": "接水管"
+    },
+    {
+        "key": "UI_drink_game_4",
+        "value": "求救！"
+    },
+    {
+        "key": "UI_mini_game_play_again",
+        "value": "再玩一次"
+    },
+    {
+        "key": "UI_common_decorate_star",
+        "value": "星星不足"
+    },
+    {
+        "key": "UI_button_loading_ADS",
+        "value": "廣告載入中......"
+    },
+    {
+        "key": "UI_ support_1",
+        "value": "電子郵件："
+    },
+    {
+        "key": "UI_ support_2",
+        "value": "輸入文字"
+    },
+    {
+        "key": "UI_ support_3",
+        "value": "傳送"
+    },
+    {
+        "key": "UI_likeus_1",
+        "value": "為我們按讚"
+    },
+    {
+        "key": "UI_likeus_2",
+        "value": "獎勵："
+    },
+    {
+        "key": "UI_likeus_3",
+        "value": "在 Facebook 上為我們按讚"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "回饋"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "展現你的喜歡，透過給予"
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "提交"
+    },
+    {
+        "key": "UI_feedback_5",
+        "value": "不確定"
+    },
+    {
+        "key": "UI_feedback_8",
+        "value": "提交"
+    },
+    {
+        "key": "UI_feedback_9",
+        "value": "不確定"
+    },
+    {
+        "key": "UI_rate_us_5stars",
+        "value": "<color=#FDE74E>5 顆星</color>"
+    },
+    {
+        "key": "UI_facebook_1",
+        "value": "Facebook"
+    },
+    {
+        "key": "UI_facebook_2",
+        "value": "首次用Facebook登陸你將獲得："
+    },
+    {
+        "key": "UI_facebook_3",
+        "value": "跨裝置同步您的遊戲進度，並且可以隨時繼續遊戲"
+    },
+    {
+        "key": "UI_facebook_4",
+        "value": "連接"
+    },
+    {
+        "key": "UI_login_tip1",
+        "value": "您的遊戲版本過低，請更新遊戲後再試一次。"
+    },
+    {
+        "key": "UI_login_tip1_btn",
+        "value": "更新"
+    },
+    {
+        "key": "UI_login_tip_delete_account",
+        "value": "您刪除帳號的請求已經處理完成，您仍然確認要刪除您的遊戲帳號嗎？"
+    },
+    {
+        "key": "ui_fte_1001",
+        "value": "修復破損的碼頭需要一些星星，完成關卡即可獲得星星！"
+    },
+    {
+        "key": "guide_enter_amsr",
+        "value": "繼續幫助奧蘿拉治療耳朵。"
+    },
+    {
+        "key": "ui_fte_1039",
+        "value": "繼續幫助奧蘿拉從疾病中恢復。"
+    },
+    {
+        "key": "ui_fte_1008",
+        "value": "當你收集了足夠的星星後，點擊它即可完成你的任務。"
+    },
+    {
+        "key": "UI_levelstart_level_empty",
+        "value": "關卡"
+    },
+    {
+        "key": "UI_BUTTON_Ok",
+        "value": "確定"
+    },
+    {
+        "key": "UI_ck_gamelose_button_leave",
+        "value": "離開"
+    },
+    {
+        "key": "UI_button_yes",
+        "value": "是"
+    },
+    {
+        "key": "UI_button_no",
+        "value": "否"
+    },
+    {
+        "key": "UI_choose_progress_now",
+        "value": "目前使用"
+    },
+    {
+        "key": "UI_choose_progress_last",
+        "value": "上次同步："
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_later",
+        "value": "再想想"
+    },
+    {
+        "key": "UI_choose_progress_confirm_desc",
+        "value": "是否確認選擇該檔案進行同步，請輸入「111」後點選確認。"
+    },
+    {
+        "key": "UI_choose_progress_confirm_tip",
+        "value": "注意：選擇後將刪除另一存檔，請謹慎選擇"
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_confirm",
+        "value": "確認"
+    },
+    {
+        "key": "UI_choose_progress_recommend",
+        "value": "推薦"
+    },
+    {
+        "key": "UI_progress_1",
+        "value": "選擇您的存檔"
+    },
+    {
+        "key": "UI_progress_2",
+        "value": "您想保留哪一份存檔？"
+    },
+    {
+        "key": "UI_progress_3",
+        "value": "在您的裝置上："
+    },
+    {
+        "key": "UI_progress_4",
+        "value": "在伺服器上："
+    },
+    {
+        "key": "UI_ck_exit_text1",
+        "value": "你確定？"
+    },
+    {
+        "key": "UI_update_app_desc_text",
+        "value": "發現新版本，請前往商店下載更新。更新後登入可解鎖更多遊戲內容。"
+    },
+    {
+        "key": "UI_update_app_btn_update",
+        "value": "更新"
+    },
+    {
+        "key": "UI_update_app_btn_later",
+        "value": "稍後"
+    },
+    {
+        "key": "UI_store_energy_full_text",
+        "value": "滿"
+    },
+    {
+        "key": "UI_shop_title",
+        "value": "商店"
+    },
+    {
+        "key": "UI_shop_more",
+        "value": "更多商品"
+    },
+    {
+        "key": "UI_shop_fail_title",
+        "value": "連線失敗"
+    },
+    {
+        "key": "UI_shop_fail_explain",
+        "value": "請檢查網路狀態"
+    },
+    {
+        "key": "UI_Shop_ADS",
+        "value": "觀看"
+    },
+    {
+        "key": "UI_button_connected",
+        "value": "已登入"
+    },
+    {
+        "key": "UI_update_reward_title",
+        "value": "更新獎勵："
+    },
+    {
+        "key": "UI_update_btn_update",
+        "value": "去更新"
+    },
+    {
+        "key": "UI_update_btn_later",
+        "value": "稍後"
+    },
+    {
+        "key": "UI_update_btn_claim",
+        "value": "領取"
+    },
+    {
+        "key": "UI_store_common_offlineerr_text",
+        "value": "在離線模式下遊戲時，你不能進行付款。請連接到互聯網並重新啟動遊戲。"
+    },
+    {
+        "key": "UI_errmsg_duplicate_login_native",
+        "value": "另一台設備上也打開了該遊戲。如果你想在其他裝置上玩，請關閉這個遊戲。如果你現在想繼續玩，請點擊“確定”，我們會重新開啟該遊戲。"
+    },
+    {
+        "key": "UI_profile_force_use_server_profile_desc",
+        "value": "我們已將你的存檔修復完成，快繼續遊戲吧！"
+    },
+    {
+        "key": "UI_update_app_title1",
+        "value": "新內容"
+    },
+    {
+        "key": "UI_update_app_title2",
+        "value": "新版本"
+    },
+    {
+        "key": "UI_update_app_title3",
+        "value": "更新成功"
+    },
+    {
+        "key": "UI_bind_fb_fail_authen_error_text",
+        "value": "綁定Facebook失敗，身份驗證錯誤。"
+    },
+    {
+        "key": "UI_quit_game_tips_text",
+        "value": "你想要退出遊戲嗎？"
+    },
+    {
+        "key": "UI_gift_limit_tips_pre_text",
+        "value": "您每天只能從朋友那"
+    },
+    {
+        "key": "UI_gift_limit_tips_after_text",
+        "value": "獲得不超過最大體力數的體力"
+    },
+    {
+        "key": "UI_take_your_reward_text",
+        "value": "請領取你的獎勵"
+    },
+    {
+        "key": "UI_choose_language_tip_desc",
+        "value": "偵測到您手機使用的語言與目前遊戲內語言不一致，請選擇遊戲內使用的語言。稍後也可以在「設定」中修改。"
+    },
+    {
+        "key": "UI_common_download",
+        "value": "下載"
+    },
+    {
+        "key": "UI_common_free",
+        "value": "免費"
+    },
+    {
+        "key": "UI_common_free2",
+        "value": "免費+{0}s"
+    },
+    {
+        "key": "UI_common_iap",
+        "value": "您已經取消購買，您可以選擇喜歡的禮包繼續購買！"
+    },
+    {
+        "key": "UI_daily_bonus_day",
+        "value": "第{0}天"
+    },
+    {
+        "key": "UI_purchase_failed",
+        "value": "購買失敗。再試一次？"
+    },
+    {
+        "key": "UI_level_goals_complete",
+        "value": "目標完成！"
+    },
+    {
+        "key": "UI_upgrade_locked_text",
+        "value": "未解鎖"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Title",
+        "value": "退出遊戲"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Content",
+        "value": "您確定退出遊戲？"
+    },
+    {
+        "key": "UI_POPUP_EXIT_BUTTON_Exit",
+        "value": "退出"
+    },
+    {
+        "key": "UI_POPUP_RESERROR_Content",
+        "value": "下載資源失敗。請再試一遍。"
+    },
+    {
+        "key": "UI_POPUP_SAVE_Content",
+        "value": "已儲存！"
+    },
+    {
+        "key": "UI_POPUP_BUY_Fail_Content",
+        "value": "購買失敗！"
+    },
+    {
+        "key": "UI_CHOOSE_PROFILE_POPUP_SUCCESS_Content",
+        "value": "您的個人存檔已成功恢復！遊戲愉快！"
+    },
+    {
+        "key": "UI_MULTIDEVICE_LOGIN_Msg",
+        "value": "您在另一台裝置上開啟過遊戲，要在該裝置上遊戲，請立即退出。若要在此裝置遊戲，請點選「確定」。遊戲將重新啟動。"
+    },
+    {
+        "key": "UI_NEEDUPDATE_Msg",
+        "value": "新版本已發布，請更新！"
+    },
+    {
+        "key": "UI_NTWORKOVERTIME_Content",
+        "value": "網路狀態不穩定，請重試。"
+    },
+    {
+        "key": "UI_NTWORKXNET_Title",
+        "value": "無連接"
+    },
+    {
+        "key": "UI_NTWORKXNET_Content",
+        "value": "請檢查您的裝置網路狀態，然後重新登入遊戲。"
+    },
+    {
+        "key": "UI_POPUP_NOADS_Title",
+        "value": "抱歉"
+    },
+    {
+        "key": "UI_POPUP_NOADS_Content",
+        "value": "廣告正在拉取，\n  請稍後再試！"
+    },
+    {
+        "key": "UI_download_resources_error",
+        "value": "沒有網路連接，請檢查網路連接並重試。"
+    },
+    {
+        "key": "UI_no_internet_tips",
+        "value": "沒有網路連接，請連接到網路再試。"
+    },
+    {
+        "key": "UI_privacy_title_native",
+        "value": "隱私協議"
+    },
+    {
+        "key": "UI_privacy_message_native",
+        "value": "在繼續遊戲之前，您需要同意我們的隱私協議"
+    },
+    {
+        "key": "UI_privacy_btn_link_title_native",
+        "value": "詳情連結"
+    },
+    {
+        "key": "UI_privacy_btn_agree_title_native",
+        "value": "同意"
+    },
+    {
+        "key": "UI_download_fail_title",
+        "value": "下載失敗"
+    },
+    {
+        "key": "UI_download_fail_text",
+        "value": "無法下載進行遊戲必要的資源，請檢查網路連接，然後再試一次。"
+    },
+    {
+        "key": "UI_download_fail_button",
+        "value": "重試"
+    },
+    {
+        "key": "UI_rateus_title_text",
+        "value": "評價遊戲"
+    },
+    {
+        "key": "UI_rateus_ios_desc_text",
+        "value": "如果你喜歡這款遊戲，請你花稍許時間給我們一個五星級好評吧！這會給予我們很多幫助！謝謝！"
+    },
+    {
+        "key": "UI_rateus_ios_later_text",
+        "value": "稍後提醒"
+    },
+    {
+        "key": "UI_rateus_ios_no_text",
+        "value": "不了，謝謝"
+    },
+    {
+        "key": "UI_sensitivewords_notice",
+        "value": "您輸入的資訊包含敏感詞，請修改！"
+    },
+    {
+        "key": "UI_storagefull_notice_text",
+        "value": "手機儲存空間已滿, 請清理後再進入遊戲。"
+    },
+    {
+        "key": "UI_bind_Apple_fail_authen_error_text",
+        "value": "綁定Apple的失敗，身分驗證錯誤。"
+    },
+    {
+        "key": "UI_Apple_accesstoken_ru_pwchange_text",
+        "value": "使用Apple登入失敗，請嘗試重新登入。"
+    },
+    {
+        "key": "UI_fb_accesstoken_ru_pwchange_text",
+        "value": "使用Facebook登入失敗，請嘗試重新登入。"
+    },
+    {
+        "key": "UI_Shop_Tab1",
+        "value": "金幣"
+    },
+    {
+        "key": "UI_Shop_Tab2",
+        "value": "普通"
+    },
+    {
+        "key": "UI_Shop_Tab3",
+        "value": "特殊"
+    },
+    {
+        "key": "UI_Shop_Text1",
+        "value": "剩餘 {0}"
+    },
+    {
+        "key": "UI_Shop_Text1_0",
+        "value": "剩餘 0"
+    },
+    {
+        "key": "UI_Shop_Text2",
+        "value": "折扣"
+    },
+    {
+        "key": "UI_Shop_Btn1",
+        "value": "購買"
+    },
+    {
+        "key": "UI_Shop_Text3",
+        "value": "未解鎖"
+    },
+    {
+        "key": "UI_Shop_Text4",
+        "value": "售罄"
+    },
+    {
+        "key": "UI_Shop_Tip1",
+        "value": "道具已買完，請稍後查看"
+    },
+    {
+        "key": "UI_Shop_Tip2",
+        "value": "進行更多次合成，解鎖此商品"
+    },
+    {
+        "key": "UI_button_continue",
+        "value": "繼續"
+    },
+    {
+        "key": "UI_button_next",
+        "value": "next"
+    },
+    {
+        "key": "UI_parkour_level_id",
+        "value": "關卡 {0}"
+    },
+    {
+        "key": "UI_level_selectbooster",
+        "value": "選擇道具"
+    },
+    {
+        "key": "UI_button_area",
+        "value": "區域 {0}"
+    },
+    {
+        "key": "UI_button_house",
+        "value": "建築{0}"
+    },
+    {
+        "key": "UI_button_house_title",
+        "value": "任務"
+    },
+    {
+        "key": "UI_button_house_pragess",
+        "value": "裝修進度"
+    },
+    {
+        "key": "UI_house_title1",
+        "value": "大樓"
+    },
+    {
+        "key": "UI_TimeFormatWithDay",
+        "value": "{0:00}天 {1:00}時"
+    },
+    {
+        "key": "UI_TimeFormatWithHour",
+        "value": "{0:00}時 {1:00}分"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute",
+        "value": "{0:00}分 {1:00}秒"
+    },
+    {
+        "key": "UI_button_claim_text",
+        "value": "領取"
+    },
+    {
+        "key": "UI_button_later",
+        "value": "稍後"
+    },
+    {
+        "key": "UI_rateus_ios_rate_text",
+        "value": "現在就評分"
+    },
+    {
+        "key": "UI_PayRegion_Btn1",
+        "value": "購買"
+    },
+    {
+        "key": "UI_button_play",
+        "value": "開始"
+    },
+    {
+        "key": "UI_SpecialLevel_Map_title",
+        "value": "地圖"
+    },
+    {
+        "key": "UI_FindTM_Unlock_Des",
+        "value": "Lv {0}"
+    },
+    {
+        "key": "UI_button_house_btn_tips",
+        "value": "大樓"
+    },
+    {
+        "key": "UI_button_ASMR_btn_tips",
+        "value": "挑戰"
+    },
+    {
+        "key": "UI_makeover_pragess",
+        "value": "美妝進度"
+    },
+    {
+        "key": "UI_build_title",
+        "value": "大樓"
+    },
+    {
+        "key": "UI_makeover_title",
+        "value": "美妝室"
+    },
+    {
+        "key": "UI_makeover_tips",
+        "value": "解鎖更多的關卡"
+    },
+    {
+        "key": "UI_makeover_win_title",
+        "value": "房間完成!"
+    },
+    {
+        "key": "UI_makeover_reward",
+        "value": "獎勵"
+    },
+    {
+        "key": "UI_UnlockReward_Title1",
+        "value": "新區域解鎖"
+    },
+    {
+        "key": "UI_makeover_get",
+        "value": "獲得更多"
+    },
+    {
+        "key": "UI_common_home",
+        "value": "大廳"
+    },
+    {
+        "key": "UI_common_Island",
+        "value": "地圖"
+    },
+    {
+        "key": "UI_common_shop",
+        "value": "商店"
+    },
+    {
+        "key": "UI_ASMR_coming_tips",
+        "value": "即將開啟"
+    },
+    {
+        "key": "UI_ASMR_button_cannot_play",
+        "value": "請通關上一關"
+    },
+    {
+        "key": "UI_level_desc_add",
+        "value": "加時"
+    },
+    {
+        "key": "UI_common_box_tittle",
+        "value": "通知"
+    },
+    {
+        "key": "UI_cannot_connect_to_itunes_store",
+        "value": "無法連接到iTunes商店！請稍後再試。"
+    },
+    {
+        "key": "UI_cannot_connect_to_google_play",
+        "value": "無法連接到Google play！請稍後再試。"
+    },
+    {
+        "key": "UI_common_notice",
+        "value": "通知"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_1",
+        "value": "去廣告"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_2",
+        "value": "雙倍禮包"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_1",
+        "value": "隱藏非激勵廣告"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_2",
+        "value": "{0}金幣"
+    },
+    {
+        "key": "UI_iap_market_1",
+        "value": "限量\n優惠"
+    },
+    {
+        "key": "UI_iap_market_2",
+        "value": "最受\n歡迎"
+    },
+    {
+        "key": "UI_iap_market_3",
+        "value": "最優\n價格"
+    },
+    {
+        "key": "UI_shop_moreoffers",
+        "value": "更多優惠"
+    },
+    {
+        "key": "UI_button_go",
+        "value": "查看"
+    },
+    {
+        "key": "UI_common_function_locked_tip",
+        "value": "完成第21關後解鎖"
+    },
+    {
+        "key": "UI_common_finish_tip",
+        "value": "即將推出"
+    },
+    {
+        "key": "UI_loading_loadStr",
+        "value": "加載中...{0}%"
+    },
+    {
+        "key": "adbox_no_reward",
+        "value": "廣告還未加載完成"
+    },
+    {
+        "key": "UI_common_time_month",
+        "value": "月"
+    },
+    {
+        "key": "UI_common_time_week",
+        "value": "週"
+    },
+    {
+        "key": "UI_common_time_h",
+        "value": "時"
+    },
+    {
+        "key": "UI_common_time_m",
+        "value": "分"
+    },
+    {
+        "key": "UI_common_time_d",
+        "value": "天"
+    },
+    {
+        "key": "UI_common_time_s",
+        "value": "秒"
+    },
+    {
+        "key": "UI_TimeFormatWithDay_2",
+        "value": "{0:00}天:{1:00}時"
+    },
+    {
+        "key": "UI_TimeFormatWithHour_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_level_desc_40",
+        "value": "清除消除欄中所有物品"
+    },
+    {
+        "key": "UI_level_desc_41",
+        "value": "道具無法使用"
+    },
+    {
+        "key": "UI_iap_pack_name_icebreakgift",
+        "value": "驚喜禮包"
+    },
+    {
+        "key": "UI_iap_pack_num_per",
+        "value": "{0}%"
+    },
+    {
+        "key": "guide_world_1033",
+        "value": "我們玩一局遊戲吧！"
+    },
+    {
+        "key": "UI_fb_login_fail_tips",
+        "value": "登陸失敗!連線網路後重試！"
+    },
+    {
+        "key": "UI_level_desc_42",
+        "value": "道具無法使用,不可點擊!"
+    },
+    {
+        "key": "UI_iap_pack_num_2",
+        "value": "80%"
+    },
+    {
+        "key": "UI_iap_pack_num_scale_2",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_iap_pack_name_new_2",
+        "value": "魔術禮包"
+    },
+    {
+        "key": "UI_activity_end_tips",
+        "value": "活動結束"
+    },
+    {
+        "key": "UI_settings_on",
+        "value": "ON"
+    },
+    {
+        "key": "UI_settings_off",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_settings_autoMatch",
+        "value": "自動匹配"
+    },
+    {
+        "key": "UI_settings_autoComplete",
+        "value": "自動完成"
+    },
+    {
+        "key": "UI_settings_free",
+        "value": "突出顯示自由方塊"
+    },
+    {
+        "key": "UI_settings_play",
+        "value": "怎麼玩"
+    },
+    {
+        "key": "UI_settings_iap_no_ad",
+        "value": "無廣告"
+    },
+    {
+        "key": "UI_settings_Restart",
+        "value": "重新開始"
+    },
+    {
+        "key": "UI_setting_ language",
+        "value": "語言"
+    },
+    {
+        "key": "UI_setting_ support",
+        "value": "支援"
+    },
+    {
+        "key": "UI_setting_ Facebook",
+        "value": "Facebook"
+    },
+    {
+        "key": "UI_setting_version",
+        "value": "版本："
+    },
+    {
+        "key": "UI_setting_user_id",
+        "value": "UID:"
+    },
+    {
+        "key": "UI_setting_common_1",
+        "value": "恢復購買"
+    },
+    {
+        "key": "UI_setting_common_2",
+        "value": "已經成功恢復了你的去廣告特權，繼續遊戲吧！"
+    },
+    {
+        "key": "UI_setting_common_3",
+        "value": "你目前沒有可恢復的特權，需要先購買對應的去廣告禮包。"
+    },
+    {
+        "key": "UI_common_text_ScoreLabel",
+        "value": "得分"
+    },
+    {
+        "key": "UI_common_text_MatchesLabel",
+        "value": "匹配"
+    },
+    {
+        "key": "UI_contactus_panel_title",
+        "value": "建議與問題"
+    },
+    {
+        "key": "UI_contactus_panel_email_textbox_text",
+        "value": "請輸入您的電子郵件地址"
+    },
+    {
+        "key": "UI_contactus_panel_input_textbox_text",
+        "value": "請告訴我們您的建議和問題"
+    },
+    {
+        "key": "UI_contactus_panel_email_err_text",
+        "value": "請輸入有效的電子郵件地址"
+    },
+    {
+        "key": "UI_contactus_panel_input_popup_text",
+        "value": "請告訴我們您的建議和問題"
+    },
+    {
+        "key": "UI_contactus_panel_send_err_text",
+        "value": "發送失敗，請再試一次"
+    },
+    {
+        "key": "UI_settings_button_save_ios",
+        "value": "儲存進度"
+    },
+    {
+        "key": "UI_save_ios_title",
+        "value": "儲存你的進度"
+    },
+    {
+        "key": "UI_save_ios_text",
+        "value": "登入儲存你的進度"
+    },
+    {
+        "key": "UI_save_ios_button_apple",
+        "value": "透過 Apple 登入"
+    },
+    {
+        "key": "UI_save_ios_button_fb",
+        "value": "Facebook登入"
+    },
+    {
+        "key": "UI_save_ios_button_tip",
+        "value": "Facebook登入"
+    },
+    {
+        "key": "UI_login_button_delete_account",
+        "value": "刪除帳號"
+    },
+    {
+        "key": "UI_login_tip_delete_account_7days",
+        "value": "您的帳號刪除要求已提交成功，帳號會在7日後完成刪除"
+    },
+    {
+        "key": "UI_login_tip_delete_account_title",
+        "value": "刪除存檔?"
+    },
+    {
+        "key": "UI_login_tip_delete_account_tips",
+        "value": "此過程不可逆"
+    },
+    {
+        "key": "UI_delete_txt1",
+        "value": "您確定要刪除所有已儲存的個人資料嗎？<color=#FF322B>（此過程不可逆）</color>"
+    },
+    {
+        "key": "UI_PrivacyPolicy_1",
+        "value": "接受隱私權政策"
+    },
+    {
+        "key": "UI_PrivacyPolicy_2",
+        "value": "在繼續遊戲之前，您需要同意我們的隱私權政策和服務協議："
+    },
+    {
+        "key": "UI_PrivacyPolicy_3",
+        "value": "隱私權政策"
+    },
+    {
+        "key": "UI_PrivacyPolicy_4",
+        "value": "我同意"
+    },
+    {
+        "key": "UI_PrivacyPolicy_5",
+        "value": "服務協定"
+    },
+    {
+        "key": "UI_level_desc_22",
+        "value": "設定"
+    },
+    {
+        "key": "UI_Comb_prefect",
+        "value": "完美連擊獎勵！"
+    },
+    {
+        "key": "UI_Locked_left",
+        "value": "左右被鎖住"
+    },
+    {
+        "key": "UI_Locked_top",
+        "value": "被上方鎖住"
+    },
+    {
+        "key": "UI_hard_tip",
+        "value": "Hard"
+    },
+    {
+        "key": "UI_tip_loading_text",
+        "value": "載入中...請稍候"
+    },
+    {
+        "key": "UI_Shuffle_get_one",
+        "value": "獲取一個"
+    },
+    {
+        "key": "UI_Hint_tip_01",
+        "value": "觀看影片獲得提示"
+    },
+    {
+        "key": "UI_Return_tip",
+        "value": "現在是第一步"
+    },
+    {
+        "key": "UI_restart_title",
+        "value": "沒有有效的匹配"
+    },
+    {
+        "key": "UI_restart_tip",
+        "value": "用洗牌？"
+    },
+    {
+        "key": "UI_restart_shuffle",
+        "value": "洗牌-1"
+    },
+    {
+        "key": "UI_restart_shuffle_none",
+        "value": "洗牌用完了！"
+    },
+    {
+        "key": "UI_button_tip",
+        "value": "好的"
+    },
+    {
+        "key": "UI_button_tip_1",
+        "value": "下一個"
+    },
+    {
+        "key": "UI_button_ok",
+        "value": "確定"
+    },
+    {
+        "key": "UI_choose_progress_title_text",
+        "value": "存檔選擇"
+    },
+    {
+        "key": "UI_choose_progress_desc_main_text",
+        "value": "你要保留哪一個存檔？"
+    },
+    {
+        "key": "UI_choose_progress_on_server",
+        "value": "伺服器上的"
+    },
+    {
+        "key": "UI_choose_progress_on_device",
+        "value": "你的裝置上的"
+    },
+    {
+        "key": "UI_choose_progress_button_server",
+        "value": "伺服器"
+    },
+    {
+        "key": "UI_choose_progress_button_device",
+        "value": "你的裝置"
+    },
+    {
+        "key": "UI_loading_upgrade",
+        "value": "更新中...{0} {1}"
+    },
+    {
+        "key": "UI_return_reward_help_target",
+        "value": "關卡{0}"
+    },
+    {
+        "key": "UI_Daily_title",
+        "value": "每日"
+    },
+    {
+        "key": "UI_Daily_title_1",
+        "value": "每日挑戰"
+    },
+    {
+        "key": "UI_skin_Theme",
+        "value": "主題"
+    },
+    {
+        "key": "UI_skin_Tiles",
+        "value": "麻將"
+    },
+    {
+        "key": "UI_skin_Backgroud",
+        "value": "背景"
+    },
+    {
+        "key": "UI_skin_simple",
+        "value": "簡單"
+    },
+    {
+        "key": "UI_skin_poker",
+        "value": "撲克"
+    },
+    {
+        "key": "UI_skin_old",
+        "value": "傳統"
+    },
+    {
+        "key": "UI_game_daily_week1",
+        "value": "週一"
+    },
+    {
+        "key": "UI_game_daily_week2",
+        "value": "週二"
+    },
+    {
+        "key": "UI_game_daily_week3",
+        "value": "週三"
+    },
+    {
+        "key": "UI_game_daily_week4",
+        "value": "週四"
+    },
+    {
+        "key": "UI_game_daily_week5",
+        "value": "週五"
+    },
+    {
+        "key": "UI_game_daily_week6",
+        "value": "週六"
+    },
+    {
+        "key": "UI_game_daily_week7",
+        "value": "週日"
+    },
+    {
+        "key": "UI_game_daily_date",
+        "value": "日期"
+    },
+    {
+        "key": "UI_game_daily_month1",
+        "value": "1月"
+    },
+    {
+        "key": "UI_game_daily_month2",
+        "value": "2月"
+    },
+    {
+        "key": "UI_game_daily_month3",
+        "value": "3月"
+    },
+    {
+        "key": "UI_game_daily_month4",
+        "value": "4月"
+    },
+    {
+        "key": "UI_game_daily_month5",
+        "value": "5月"
+    },
+    {
+        "key": "UI_game_daily_month6",
+        "value": "6月"
+    },
+    {
+        "key": "UI_game_daily_month7",
+        "value": "7月"
+    },
+    {
+        "key": "UI_game_daily_month8",
+        "value": "8月"
+    },
+    {
+        "key": "UI_game_daily_month9",
+        "value": "9月"
+    },
+    {
+        "key": "UI_game_daily_month10",
+        "value": "10月"
+    },
+    {
+        "key": "UI_game_daily_month11",
+        "value": "11月"
+    },
+    {
+        "key": "UI_game_daily_month12",
+        "value": "12月"
+    },
+    {
+        "key": "UI_daily_Btn1",
+        "value": "挑戰"
+    },
+    {
+        "key": "UI_daily_Tip_2",
+        "value": "花房"
+    },
+    {
+        "key": "UI_button_task_title",
+        "value": "任務"
+    },
+    {
+        "key": "UI_common_level",
+        "value": "關卡 {0}"
+    },
+    {
+        "key": "UI_common_unlock",
+        "value": "未解鎖！"
+    },
+    {
+        "key": "UI_revive_title",
+        "value": "空間不足"
+    },
+    {
+        "key": "UI_new_tip_1",
+        "value": "點擊移動箭頭"
+    },
+    {
+        "key": "UI_new_tip_2",
+        "value": "用兩指縮放圖案"
+    },
+    {
+        "key": "UI_new_tip_3",
+        "value": "輔助線可幫助你完成關卡！"
+    },
+    {
+        "key": "UI_new_tip_4",
+        "value": "使用<color=#299200>加孔</color>，可以增加新的空位！"
+    },
+    {
+        "key": "UI_new_tip_5",
+        "value": "使用<color=#299200>提示</color>，收集<color=#299200>3</color>個配對麻將！"
+    },
+    {
+        "key": "UI_new_tip_6",
+        "value": "使用<color=#299200>清掃</color>，清除暫存欄中的麻將牌！"
+    },
+    {
+        "key": "Purchase_Failed_Title",
+        "value": "購買失敗！"
+    },
+    {
+        "key": "Purchase_Failed_Desc",
+        "value": "購買已失敗！"
+    },
+    {
+        "key": "UI_common_button_continue",
+        "value": "繼續"
+    },
+    {
+        "key": "UI_revive_continue_title",
+        "value": "繼續"
+    },
+    {
+        "key": "UI_revive_continue_tips",
+        "value": "回復血量，並繼續遊戲！"
+    },
+    {
+        "key": "UI_revive_continue_tips_01",
+        "value": "增加步數並繼續遊戲！"
+    },
+    {
+        "key": "UI_end_title_1",
+        "value": "才思敏捷！"
+    },
+    {
+        "key": "UI_end_title_2",
+        "value": "聰慧卓越！"
+    },
+    {
+        "key": "UI_end_title_3",
+        "value": "才華橫溢！"
+    },
+    {
+        "key": "UI_end_title_4",
+        "value": "傳奇大師！"
+    },
+    {
+        "key": "UI_end_title_5",
+        "value": "無所畏懼！"
+    },
+    {
+        "key": "UI_end_title_6",
+        "value": "壯麗非凡！"
+    },
+    {
+        "key": "UI_end_title_7",
+        "value": "傑出優異！"
+    },
+    {
+        "key": "UI_end_title_8",
+        "value": "令人驚嘆！"
+    },
+    {
+        "key": "UI_end_title_9",
+        "value": "才華閃耀！"
+    },
+    {
+        "key": "UI_Superhard_tip",
+        "value": "Super hard"
+    },
+    {
+        "key": "UI_common_revive",
+        "value": "復活"
+    },
+    {
+        "key": "UI_tips_text1",
+        "value": "送給你的朋友體力，並請他們回贈給你！"
+    },
+    {
+        "key": "UI_tips_text2",
+        "value": "使用道具幫助你完成挑戰"
+    },
+    {
+        "key": "UI_tips_text3",
+        "value": "不要忘記每天回來領取你的每日獎勵"
+    },
+    {
+        "key": "UI_tips_text4",
+        "value": "邀請你的Facebook朋友來玩這個遊戲，請他們送你免費的體力"
+    },
+    {
+        "key": "UI_tips_text5",
+        "value": "不要忘了喜歡我們的Facebook粉絲專頁"
+    },
+    {
+        "key": "UI_tips_text6",
+        "value": "觀察清楚物品，然後快速收集！"
+    },
+    {
+        "key": "UI_tips_text7",
+        "value": "獲得金色花環，可以獲得更多道具！"
+    },
+    {
+        "key": "UI_tips_text8",
+        "value": "完成週挑戰，可以獲得超多獎勵！"
+    },
+    {
+        "key": "UI_tips_text9",
+        "value": "關注活動，並積極參與活動！"
+    },
+    {
+        "key": "UI_tips_text10",
+        "value": "商城中有很多超值禮包！"
+    },
+    {
+        "key": "UI_tips_text11",
+        "value": "隊伍是重要的社交系統！"
+    },
+    {
+        "key": "UI_tips_text12",
+        "value": "隨時關注隊伍資訊！"
+    },
+    {
+        "key": "UI_loading_progress_text",
+        "value": "載入中"
+    },
+    {
+        "key": "UI_loading_tip",
+        "value": "解鎖更多的關卡，以獲得更多獎勵"
+    },
+    {
+        "key": "UI_button_retry_text",
+        "value": "重試"
+    },
+    {
+        "key": "UI_loading_init",
+        "value": "初始化中...{0}%"
+    },
+    {
+        "key": "UI_loading_load",
+        "value": "加載中...{0}%"
+    },
+    {
+        "key": "UI_loading_count",
+        "value": "計算中"
+    },
+    {
+        "key": "UI_common_PlayOn",
+        "value": "復活"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name",
+        "value": "去廣告"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_01",
+        "value": "移除橫幅廣告和全螢幕廣告"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_02",
+        "value": "保留可選的獎勵廣告"
+    },
+    {
+        "key": "UI_common_no_ad_buy",
+        "value": "恭喜您獲得永久去插螢幕廣告特權，祝您遊戲愉快！"
+    },
+    {
+        "key": "UI_Level_Moves",
+        "value": "步數：{0}"
+    },
+    {
+        "key": "UI_daily_unlock",
+        "value": "第{0}解鎖"
+    },
+    {
+        "key": "UI_Achievement_title",
+        "value": "成就"
+    },
+    {
+        "key": "UI_Achievement_task",
+        "value": "任務"
+    },
+    {
+        "key": "UI_Achievement_mine",
+        "value": "已擁有"
+    },
+    {
+        "key": "UI_Achievement_tip",
+        "value": "進行中"
+    },
+    {
+        "key": "UI_Achievement_full",
+        "value": "已滿級"
+    },
+    {
+        "key": "UI_Achievement_get",
+        "value": "獲得成就"
+    },
+    {
+        "key": "UI_Achievement_number",
+        "value": "已獲勳章 {0}"
+    },
+    {
+        "key": "UI_Achievement_complete",
+        "value": "成就達成"
+    },
+    {
+        "key": "UI_achievenment_level_001",
+        "value": "闖關達人 (1)"
+    },
+    {
+        "key": "UI_achievenment_level_002",
+        "value": "闖關達人 (2)"
+    },
+    {
+        "key": "UI_achievenment_level_003",
+        "value": "闖關達人 (3)"
+    },
+    {
+        "key": "UI_achievenment_level_004",
+        "value": "闖關達人 (4)"
+    },
+    {
+        "key": "UI_achievenment_level_005",
+        "value": "闖關達人 (5)"
+    },
+    {
+        "key": "UI_achievenment_level_006",
+        "value": "闖關達人 (6)"
+    },
+    {
+        "key": "UI_achievenment_level_007",
+        "value": "闖關達人 (7)"
+    },
+    {
+        "key": "UI_achievenment_level_008",
+        "value": "闖關達人 (8)"
+    },
+    {
+        "key": "UI_achievenment_level_009",
+        "value": "闖關達人 (9)"
+    },
+    {
+        "key": "UI_achievenment_level_010",
+        "value": "闖關達人 (10)"
+    },
+    {
+        "key": "UI_achievenment_daily_001",
+        "value": "每日挑戰 (1)"
+    },
+    {
+        "key": "UI_achievenment_daily_002",
+        "value": "每日挑戰 (2)"
+    },
+    {
+        "key": "UI_achievenment_daily_003",
+        "value": "每日挑戰 (3)"
+    },
+    {
+        "key": "UI_achievenment_daily_004",
+        "value": "每日挑戰 (4)"
+    },
+    {
+        "key": "UI_achievenment_daily_005",
+        "value": "每日挑戰 (5)"
+    },
+    {
+        "key": "UI_achievenment_daily_006",
+        "value": "每日挑戰 (6)"
+    },
+    {
+        "key": "UI_achievenment_daily_007",
+        "value": "每日挑戰 (7)"
+    },
+    {
+        "key": "UI_achievenment_daily_008",
+        "value": "每日挑戰 (8)"
+    },
+    {
+        "key": "UI_achievenment_daily_009",
+        "value": "每日挑戰 (9)"
+    },
+    {
+        "key": "UI_achievenment_daily_010",
+        "value": "每日挑戰 (10)"
+    },
+    {
+        "key": "UI_achievenment_check_001",
+        "value": "全勤打卡 (1)"
+    },
+    {
+        "key": "UI_achievenment_check_002",
+        "value": "全勤打卡 (2)"
+    },
+    {
+        "key": "UI_achievenment_check_003",
+        "value": "全勤打卡 (3)"
+    },
+    {
+        "key": "UI_achievenment_check_004",
+        "value": "全勤打卡 (4)"
+    },
+    {
+        "key": "UI_achievenment_check_005",
+        "value": "全勤打卡 (5)"
+    },
+    {
+        "key": "UI_achievenment_check_006",
+        "value": "全勤打卡 (6)"
+    },
+    {
+        "key": "UI_achievenment_check_007",
+        "value": "全勤打卡 (7)"
+    },
+    {
+        "key": "UI_achievenment_check_008",
+        "value": "全勤打卡 (8)"
+    },
+    {
+        "key": "UI_achievenment_check_009",
+        "value": "全勤打卡 (9)"
+    },
+    {
+        "key": "UI_achievenment_check_010",
+        "value": "全勤打卡 (10)"
+    },
+    {
+        "key": "UI_achievenment_perfect_001",
+        "value": "完美通關(1)"
+    },
+    {
+        "key": "UI_achievenment_perfect_002",
+        "value": "完美通關(2)"
+    },
+    {
+        "key": "UI_achievenment_perfect_003",
+        "value": "完美通關(3)"
+    },
+    {
+        "key": "UI_achievenment_perfect_004",
+        "value": "完美通關(4)"
+    },
+    {
+        "key": "UI_achievenment_perfect_005",
+        "value": "完美通關(5)"
+    },
+    {
+        "key": "UI_achievenment_perfect_006",
+        "value": "完美通關(6)"
+    },
+    {
+        "key": "UI_achievenment_perfect_007",
+        "value": "完美通關(7)"
+    },
+    {
+        "key": "UI_achievenment_perfect_008",
+        "value": "完美通關(8)"
+    },
+    {
+        "key": "UI_achievenment_perfect_009",
+        "value": "完美通關(9)"
+    },
+    {
+        "key": "UI_achievenment_perfect_010",
+        "value": "完美通關(10)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_001",
+        "value": "關卡傳奇 (1)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_002",
+        "value": "關卡傳奇 (2)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_003",
+        "value": "關卡傳奇 (3)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_004",
+        "value": "關卡傳奇 (4)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_005",
+        "value": "關卡傳奇 (5)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_006",
+        "value": "關卡傳奇 (6)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_007",
+        "value": "關卡傳奇 (7)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_008",
+        "value": "關卡傳奇 (8)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_009",
+        "value": "關卡傳奇 (9)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_010",
+        "value": "關卡傳奇 (10)"
+    },
+    {
+        "key": "UI_achievenment_second_001",
+        "value": "逆轉玩家 (1)"
+    },
+    {
+        "key": "UI_achievenment_second_002",
+        "value": "逆轉玩家 (2)"
+    },
+    {
+        "key": "UI_achievenment_second_003",
+        "value": "逆轉玩家 (3)"
+    },
+    {
+        "key": "UI_achievenment_second_004",
+        "value": "逆轉玩家 (4)"
+    },
+    {
+        "key": "UI_achievenment_second_005",
+        "value": "逆轉玩家 (5)"
+    },
+    {
+        "key": "UI_achievenment_second_006",
+        "value": "逆轉玩家 (6)"
+    },
+    {
+        "key": "UI_achievenment_second_007",
+        "value": "逆轉玩家 (7)"
+    },
+    {
+        "key": "UI_achievenment_second_008",
+        "value": "逆轉玩家 (8)"
+    },
+    {
+        "key": "UI_achievenment_second_009",
+        "value": "逆轉玩家 (9)"
+    },
+    {
+        "key": "UI_achievenment_second_010",
+        "value": "逆轉玩家 (10)"
+    },
+    {
+        "key": "UI_achievenment_close_001",
+        "value": "心跳時刻 (1)"
+    },
+    {
+        "key": "UI_achievenment_close_002",
+        "value": "心跳時刻 (2)"
+    },
+    {
+        "key": "UI_achievenment_close_003",
+        "value": "心跳時刻 (3)"
+    },
+    {
+        "key": "UI_achievenment_close_004",
+        "value": "心跳時刻 (4)"
+    },
+    {
+        "key": "UI_achievenment_close_005",
+        "value": "心跳時刻 (5)"
+    },
+    {
+        "key": "UI_achievenment_close_006",
+        "value": "心跳時刻 (6)"
+    },
+    {
+        "key": "UI_achievenment_close_007",
+        "value": "心跳時刻 (7)"
+    },
+    {
+        "key": "UI_achievenment_close_008",
+        "value": "心跳時刻 (8)"
+    },
+    {
+        "key": "UI_achievenment_close_009",
+        "value": "心跳時刻 (9)"
+    },
+    {
+        "key": "UI_achievenment_close_010",
+        "value": "心跳時刻 (10)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_001",
+        "value": "終極大師 (1)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_002",
+        "value": "終極大師 (2)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_003",
+        "value": "終極大師 (3)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_004",
+        "value": "終極大師 (4)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_005",
+        "value": "終極大師 (5)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_006",
+        "value": "終極大師 (6)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_007",
+        "value": "終極大師 (7)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_008",
+        "value": "終極大師 (8)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_009",
+        "value": "終極大師 (9)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_010",
+        "value": "終極大師 (10)"
+    },
+    {
+        "key": "UI_achievenment_streak_001",
+        "value": "連勝專家 (1)"
+    },
+    {
+        "key": "UI_achievenment_streak_002",
+        "value": "連勝專家 (2)"
+    },
+    {
+        "key": "UI_achievenment_streak_003",
+        "value": "連勝專家 (3)"
+    },
+    {
+        "key": "UI_achievenment_streak_004",
+        "value": "連勝專家 (4)"
+    },
+    {
+        "key": "UI_achievenment_streak_005",
+        "value": "連勝專家 (5)"
+    },
+    {
+        "key": "UI_achievenment_streak_006",
+        "value": "連勝專家 (6)"
+    },
+    {
+        "key": "UI_achievenment_streak_007",
+        "value": "連勝專家 (7)"
+    },
+    {
+        "key": "UI_achievenment_streak_008",
+        "value": "連勝專家 (8)"
+    },
+    {
+        "key": "UI_achievenment_streak_009",
+        "value": "連勝專家 (9)"
+    },
+    {
+        "key": "UI_achievenment_streak_010",
+        "value": "連勝專家 (10)"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "玩的開心嗎？"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "請給我們評分吧！"
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "現在評分"
+    },
+    {
+        "key": "UI_achievenment_level_name",
+        "value": "通過關卡{0}關"
+    },
+    {
+        "key": "UI_achievenment_daily_name",
+        "value": "挑戰{0}天"
+    },
+    {
+        "key": "UI_achievenment_check_name",
+        "value": "連續登入{0}天並完成任意1次關卡"
+    },
+    {
+        "key": "UI_achievenment_perfect_name",
+        "value": "滿心、無復活完成{0}關卡"
+    },
+    {
+        "key": "UI_achievenment_puzzle_name",
+        "value": "不使用提示通過{0}關"
+    },
+    {
+        "key": "UI_achievenment_second_name",
+        "value": "在任意關卡復活{0}次"
+    },
+    {
+        "key": "UI_achievenment_close_name",
+        "value": "無復活、剩1顆心通關{0}次"
+    },
+    {
+        "key": "UI_achievenment_ultimate_name",
+        "value": "不使用任何道具通過{0}關"
+    },
+    {
+        "key": "UI_achievenment_streak_name",
+        "value": "一天內連續挑戰{0}關"
+    },
+    {
+        "key": "UI_skin_Theme_choose",
+        "value": "選擇主題"
+    },
+    {
+        "key": "UI_achievenment_no_tips",
+        "value": "未獲得成就，\n請完成成就任務！"
+    }
+]

@@ -1,0 +1,1007 @@
+[
+  {
+    "className": "UIView_HomeMain",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_HomeMain.cs"
+  },
+  {
+    "className": "UIView_HomeNoBox",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_HomeNoBox.cs"
+  },
+  {
+    "className": "UIView_Setting",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_Setting.cs"
+  },
+  {
+    "className": "UIView_SetLanguage",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_SetLanguage.cs"
+  },
+  {
+    "className": "UIView_SaveYourProgress",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_SaveYourProgress.cs"
+  },
+  {
+    "className": "UIView_BuyEnergy",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_BuyEnergy.cs"
+  },
+  {
+    "className": "UIView_TripleMatchFail",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_TripleMatchFail.cs"
+  },
+  {
+    "className": "UIView_TripleMatchLevelChoose",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_TripleMatchLevelChoose.cs"
+  },
+  {
+    "className": "UIView_Waiting",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_Waiting.cs"
+  },
+  {
+    "className": "UIView_Notice",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_Notice.cs"
+  },
+  {
+    "className": "UIView_TripleMatchMain",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_TripleMatchMain.cs"
+  },
+  {
+    "className": "UISubView_TopGroup",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/SubView/UISubView_TopGroup.cs"
+  },
+  {
+    "className": "UISubView_TaskGroup",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/SubView/UISubView_TaskGroup.cs"
+  },
+  {
+    "className": "UISubView_PropGroup",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/SubView/UISubView_PropGroup.cs"
+  },
+  {
+    "className": "UISubView_Task",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/SubView/UISubView_Task.cs"
+  },
+  {
+    "className": "UIWidget_Task",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/SubView/UIWidget_Task.cs"
+  },
+  {
+    "className": "UIWidget_TaskInfo",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/SubView/UIWidget_TaskInfo.cs"
+  },
+  {
+    "className": "UIView_Suspend",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_Suspend.cs"
+  },
+  {
+    "className": "UIView_TripleMatchSpaceOut",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_TripleMatchSpaceOut.cs"
+  },
+  {
+    "className": "UIView_EmptyEnergy",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_EmptyEnergy.cs"
+  },
+  {
+    "className": "UIView_UITripleMatchInterrupt",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_UITripleMatchInterrupt.cs"
+  },
+  {
+    "className": "UIView_UIBuyProps",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_UIBuyProps.cs"
+  },
+  {
+    "className": "UIView_TripleMatchTimeOut",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_TripleMatchTimeOut.cs"
+  },
+  {
+    "className": "UIView_TripleMatchWinHasRewards",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/View/UIView_TripleMatchWinHasRewards.cs"
+  },
+  {
+    "className": "UISubView_Content",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/SubView/UISubView_Content.cs"
+  },
+  {
+    "className": "UISubView_CollectViewContent",
+    "genUITypeStr": null,
+    "filePath": "Assets/Scripts/UI/Logic/SubView/UISubView_CollectViewContent.cs"
+  },
+  {
+    "className": "UIWidget_SetLanguageBtn",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/UI/Logic/Widget/UIWidget_SetLanguageBtn.cs"
+  },
+  {
+    "className": "UISubView_TaskInfo",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/UI/Logic/SubView/UISubView_TaskInfo.cs"
+  },
+  {
+    "className": "UIView_ElementMergeTutorial",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeTM3/Home/Main/UIView_ElementMergeTutorial.cs"
+  },
+  {
+    "className": "UIView_HomeBalloon",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeTM3/Merge/UI/UIView_HomeBalloon.cs"
+  },
+  {
+    "className": "UIView_MapTip",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeTM3/Home/UIView_MapTip.cs"
+  },
+  {
+    "className": "UIView_UIShopMain",
+    "genUITypeStr": "View",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Shop/UI/UIView_UIShopMain.cs"
+  },
+  {
+    "className": "UIView_GuideMain",
+    "genUITypeStr": "View",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Guide/UIView_GuideMain.cs"
+  },
+  {
+    "className": "UISubView_Guide",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Guide/UISubView_Guide.cs"
+  },
+  {
+    "className": "UISubView_GuideNPCText",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Guide/UISubView_GuideNPCText.cs"
+  },
+  {
+    "className": "UISubView_GuideArrow",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Guide/UISubView_GuideArrow.cs"
+  },
+  {
+    "className": "UISubView_GuideFinger",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Guide/UISubView_GuideFinger.cs"
+  },
+  {
+    "className": "UISubView_GiftGroup",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/TMatch/UI/Logic/View/UISubView_GiftGroup.cs"
+  },
+  {
+    "className": "UIView_TripleMatchLevelChooseHelp",
+    "genUITypeStr": "View",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/TMatch/UI/Logic/View/UIView_TripleMatchLevelChooseHelp.cs"
+  },
+  {
+    "className": "UIView_UIMapGridUnlockTip",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Merge/UI/UIView_UIMapGridUnlockTip.cs"
+  },
+  {
+    "className": "UView_MapBoxBuy",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Merge/UI/UView_MapBoxBuy.cs"
+  },
+  {
+    "className": "UIWidget_RewardItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/Common/UI/UIWidget_RewardItem.cs"
+  },
+  {
+    "className": "UIWidget_UIShopADItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Shop/UI/UIWidget_UIShopADItem.cs"
+  },
+  {
+    "className": "UIWidget_UIShopCoinItem2",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Shop/UI/UIWidget_UIShopCoinItem2.cs"
+  },
+  {
+    "className": "UIWidget_UIShopMergeCommonItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Shop/UI/UIWidget_UIShopMergeCommonItem.cs"
+  },
+  {
+    "className": "UIWidget_UIShopPropItem1",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Shop/UI/UIWidget_UIShopPropItem1.cs"
+  },
+  {
+    "className": "UIWidget_UIShopPropItem2",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Shop/UI/UIWidget_UIShopPropItem2.cs"
+  },
+  {
+    "className": "UIView_UIMapAreaUnlockTip",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Merge/UI/UIView_UIMapAreaUnlockTip.cs"
+  },
+  {
+    "className": "UIView_MapAward",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Merge/UI/UIView_MapAward.cs"
+  },
+  {
+    "className": "UIWidget_UIShopMergeSpecialItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Shop/UI/UIWidget_UIShopMergeSpecialItem.cs"
+  },
+  {
+    "className": "UIView_BuildingReward",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Merge/UI/UIView_BuildingReward.cs"
+  },
+  {
+    "className": "UIWidget_BuildingReward",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Merge/UI/UIWidget_BuildingReward.cs"
+  },
+  {
+    "className": "UIView_ShopPurchase",
+    "genUITypeStr": "View",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Shop/UI/UIView_ShopPurchase.cs"
+  },
+  {
+    "className": "UIView_HomeNoDiamond",
+    "genUITypeStr": "View",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Home/Main/UIView_HomeNoDiamond.cs"
+  },
+  {
+    "className": "UISubView_CoinPage",
+    "genUITypeStr": "SubView",
+    "filePath": "/UISubView_CoinPage.cs"
+  },
+  {
+    "className": "UISubView_CommonPage",
+    "genUITypeStr": "SubView",
+    "filePath": "/UISubView_CommonPage.cs"
+  },
+  {
+    "className": "UISubView_SpecialPage",
+    "genUITypeStr": "SubView",
+    "filePath": "/UISubView_SpecialPage.cs"
+  },
+  {
+    "className": "UISubView_ShopTopGroup",
+    "genUITypeStr": "SubView",
+    "filePath": "/UISubView_ShopTopGroup.cs"
+  },
+  {
+    "className": "UISubView_GuideMaskLayer",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/Project/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/MergeTM3/Guide/UISubView_GuideMaskLayer.cs"
+  },
+  {
+    "className": "UIView_ContactUs",
+    "genUITypeStr": "View",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/Common/UI/ContactUs/UIView_ContactUs.cs"
+  },
+  {
+    "className": "UIView_ContactUsCell",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/Common/UI/ContactUs/UIView_ContactUsCell.cs"
+  },
+  {
+    "className": "UIView_ContactUsItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/Common/UI/ContactUs/UIView_ContactUsItem.cs"
+  },
+  {
+    "className": "UIView_ContactUsItem2",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/Project/MT/MergeTM3/MergeTM3/Assets/Scripts/MergeHotupdate/Common/UI/ContactUs/UIView_ContactUsItem2.cs"
+  },
+  {
+    "className": "UIView_FindTM_Loading",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_Loading.cs"
+  },
+  {
+    "className": "UIView_FindTM_ChooseLevel",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_ChooseLevel.cs"
+  },
+  {
+    "className": "UIView_FindTM_ChooseLevelHelp",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_ChooseLevelHelp.cs"
+  },
+  {
+    "className": "UIView_FindTM_Main",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_Main.cs"
+  },
+  {
+    "className": "UIView_FindTM_BuyItem",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_BuyItem.cs"
+  },
+  {
+    "className": "UIView_FindTM_Pause",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_Pause.cs"
+  },
+  {
+    "className": "UIView_FindTM_Fail2",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_Fail2.cs"
+  },
+  {
+    "className": "UIView_FindTM_Fail1",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_Fail1.cs"
+  },
+  {
+    "className": "UIView_FindTM_Fail",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_Fail.cs"
+  },
+  {
+    "className": "UILevel",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/ASMR/UI/UILevel.cs"
+  },
+  {
+    "className": "UIASMRFinish",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/ASMR/UI/UIASMRFinish.cs"
+  },
+  {
+    "className": "UIView_ASMR_Finish",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/UIView_ASMR_Finish.cs"
+  },
+  {
+    "className": "UIView_ASMR_Level",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/ASMR/UI/UIView_ASMR_Level.cs"
+  },
+  {
+    "className": "UIView_ASMR_Success",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/ASMR/UI/UIView_ASMR_Success.cs"
+  },
+  {
+    "className": "UIView_ASMR_Creature",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/ASMR/UI/UIView_ASMR_Creature.cs"
+  },
+  {
+    "className": "UIView_ASMR_UIMain",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/ASMR/UI/UIView_ASMR_UIMain.cs"
+  },
+  {
+    "className": "UIView_ASMR_MainSelect",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/UIView_ASMR_MainSelect.cs"
+  },
+  {
+    "className": "UIView_FindTM_Win",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_Win.cs"
+  },
+  {
+    "className": "UINode_Coin",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/ASMR/UI/UINode_Coin.cs"
+  },
+  {
+    "className": "UIView_FindTM_WinningStreakTips",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_WinningStreakTips.cs"
+  },
+  {
+    "className": "UIPopupNoMoney",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/UIPopupNoMoney.cs"
+  },
+  {
+    "className": "UIView_PopupNoMoney",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/UIView_PopupNoMoney.cs"
+  },
+  {
+    "className": "UIView_UnlockRoom",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/UIView_UnlockRoom.cs"
+  },
+  {
+    "className": "UISubView_DecorationMain",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/UISubView_DecorationMain.cs"
+  },
+  {
+    "className": "FurnitureItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/FurnitureItem.cs"
+  },
+  {
+    "className": "UIView_ChooseRoom",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/UIView_ChooseRoom.cs"
+  },
+  {
+    "className": "UIView_AreaTaskMain",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/UIView_AreaTaskMain.cs"
+  },
+  {
+    "className": "UIView_FindTM_QuitLevel",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/FindTM/UI/UIView_FindTM_QuitLevel.cs"
+  },
+  {
+    "className": "TaskItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/TaskItem.cs"
+  },
+  {
+    "className": "TaskReward",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/TaskReward.cs"
+  },
+  {
+    "className": "UIView_RoomList",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/UIView_RoomList.cs"
+  },
+  {
+    "className": "ChooseRoomItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/ChooseRoomItem.cs"
+  },
+  {
+    "className": "ChooseAreaItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/ChooseAreaItem.cs"
+  },
+  {
+    "className": "UIStarsBox",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIStarsBox.cs"
+  },
+  {
+    "className": "UIGradeBox",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIGradeBox.cs"
+  },
+  {
+    "className": "UIView_UIGradeBox",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIView_UIGradeBox.cs"
+  },
+  {
+    "className": "UIView_UIStarsBox",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIView_UIStarsBox.cs"
+  },
+  {
+    "className": "UIView_FindTM_UIStarsBox",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIView_FindTM_UIStarsBox.cs"
+  },
+  {
+    "className": "UIView_FindTM_UIGradeBox",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIView_FindTM_UIGradeBox.cs"
+  },
+  {
+    "className": "UISubView_ButtonStars",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/SubView/UISubView_ButtonStars.cs"
+  },
+  {
+    "className": "UISubView_ButtonGradeBox",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/SubView/UISubView_ButtonGradeBox.cs"
+  },
+  {
+    "className": "UIView_FindTM_Reward",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIView_FindTM_Reward.cs"
+  },
+  {
+    "className": "UIPopupDownLoad",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/UIPopupDownLoad.cs"
+  },
+  {
+    "className": "UIPopupDownLoadFail",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/UIPopupDownLoadFail.cs"
+  },
+  {
+    "className": "UIView_TipsWindow",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/ASMR/UI/UIView_TipsWindow.cs"
+  },
+  {
+    "className": "UIWidget_UIShopMoreItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/Widget/UIWidget_UIShopMoreItem.cs"
+  },
+  {
+    "className": "UISubView_ShopPage",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/SubView/UISubView_ShopPage.cs"
+  },
+  {
+    "className": "UISubView_NoADS1",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UISubView_NoADS1.cs"
+  },
+  {
+    "className": "UISubView_NoADS2",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UISubView_NoADS2.cs"
+  },
+  {
+    "className": "UINoADS",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UINoADS.cs"
+  },
+  {
+    "className": "UIView_FindTM_NoADS",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIView_FindTM_NoADS.cs"
+  },
+  {
+    "className": "UISubView_WeeklyChallenge",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UISubView_WeeklyChallenge.cs"
+  },
+  {
+    "className": "UIView_FindTM_WeekChallenge",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIView_FindTM_WeekChallenge.cs"
+  },
+  {
+    "className": "UIView_FindTM_UIWeekChallenge",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIView_FindTM_UIWeekChallenge.cs"
+  },
+  {
+    "className": "UIWidget_UIWeekRewardItems1",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/Widget/UIWidget_UIWeekRewardItems1.cs"
+  },
+  {
+    "className": "UIWidget_UIWeekRewardItems2",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/Widget/UIWidget_UIWeekRewardItems2.cs"
+  },
+  {
+    "className": "UIWidget_WeeklyChallegeReward",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/Widget/UIWidget_WeeklyChallegeReward.cs"
+  },
+  {
+    "className": "UIView_FindTM_WeeklyChallegeReward",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UIView_FindTM_WeeklyChallegeReward.cs"
+  },
+  {
+    "className": "UIView_ADboxMain",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Active/UIADBox/UI/UIView_ADboxMain.cs"
+  },
+  {
+    "className": "UISubView_ButtonADBox",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/UI/AutoGen/View/UISubView_ButtonADBox.cs"
+  },
+  {
+    "className": "UIView_FindTM_ADboxMain",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Active/UIADBox/UI/UIView_FindTM_ADboxMain.cs"
+  },
+  {
+    "className": "UIWidget_BeginnerRewardItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Active/UIBeginnerBundle/UI/UIWidget_BeginnerRewardItem.cs"
+  },
+  {
+    "className": "UIView_FindTM_BeginnerBundle",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Active/UIBeginnerBundle/UI/UIView_FindTM_BeginnerBundle.cs"
+  },
+  {
+    "className": "UIView_Loading",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Common/UI/UIView_Loading.cs"
+  },
+  {
+    "className": "CommonGetReward",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTm1/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Room/UI/CommonGetReward.cs"
+  },
+  {
+    "className": "UIView_Tip",
+    "genUITypeStr": "View",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Common/UI/Tools/UIView_Tip.cs"
+  },
+  {
+    "className": "UIWidget_Tip",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/WorkSpace/FindTM1/FindTM1/Assets/Scripts/MergeHotupdate/Common/UI/Tools/UIWidget_Tip.cs"
+  },
+  {
+    "className": "UIWidget_FindTM_ResurrectGift",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/FindTM/UI/UIWidget_FindTM_ResurrectGift.cs"
+  },
+  {
+    "className": "UISubView_SignIn",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Global/UI/Home/UISubView_SignIn.cs"
+  },
+  {
+    "className": "UIView_SignIn",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/SignIn/UI/UIView_SignIn.cs"
+  },
+  {
+    "className": "UIView_TripleGiftPack",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/ActivityTripleGiftPack/UI/UIView_TripleGiftPack.cs"
+  },
+  {
+    "className": "UIWidget_TripleGiftPack",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/ActivityTripleGiftPack/UI/UIWidget_TripleGiftPack.cs"
+  },
+  {
+    "className": "UIView_FindTM_IcebreakBundle",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/UIBeginnerBundle/UI/UIView_FindTM_IcebreakBundle.cs"
+  },
+  {
+    "className": "UIView_EndlessGiftPack",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/ActivityEndlessGiftPack/UI/UIView_EndlessGiftPack.cs"
+  },
+  {
+    "className": "UIView_EndlessGiftPackLT",
+    "genUITypeStr": "View",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/ActivityEndlessGiftPack/UI/UIView_EndlessGiftPackLT.cs"
+  },
+  {
+    "className": "UIWidget_EndlessGiftLTItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/ActivityEndlessGiftPack/UI/UIWidget_EndlessGiftLTItem.cs"
+  },
+  {
+    "className": "UIWidget_EndlessGiftItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/ActivityEndlessGiftPack/UI/UIWidget_EndlessGiftItem.cs"
+  },
+  {
+    "className": "UIChooseProgress",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/FindTM1/FindTM1/Assets/Scripts/Hotfix/Common/Module/Storage/ChooseProgress/UIChooseProgress.cs"
+  },
+  {
+    "className": "UIWidget_EndlessGiftPack",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/ActivityEndlessGiftPack/UI/UIWidget_EndlessGiftPack.cs"
+  },
+  {
+    "className": "UIWidget_EndlessGiftPackLT",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/ActivityEndlessGiftPack/UI/UIWidget_EndlessGiftPackLT.cs"
+  },
+  {
+    "className": "UIWidget_ADBox",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Common/Module/UI/AutoGen/Widget/UIWidget_ADBox.cs"
+  },
+  {
+    "className": "UIWidget_NoADS1",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Common/Module/UI/AutoGen/Widget/UIWidget_NoADS1.cs"
+  },
+  {
+    "className": "UIWidget_SignIn",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Common/Module/UI/AutoGen/Widget/UIWidget_SignIn.cs"
+  },
+  {
+    "className": "UIWidget_StarsBox",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/UIStarsBox/UI/UIWidget_StarsBox.cs"
+  },
+  {
+    "className": "UIWidget_GradeBox",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/UIGradeBox/UI/UIWidget_GradeBox.cs"
+  },
+  {
+    "className": "UIWidget_Shop",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/FindTM1/FindTM1/Assets/Scripts/Hotfix/Active/UIShop/UI/UIWidget_Shop.cs"
+  },
+  {
+    "className": "UIView_Mahjong_Main",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Mahjong/UI/UIView_Mahjong_Main.cs"
+  },
+  {
+    "className": "UIView_Mahjong_ChooseTheme",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Mahjong/UI/UIView_Mahjong_ChooseTheme.cs"
+  },
+  {
+    "className": "UIView_Mahjong_Loading",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Mahjong/UI/UIView_Mahjong_Loading.cs"
+  },
+  {
+    "className": "UIView_Mahjong_Setting",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Mahjong/UI/UIView_Mahjong_Setting.cs"
+  },
+  {
+    "className": "UIView_Mahjong_Win",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Mahjong/UI/UIView_Mahjong_Win.cs"
+  },
+  {
+    "className": "UIWidget_Mahjong_Tip",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Mahjong/UI/UIWidget_Mahjong_Tip.cs"
+  },
+  {
+    "className": "UIView_Mahjong_HowToPlay",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Mahjong/UI/UIView_Mahjong_HowToPlay.cs"
+  },
+  {
+    "className": "UISubView_GuideNPCText_Top",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Game/Module/Guide/UI/UISubView_GuideNPCText_Top.cs"
+  },
+  {
+    "className": "UISubView_GuideNPCText_Mid",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Game/Module/Guide/UI/UISubView_GuideNPCText_Mid.cs"
+  },
+  {
+    "className": "UIView_Mahjong_Fail",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Mahjong/UI/UIView_Mahjong_Fail.cs"
+  },
+  {
+    "className": "UIView_Mahjong_GetProp",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Mahjong/UI/UIView_Mahjong_GetProp.cs"
+  },
+  {
+    "className": "UIView_Mahjong_Reward",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Mahjong/UI/UIView_Mahjong_Reward.cs"
+  },
+  {
+    "className": "UIView_Mahjong_NoADS",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Active/UINoAds/UI/UIView_Mahjong_NoADS.cs"
+  },
+  {
+    "className": "UIWidget_ResourceBarItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/UI/Home/UIWidget_ResourceBarItem.cs"
+  },
+  {
+    "className": "UISubView_ResourceBar",
+    "genUITypeStr": "SubView",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/UI/Home/UISubView_ResourceBar.cs"
+  },
+  {
+    "className": "UIView_FlyObj",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/UI/Home/UIView_FlyObj.cs"
+  },
+  {
+    "className": "UIWidget_FlyObj",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/FlyObj/UI/UIWidget_FlyObj.cs"
+  },
+  {
+    "className": "UIWidget_FlyObjCount",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/FlyObj/UI/UIWidget_FlyObjCount.cs"
+  },
+  {
+    "className": "UIView_SelectTheme",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/Topic/UI/UIView_SelectTheme.cs"
+  },
+  {
+    "className": "UIWidget_MahjongBGItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/Topic/UI/UIWidget_MahjongBGItem.cs"
+  },
+  {
+    "className": "UIWidget_MahjongTilesItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/Topic/UI/UIWidget_MahjongTilesItem.cs"
+  },
+  {
+    "className": "UIView_Mahjong_DailyChallenge",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/DailyChallenge/UI/UIView_Mahjong_DailyChallenge.cs"
+  },
+  {
+    "className": "UIWidget_DayCell",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/DailyChallenge/UI/UIWidget_DayCell.cs"
+  },
+  {
+    "className": "UIWidget_Mahjong_CalendarItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/DailyChallenge/UI/UIWidget_Mahjong_CalendarItem.cs"
+  },
+  {
+    "className": "UIWidget_DailyChallenge",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/DailyChallenge/UI/UIWidget_DailyChallenge.cs"
+  },
+  {
+    "className": "UIView_Mahjong_Badges",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/DailyChallenge/UI/UIView_Mahjong_Badges.cs"
+  },
+  {
+    "className": "UIWidget_Mahjong_BadgesYearItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/DailyChallenge/UI/UIWidget_Mahjong_BadgesYearItem.cs"
+  },
+  {
+    "className": "UIWidget_RowBadges",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/DailyChallenge/UI/UIWidget_RowBadges.cs"
+  },
+  {
+    "className": "UIView_Mahjong_BadgesPop",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/DailyChallenge/UI/UIView_Mahjong_BadgesPop.cs"
+  },
+  {
+    "className": "UIView_Mahjong_GetFlowerDate",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/DailyChallenge/UI/UIView_Mahjong_GetFlowerDate.cs"
+  },
+  {
+    "className": "UIView_GM",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/GM/UI/UIView_GM.cs"
+  },
+  {
+    "className": "UIWidget_GMOption",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/GM/UI/UIWidget_GMOption.cs"
+  },
+  {
+    "className": "UIWidget_GMCommandButton",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/GM/UI/UIWidget_GMCommandButton.cs"
+  },
+  {
+    "className": "UIWidget_GMCommandToggle",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/DragonPlus/MahjongBlast1/MahjongBlast1/Assets/Scripts/Hotfix/Common/Module/GM/UI/UIWidget_GMCommandToggle.cs"
+  },
+  {
+    "className": "UIView_InGame_Main",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/MahjongScrew2D1/MahjongScrew2D1/Assets/Scripts/Hotfix/InGame/UI/UIView_InGame_Main.cs"
+  },
+  {
+    "className": "UIView_MahjongScrew_Loading",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/MahjongScrew2D1/MahjongScrew2D1/Assets/Scripts/Hotfix/InGame/UI/UIView_MahjongScrew_Loading.cs"
+  },
+  {
+    "className": "UIView_InGame_GetProp",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongScrew2D1/MahjongScrew2D1/Assets/Scripts/Hotfix/InGame/UI/UIView_InGame_GetProp.cs"
+  },
+  {
+    "className": "UIView_InGame_Setting",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongScrew2D1/MahjongScrew2D1/Assets/Scripts/Hotfix/InGame/UI/UIView_InGame_Setting.cs"
+  },
+  {
+    "className": "UIView_PurchaseFailure",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongScrew2D1/MahjongScrew2D1/Assets/Scripts/Hotfix/Common/Module/UI/AutoGen/View/UIView_PurchaseFailure.cs"
+  },
+  {
+    "className": "UIView_CommonReward",
+    "genUITypeStr": "View",
+    "filePath": "E:/MahjongScrew2D1/MahjongScrew2D1/Assets/Scripts/Hotfix/Common/Module/UI/AutoGen/View/UIView_CommonReward.cs"
+  },
+  {
+    "className": "UICommonItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/MahjongScrew2D1/MahjongScrew2D1/Assets/Scripts/Hotfix/Common/Module/UI/AutoGen/Widget/UICommonItem.cs"
+  },
+  {
+    "className": "UIView_InGame_Fail",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/InGame/UI/UIView_InGame_Fail.cs"
+  },
+  {
+    "className": "UIView_InGame_Win",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/InGame/UI/UIView_InGame_Win.cs"
+  },
+  {
+    "className": "UIView_InGame_HardTips",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/InGame/UI/UIView_InGame_HardTips.cs"
+  },
+  {
+    "className": "UIWidget_LevelItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/Projects/ArrowPuzzle1/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/Common/Module/UI/Home/UIWidget_LevelItem.cs"
+  },
+  {
+    "className": "UIView_RemoveAd",
+    "genUITypeStr": "View",
+    "filePath": "E:/DragonPlus/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/Activity/RemoveAd/UIView_RemoveAd.cs"
+  },
+  {
+    "className": "UIWidget_Entrance_RemoveAd",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/DragonPlus/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/Activity/RemoveAd/UIWidget_Entrance_RemoveAd.cs"
+  },
+  {
+    "className": "UIView_AchievementMain",
+    "genUITypeStr": "View",
+    "filePath": "E:/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/Common/Module/Achievement/UI/UIView_AchievementMain.cs"
+  },
+  {
+    "className": "UIView_GetAchievementPop",
+    "genUITypeStr": "View",
+    "filePath": "E:/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/Common/Module/Achievement/UI/UIView_GetAchievementPop.cs"
+  },
+  {
+    "className": "UIWidget_AchievementItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/Common/Module/Achievement/UI/UIWidget_AchievementItem.cs"
+  },
+  {
+    "className": "UIWidget_AchievementTaskItem",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/Common/Module/Achievement/UI/UIWidget_AchievementTaskItem.cs"
+  },
+  {
+    "className": "UIWidget_AchievementTip",
+    "genUITypeStr": "Widget",
+    "filePath": "E:/ArrowPuzzle1/ArrowPuzzle1/Assets/Scripts/Hotfix/Common/Module/Tip/UI/UIWidget_AchievementTip.cs"
+  }
+]

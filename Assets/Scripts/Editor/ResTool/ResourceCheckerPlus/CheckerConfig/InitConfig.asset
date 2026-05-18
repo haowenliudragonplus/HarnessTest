@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e3e9fb4413e16d4285bb4784280e64d, type: 3}
+  m_Name: InitConfig
+  m_EditorClassIdentifier: 
+  moduleConfg:
+  - checkModuleName: SceneResCheckModule
+    checkerCfgs:
+    - checkerName: TextureChecker
+      checkerEnabled: 1
+    - checkerName: MeshChecker
+      checkerEnabled: 0
+    - checkerName: MaterialChecker
+      checkerEnabled: 0
+    - checkerName: ComponentChecker
+      checkerEnabled: 0
+    - checkerName: ShaderChecker
+      checkerEnabled: 0
+    - checkerName: AudioChecker
+      checkerEnabled: 0
+    - checkerName: ParticleChecker
+      checkerEnabled: 0
+    - checkerName: AnimClipChecker
+      checkerEnabled: 0
+    - checkerName: GameObjectChecker
+      checkerEnabled: 0
+    - checkerName: PrefabChecker
+      checkerEnabled: 0
+    - checkerName: RefObjectChecker
+      checkerEnabled: 0
+    - checkerName: NGUIChecker
+      checkerEnabled: 0
+  - checkModuleName: ReferenceResCheckModule
+    checkerCfgs:
+    - checkerName: TextureChecker
+      checkerEnabled: 1
+    - checkerName: MeshChecker
+      checkerEnabled: 1
+    - checkerName: MaterialChecker
+      checkerEnabled: 1
+    - checkerName: ComponentChecker
+      checkerEnabled: 1
+    - checkerName: ShaderChecker
+      checkerEnabled: 0
+    - checkerName: AudioChecker
+      checkerEnabled: 0
+    - checkerName: ParticleChecker
+      checkerEnabled: 0
+    - checkerName: AnimClipChecker
+      checkerEnabled: 0
+    - checkerName: GameObjectChecker
+      checkerEnabled: 0
+    - checkerName: PrefabChecker
+      checkerEnabled: 0
+    - checkerName: RefObjectChecker
+      checkerEnabled: 0
+    - checkerName: NGUIChecker
+      checkerEnabled: 0
+  - checkModuleName: DirectResCheckModule
+    checkerCfgs:
+    - checkerName: TextureChecker
+      checkerEnabled: 1
+    - checkerName: MeshChecker
+      checkerEnabled: 0
+    - checkerName: MaterialChecker
+      checkerEnabled: 0
+    - checkerName: ShaderChecker
+      checkerEnabled: 0
+    - checkerName: AudioChecker
+      checkerEnabled: 0
+    - checkerName: ParticleChecker
+      checkerEnabled: 0
+    - checkerName: AnimClipChecker
+      checkerEnabled: 0
+    - checkerName: GameObjectChecker
+      checkerEnabled: 0
+    - checkerName: PrefabChecker
+      checkerEnabled: 0
+    - checkerName: SceneChecker
+      checkerEnabled: 0
+  - checkModuleName: ReverseRefCheckModule
+    checkerCfgs:
+    - checkerName: PrefabChecker
+      checkerEnabled: 1
+    - checkerName: SceneChecker
+      checkerEnabled: 1
+    - checkerName: MaterialChecker
+      checkerEnabled: 1
+  - checkModuleName: ImportedListCheckModule
+    checkerCfgs:
+    - checkerName: TextureChecker
+      checkerEnabled: 1
+    - checkerName: MeshChecker
+      checkerEnabled: 1
+    - checkerName: MaterialChecker
+      checkerEnabled: 1
+    - checkerName: ComponentChecker
+      checkerEnabled: 1
+    - checkerName: ShaderChecker
+      checkerEnabled: 0
+    - checkerName: AudioChecker
+      checkerEnabled: 0
+    - checkerName: ParticleChecker
+      checkerEnabled: 0
+    - checkerName: AnimClipChecker
+      checkerEnabled: 0
+    - checkerName: GameObjectChecker
+      checkerEnabled: 0
+    - checkerName: PrefabChecker
+      checkerEnabled: 0
+    - checkerName: RefObjectChecker
+      checkerEnabled: 0
+    - checkerName: NGUIChecker
+      checkerEnabled: 0

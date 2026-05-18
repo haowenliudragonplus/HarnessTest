@@ -1,0 +1,22 @@
+{
+    "AndroidDebug": {
+        "version": "0.0.17",
+        "versionCode": "17",
+        "appVersion": "v17"
+    },
+    "IOSDebug": {
+        "version": "0.0.17",
+        "versionCode": "17",
+        "appVersion": "v17"
+    },
+    "AndroidRelease": {
+        "version": "1.0.17",
+        "versionCode": "17",
+        "appVersion": "v17"
+    },
+    "IOSRelease": {
+        "version": "1.0.17",
+        "versionCode": "17",
+        "appVersion": "v17"
+    }
+}

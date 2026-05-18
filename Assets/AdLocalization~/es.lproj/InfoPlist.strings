@@ -1,0 +1,3 @@
+NSUserTrackingUsageDescription = "Si eliges activar el seguimiento, podremos mostrarte anuncios más acordes a tus intereses, lo que nos ayuda a mejorar la experiencia de juego. Si eliges rechazarlo, no podremos ofrecerte anuncios personalizados. Decidas lo que decidas, ¡esperamos que disfrutes del juego!  ";
+NSCameraUsageDescription = "El módulo de publicidad de terceros requiere acceso a la cámara para admitir interacciones con anuncios AR";
+

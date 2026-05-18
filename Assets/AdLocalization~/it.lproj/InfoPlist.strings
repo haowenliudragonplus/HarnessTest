@@ -1,0 +1,2 @@
+NSUserTrackingUsageDescription = "Se scegli di abilitare il tracciamento, potremo mostrarti annunci più in linea con i tuoi interessi, aiutandoci a migliorare l’esperienza di gioco. Se scegli di rifiutare, non potremo offrirti annunci personalizzati. Qualunque sia la tua decisione, ti auguriamo buon divertimento!  ";
+NSCameraUsageDescription = "Il modulo pubblicitario di terze parti richiede l'accesso alla fotocamera per supportare le interazioni con annunci AR";

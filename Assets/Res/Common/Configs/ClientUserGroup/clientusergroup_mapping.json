@@ -1,0 +1,311 @@
+[
+    {
+        "id": 1,
+        "playerRuleList": [
+            -1
+        ],
+        "difficultyStage": 1,
+        "difficultySensitivity": 2
+    },
+    {
+        "id": 2,
+        "playerRuleList": [
+            2001,
+            5001,
+            1001
+        ],
+        "difficultyStage": 0,
+        "difficultySensitivity": 3
+    },
+    {
+        "id": 3,
+        "playerRuleList": [
+            2001,
+            5001,
+            1102,
+            1002
+        ],
+        "difficultyStage": 1,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 4,
+        "playerRuleList": [
+            2001,
+            5001,
+            1103
+        ],
+        "difficultyStage": 2,
+        "difficultySensitivity": 3
+    },
+    {
+        "id": 5,
+        "playerRuleList": [
+            2001,
+            5002,
+            5101,
+            1001
+        ],
+        "difficultyStage": 0,
+        "difficultySensitivity": 2
+    },
+    {
+        "id": 6,
+        "playerRuleList": [
+            2001,
+            5002,
+            5101,
+            1102,
+            1002
+        ],
+        "difficultyStage": 1,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 7,
+        "playerRuleList": [
+            2001,
+            5002,
+            5101,
+            1103
+        ],
+        "difficultyStage": 2,
+        "difficultySensitivity": 2
+    },
+    {
+        "id": 8,
+        "playerRuleList": [
+            2001,
+            5003,
+            6001,
+            7001
+        ],
+        "difficultyStage": 1,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 9,
+        "playerRuleList": [
+            2001,
+            5003,
+            6101,
+            6002,
+            7001
+        ],
+        "difficultyStage": 2,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 10,
+        "playerRuleList": [
+            2001,
+            5003,
+            6101,
+            6002,
+            7101,
+            7002
+        ],
+        "difficultyStage": 2,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 11,
+        "playerRuleList": [
+            2001,
+            5003,
+            6102,
+            6003,
+            7002
+        ],
+        "difficultyStage": 2,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 12,
+        "playerRuleList": [
+            2001,
+            5003,
+            6102,
+            6003,
+            7102
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 13,
+        "playerRuleList": [
+            2001,
+            5003,
+            6103,
+            7001
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 2
+    },
+    {
+        "id": 14,
+        "playerRuleList": [
+            2001,
+            5003,
+            6103,
+            7101,
+            7002
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 2
+    },
+    {
+        "id": 15,
+        "playerRuleList": [
+            2001,
+            5003,
+            6103,
+            7102
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 16,
+        "playerRuleList": [
+            2002,
+            2101,
+            5001,
+            1002
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 2
+    },
+    {
+        "id": 17,
+        "playerRuleList": [
+            2002,
+            2101,
+            5001,
+            1103
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 18,
+        "playerRuleList": [
+            2003,
+            5001,
+            1002
+        ],
+        "difficultyStage": 2,
+        "difficultySensitivity": 2
+    },
+    {
+        "id": 19,
+        "playerRuleList": [
+            2003,
+            5001,
+            1103
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 20,
+        "playerRuleList": [
+            2002,
+            2101,
+            5002,
+            5101,
+            1002
+        ],
+        "difficultyStage": 2,
+        "difficultySensitivity": 2
+    },
+    {
+        "id": 21,
+        "playerRuleList": [
+            2002,
+            2101,
+            5002,
+            5101,
+            1103
+        ],
+        "difficultyStage": 2,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 22,
+        "playerRuleList": [
+            2003,
+            5002,
+            5101,
+            1103
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 23,
+        "playerRuleList": [
+            2002,
+            2101,
+            5003,
+            6002
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 2
+    },
+    {
+        "id": 24,
+        "playerRuleList": [
+            2002,
+            2101,
+            5003,
+            6102,
+            6004
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 25,
+        "playerRuleList": [
+            2002,
+            2101,
+            5003,
+            6104
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 26,
+        "playerRuleList": [
+            2003,
+            5003,
+            6002
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 2
+    },
+    {
+        "id": 27,
+        "playerRuleList": [
+            2003,
+            5003,
+            6102,
+            6004
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 1
+    },
+    {
+        "id": 28,
+        "playerRuleList": [
+            2003,
+            5003,
+            6104
+        ],
+        "difficultyStage": 3,
+        "difficultySensitivity": 1
+    }
+]

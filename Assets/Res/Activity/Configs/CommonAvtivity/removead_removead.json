@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "groupId": 100,
+        "unlockLevel": 16,
+        "removeAdsGiftId": [
+            1001
+        ]
+    },
+    {
+        "id": 2,
+        "groupId": 200,
+        "unlockLevel": 10,
+        "removeAdsGiftId": [
+            1001
+        ]
+    }
+]

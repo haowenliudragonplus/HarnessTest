@@ -1,0 +1,190 @@
+[
+    {
+        "key": "UI_tips_text1",
+        "value": "フレンドにエネルギーをプレゼントして、お返しをもらおう!"
+    },
+    {
+        "key": "UI_tips_text2",
+        "value": "難しいチャレンジにはブーストを使おう!"
+    },
+    {
+        "key": "UI_tips_text3",
+        "value": "デイリーボーナスは毎日手に入ります!"
+    },
+    {
+        "key": "UI_tips_text4",
+        "value": "Facebookのフレンドを招待して、一緒にプレイしよう!"
+    },
+    {
+        "key": "UI_tips_text5",
+        "value": "当ゲームのFacebookファンページをフォローすると、報酬が手に入るよ!"
+    },
+    {
+        "key": "UI_tips_text6",
+        "value": "アイテムをはっきりと観察し、すばやく収集してください."
+    },
+    {
+        "key": "UI_tips_text7",
+        "value": "黄金の花輪を手に入れて、より多くの小道具を手に入れましょう!"
+    },
+    {
+        "key": "UI_tips_text8",
+        "value": "ウィークリー チャレンジを完了して、たくさんの報酬を獲得しましょう!"
+    },
+    {
+        "key": "UI_tips_text9",
+        "value": "イベントをフォローして、積極的に参加してください!"
+    },
+    {
+        "key": "UI_tips_text10",
+        "value": "モールには超お得なギフトパックがたくさん!"
+    },
+    {
+        "key": "UI_tips_text11",
+        "value": "チームは重要な社会システムです!"
+    },
+    {
+        "key": "UI_tips_text12",
+        "value": "チーム情報をいつでもフォロー!"
+    },
+    {
+        "key": "UI_loading_progress_text",
+        "value": "読み込み中"
+    },
+    {
+        "key": "UI_loading_tip",
+        "value": "より多くのレベルのロックを解除して、より多くの報酬を獲得してください"
+    },
+    {
+        "key": "UI_download_fail_button",
+        "value": "もう一度"
+    },
+    {
+        "key": "UI_common_box_tittle",
+        "value": "知らせ"
+    },
+    {
+        "key": "UI_privacy_title_native",
+        "value": "プライバシーポリシーに同意する"
+    },
+    {
+        "key": "UI_privacy_message_native",
+        "value": "続行するには、当ゲームのプライバシーポリシーに同意する必要があります."
+    },
+    {
+        "key": "UI_privacy_btn_link_title_native",
+        "value": "プライバシーポリシー"
+    },
+    {
+        "key": "UI_privacy_btn_agree_title_native",
+        "value": "同意する"
+    },
+    {
+        "key": "UI_download_resources_error",
+        "value": "サーバーとの接続に失敗しました.インターネット接続を確認してください."
+    },
+    {
+        "key": "UI_no_internet_tips",
+        "value": "サーバーとの接続に失敗しました.インターネット接続を確認してください."
+    },
+    {
+        "key": "UI_button_cancel",
+        "value": "キャンセル"
+    },
+    {
+        "key": "UI_button_ok",
+        "value": "かくてい"
+    },
+    {
+        "key": "UI_button_retry_text",
+        "value": "もう一度"
+    },
+    {
+        "key": "UI_button_cancel",
+        "value": "キャンセル"
+    },
+    {
+        "key": "UI_quit_game_tips_text",
+        "value": "終了しますか?"
+    },
+    {
+        "key": "UI_update_app_desc_text",
+        "value": "新しいバージョンが見つかった場合は、ストアにアクセスしてアップデートをダウンロードしてください. アップデート後にログインすると、より多くのゲーム コンテンツのロックが解除されます."
+    },
+    {
+        "key": "UI_update_app_btn_update",
+        "value": "アップグレード"
+    },
+    {
+        "key": "UI_update_app_btn_later",
+        "value": "後で"
+    },
+    {
+        "key": "UI_errmsg_duplicate_login_native",
+        "value": "別のデバイスでゲームが開かれました.そのデバイスでプレイする場合は、現在お使いのデバイスでゲームを終了してください.同じデバイスでプレイし続ける場合は「かくてい」をタップすると、ゲームを再開できます."
+    },
+    {
+        "key": "UI_choose_progress_title_text",
+        "value": "進行データ選択"
+    },
+    {
+        "key": "UI_choose_progress_desc_main_text",
+        "value": "どちらの進行状況を保存しますか?"
+    },
+    {
+        "key": "UI_choose_progress_on_server",
+        "value": "サーバー上:"
+    },
+    {
+        "key": "UI_choose_progress_on_device",
+        "value": "お使いのデバイス:"
+    },
+    {
+        "key": "UI_choose_progress_button_server",
+        "value": "サーバー"
+    },
+    {
+        "key": "UI_choose_progress_button_device",
+        "value": "お使いのデバイス"
+    },
+    {
+        "key": "UI_loading_init",
+        "value": "初期化中...{0}%"
+    },
+    {
+        "key": "UI_loading_upgrade",
+        "value": "更新中...{0} {1}"
+    },
+    {
+        "key": "UI_loading_load",
+        "value": "読み込み中...{0}%"
+    },
+    {
+        "key": "UI_loading_count",
+        "value": "計算する"
+    },
+    {
+        "key": "UI_PrivacyPolicy_1",
+        "value": "プライバシー ポリシーに同意する"
+    },
+    {
+        "key": "UI_PrivacyPolicy_2",
+        "value": "ゲームを続行する前に、当社のプライバシー ポリシーと利用規約に同意する必要があります."
+    },
+    {
+        "key": "UI_PrivacyPolicy_3",
+        "value": "プライバシーポリシー"
+    },
+    {
+        "key": "UI_PrivacyPolicy_4",
+        "value": "同意します"
+    },
+    {
+        "key": "UI_PrivacyPolicy_5",
+        "value": "利用期間"
+    },
+    {
+        "key": "UI_common_notice",
+        "value": "知らせ"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1001,
+        "price": "9.99",
+        "product_id": "com.lrg.arrowpuzzle.noad",
+        "product_id_ios": "com.lrg.arrowpuzzle.noad",
+        "purchaseType": 0,
+        "shopType": 1,
+        "atlas": "Atlas_UIShop",
+        "icon": "icon_shop_coin1",
+        "name": "UI_settings_iap_no_ad",
+        "desc": "UI_iap_no_ad_tips_01",
+        "market": 0
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "scheduleId": 1,
+        "cdTimeInSecond": 86400,
+        "notificationLocaleTitleKey": "UI_AppPush_1_title",
+        "notificationLocaleContentKey": "UI_AppPush_1_Desc"
+    },
+    {
+        "id": 2,
+        "scheduleId": 2,
+        "cdTimeInSecond": 0,
+        "notificationLocaleTitleKey": "UI_AppPush_2_title",
+        "notificationLocaleContentKey": "UI_AppPush_2_Desc"
+    },
+    {
+        "id": 3,
+        "scheduleId": 3,
+        "cdTimeInSecond": 0,
+        "notificationLocaleTitleKey": "UI_AppPush_3_title",
+        "notificationLocaleContentKey": "UI_AppPush_3_Desc"
+    },
+    {
+        "id": 4,
+        "scheduleId": 4,
+        "cdTimeInSecond": 172800,
+        "notificationLocaleTitleKey": "UI_AppPush_4_title",
+        "notificationLocaleContentKey": "UI_AppPush_4_Desc"
+    },
+    {
+        "id": 5,
+        "scheduleId": 5,
+        "cdTimeInSecond": 0,
+        "notificationLocaleTitleKey": "UI_AppPush_5_title",
+        "notificationLocaleContentKey": "UI_AppPush_5_Desc"
+    }
+]

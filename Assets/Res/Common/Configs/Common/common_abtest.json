@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "abTestKey": "abMove",
+        "enableFixed": true,
+        "clientGroupPool": [
+            0,
+            1
+        ],
+        "minFirstAppVersion": 9,
+        "maxFirstAppVersion": 9,
+        "forceUseGroupForJoin": true,
+        "forceUseGroup": 0,
+        "finish": true
+    },
+    {
+        "id": 2,
+        "abTestKey": "abLevelv10",
+        "enableFixed": true,
+        "clientGroupPool": [
+            0,
+            1
+        ],
+        "minFirstAppVersion": 10,
+        "maxFirstAppVersion": 10,
+        "forceUseGroupForJoin": true,
+        "forceUseGroup": 1,
+        "finish": true
+    },
+    {
+        "id": 3,
+        "abTestKey": "abLevelv16",
+        "enableFixed": true,
+        "clientGroupPool": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            2
+        ],
+        "minFirstAppVersion": 16
+    },
+    {
+        "id": 4,
+        "abTestKey": "abLevelRevive",
+        "enableFixed": true,
+        "clientGroupPool": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "minFirstAppVersion": 14
+    },
+    {
+        "id": 5,
+        "abTestKey": "abLongPress",
+        "enableFixed": true,
+        "clientGroupPool": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "minFirstAppVersion": 14
+    }
+]

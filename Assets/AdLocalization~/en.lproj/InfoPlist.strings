@@ -1,0 +1,2 @@
+NSUserTrackingUsageDescription = " If you choose to enable tracking, we can show ads that better match your interests, which helps us improve the game experience. If you choose to decline, we won’t be able to provide personalized ads. Whatever you decide, we hope you enjoy the game!  ";
+NSCameraUsageDescription = "Third-party advertising module requires camera access to support AR ad interactions";

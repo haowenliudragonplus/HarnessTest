@@ -1,0 +1,2017 @@
+[
+    {
+        "key": "公式",
+        "value": null
+    },
+    {
+        "key": "Title"
+    },
+    {
+        "key": "Custom",
+        "value": "垂唯识核渲染尺寸触震陀螺市（端辨"
+    },
+    {
+        "key": "UI_button_login",
+        "value": "로그인"
+    },
+    {
+        "key": "UI_common_text_LevelLabel",
+        "value": "수준"
+    },
+    {
+        "key": "UI_level_desc_13",
+        "value": "필요없다"
+    },
+    {
+        "key": "UI_level_desc_14",
+        "value": "출구 레벨"
+    },
+    {
+        "key": "UI_level_desc_15",
+        "value": "레벨을 종료하시겠습니까?"
+    },
+    {
+        "key": "UI_level_desc_16",
+        "value": "다음을 잃게 됩니다."
+    },
+    {
+        "key": "UI_level_desc_17",
+        "value": "그만두다"
+    },
+    {
+        "key": "UI_level_desc_18",
+        "value": "머무르다"
+    },
+    {
+        "key": "UI_level_desc_19",
+        "value": "돌파 실패"
+    },
+    {
+        "key": "UI_level_desc_20",
+        "value": "다시 시도하십시오"
+    },
+    {
+        "key": "UI_level_desc_21",
+        "value": "반품"
+    },
+    {
+        "key": "UI_level_desc_23",
+        "value": "성공적으로 클리어"
+    },
+    {
+        "key": "UI_level_desc_level_fail_1",
+        "value": "계속 플레이하려면 시간을 더 추가하세요!"
+    },
+    {
+        "key": "UI_level_desc_level_fail_2",
+        "value": "계속 플레이하려면 모든 항목을 삭제하세요!"
+    },
+    {
+        "key": "UI_level_desc_24",
+        "value": "타임아웃"
+    },
+    {
+        "key": "UI_level_desc_25",
+        "value": "계속 놀아"
+    },
+    {
+        "key": "UI_level_desc_26",
+        "value": "공간 그 이상!"
+    },
+    {
+        "key": "UI_level_desc_27",
+        "value": "청소하다"
+    },
+    {
+        "key": "UI_level_desc_28",
+        "value": "정지시키다"
+    },
+    {
+        "key": "UI_level_desc_29",
+        "value": "더 많은 생명을 얻으십시오"
+    },
+    {
+        "key": "UI_level_desc_30",
+        "value": "다음과 같은 방법으로 신속하게 생명을 얻을 수 있습니다."
+    },
+    {
+        "key": "UI_level_desc_31",
+        "value": "다시 채우다"
+    },
+    {
+        "key": "UI_level_desc_32",
+        "value": "자유로운 삶"
+    },
+    {
+        "key": "UI_button_watch",
+        "value": "보기"
+    },
+    {
+        "key": "UI_button_cancel",
+        "value": "취소"
+    },
+    {
+        "key": "UI_button_do_it",
+        "value": "해"
+    },
+    {
+        "key": "UI_button_collect",
+        "value": "받다"
+    },
+    {
+        "key": "UI_common_lives_desc",
+        "value": "체력을 증가"
+    },
+    {
+        "key": "UI_common_lives",
+        "value": "체력"
+    },
+    {
+        "key": "UI_common_lives_max",
+        "value": "무한 체력"
+    },
+    {
+        "key": "UI_common_teams",
+        "value": "길드팀"
+    },
+    {
+        "key": "UI_common_rank",
+        "value": "계급"
+    },
+    {
+        "key": "UI_common_offline",
+        "value": "오프라인"
+    },
+    {
+        "key": "UI_common_new",
+        "value": "새로운"
+    },
+    {
+        "key": "UI_level_desc_33",
+        "value": "비행접시"
+    },
+    {
+        "key": "UI_iap_coin_desc_1",
+        "value": "금"
+    },
+    {
+        "key": "UI_shop_purchase_2",
+        "value": "완전한!"
+    },
+    {
+        "key": "UI_shop_purchase_1",
+        "value": "구매가 완료되었습니다!"
+    },
+    {
+        "key": "UI_purchase_failed_title",
+        "value": "구매 실패!"
+    },
+    {
+        "key": "UI_purchase_failed_content",
+        "value": "귀하의 계정에 요금이 청구되지 않았습니다!"
+    },
+    {
+        "key": "UI_common_text_one_line1",
+        "value": "1줄"
+    },
+    {
+        "key": "UI_common_text_one_line3",
+        "value": "곧 출시됩니다!"
+    },
+    {
+        "key": "UI_common_text_one_line4",
+        "value": "손가락을 들어 올리거나 선이 겹치지 않음"
+    },
+    {
+        "key": "UI_common_text_one_line6",
+        "value": "다음 레벨을 잠금 해제하려면 매칭 게임의 레벨 {0}에 도달하세요."
+    },
+    {
+        "key": "UI_HAPPYSHAVE_17",
+        "value": "잠금 해제되지 않음"
+    },
+    {
+        "key": "UI_drink_game_1",
+        "value": "% 겹치지 않는 선을 그려서 사슴물을 모두 받아보세요!"
+    },
+    {
+        "key": "UI_drink_game_2",
+        "value": "다시 시도하십시오?"
+    },
+    {
+        "key": "UI_drink_game_3",
+        "value": "다시 시도하고 모든 보상을 획득하세요!"
+    },
+    {
+        "key": "UI_brain_title",
+        "value": "배수관"
+    },
+    {
+        "key": "UI_drink_game_4",
+        "value": "돕다!"
+    },
+    {
+        "key": "UI_mini_game_play_again",
+        "value": "다시 플레이"
+    },
+    {
+        "key": "UI_common_decorate_star",
+        "value": "별 부족"
+    },
+    {
+        "key": "UI_button_loading_ADS",
+        "value": "광고 로드 중..."
+    },
+    {
+        "key": "UI_ support_1",
+        "value": "이메일:"
+    },
+    {
+        "key": "UI_ support_2",
+        "value": "텍스트 입력"
+    },
+    {
+        "key": "UI_ support_3",
+        "value": "보내다"
+    },
+    {
+        "key": "UI_likeus_1",
+        "value": "우리처럼"
+    },
+    {
+        "key": "UI_likeus_2",
+        "value": "상:"
+    },
+    {
+        "key": "UI_likeus_3",
+        "value": "페이스 북에서 좋아요를 눌러주세요"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "피드백"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "너의 사랑을 보여줘"
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "섬 경기를 제공하여"
+    },
+    {
+        "key": "UI_feedback_5",
+        "value": "설마"
+    },
+    {
+        "key": "UI_feedback_8",
+        "value": "섬 경기를 제공하여"
+    },
+    {
+        "key": "UI_feedback_9",
+        "value": "설마"
+    },
+    {
+        "key": "UI_rate_us_5stars",
+        "value": "<color=#FDE74E>별 5개</color>"
+    },
+    {
+        "key": "UI_facebook_1",
+        "value": "페이스북"
+    },
+    {
+        "key": "UI_facebook_2",
+        "value": "Facebook으로 처음 로그인하면 다음을 받게 됩니다."
+    },
+    {
+        "key": "UI_facebook_3",
+        "value": "여러 장치에서 게임 진행 상황을 동기화하고 언제든지 계속 플레이"
+    },
+    {
+        "key": "UI_facebook_4",
+        "value": "연결하다"
+    },
+    {
+        "key": "UI_login_tip1",
+        "value": "게임 버전이 너무 낮습니다. 게임을 업데이트하고 다시 시도하십시오."
+    },
+    {
+        "key": "UI_login_tip1_btn",
+        "value": "고쳐 쓰다"
+    },
+    {
+        "key": "UI_login_tip_delete_account",
+        "value": "귀하의 계정 삭제 요청이 처리되었습니다. 여전히 게임 계정을 삭제하시겠습니까?"
+    },
+    {
+        "key": "ui_fte_1001",
+        "value": "고장난 도크를 수리하려면 별이 필요합니다. 전체 레벨에서 별을 얻으세요!"
+    },
+    {
+        "key": "guide_enter_amsr",
+        "value": "계속해서 오로라가 귀를 치료할 수 있도록 도와주세요."
+    },
+    {
+        "key": "ui_fte_1039",
+        "value": "오로라가 병에서 회복하도록 계속 도와주세요."
+    },
+    {
+        "key": "ui_fte_1008",
+        "value": "별을 충분히 모았다면 탭하여 작업을 완료하세요."
+    },
+    {
+        "key": "UI_levelstart_level_empty",
+        "value": "수준"
+    },
+    {
+        "key": "UI_BUTTON_Ok",
+        "value": "확인"
+    },
+    {
+        "key": "UI_ck_gamelose_button_leave",
+        "value": "떠나다"
+    },
+    {
+        "key": "UI_button_yes",
+        "value": "예"
+    },
+    {
+        "key": "UI_button_no",
+        "value": "아니요"
+    },
+    {
+        "key": "UI_choose_progress_now",
+        "value": "현재 사용 중"
+    },
+    {
+        "key": "UI_choose_progress_last",
+        "value": "마지막 동기화:"
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_later",
+        "value": "다시 생각 해봐"
+    },
+    {
+        "key": "UI_choose_progress_confirm_desc",
+        "value": "동기화를 위해 이 아카이브를 선택하시겠습니까? \"111\"을 입력하고 확인을 클릭하십시오."
+    },
+    {
+        "key": "UI_choose_progress_confirm_tip",
+        "value": "참고: 다른 아카이브는 선택 후 삭제됩니다. 신중하게 선택하십시오."
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_confirm",
+        "value": "확인하다"
+    },
+    {
+        "key": "UI_choose_progress_recommend",
+        "value": "추천하다"
+    },
+    {
+        "key": "UI_progress_1",
+        "value": "아카이브 선택"
+    },
+    {
+        "key": "UI_progress_2",
+        "value": "어떤 아카이브를 보관하시겠습니까?"
+    },
+    {
+        "key": "UI_progress_3",
+        "value": "장치에서:"
+    },
+    {
+        "key": "UI_progress_4",
+        "value": "서버에서:"
+    },
+    {
+        "key": "UI_ck_exit_text1",
+        "value": "종료하시겠습니까?"
+    },
+    {
+        "key": "UI_update_app_desc_text",
+        "value": "새 버전이 발견되면 스토어로 이동하여 업데이트를 다운로드하십시오. 업데이트 후 로그인하면 더 많은 게임 콘텐츠를 잠금 해제할 수 있습니다."
+    },
+    {
+        "key": "UI_update_app_btn_update",
+        "value": "업그레이드"
+    },
+    {
+        "key": "UI_update_app_btn_later",
+        "value": "나중에"
+    },
+    {
+        "key": "UI_store_energy_full_text",
+        "value": "가득 참"
+    },
+    {
+        "key": "UI_shop_title",
+        "value": "상점"
+    },
+    {
+        "key": "UI_shop_more",
+        "value": "더 많은 아이템"
+    },
+    {
+        "key": "UI_shop_fail_title",
+        "value": "연결 실패"
+    },
+    {
+        "key": "UI_shop_fail_explain",
+        "value": "네트워크 상태를 확인하세요."
+    },
+    {
+        "key": "UI_Shop_ADS",
+        "value": "보다"
+    },
+    {
+        "key": "UI_button_connected",
+        "value": "로그인하였습니다."
+    },
+    {
+        "key": "UI_update_reward_title",
+        "value": "보상 업데이트 :"
+    },
+    {
+        "key": "UI_update_btn_update",
+        "value": "업그레이드"
+    },
+    {
+        "key": "UI_update_btn_later",
+        "value": "나중에"
+    },
+    {
+        "key": "UI_update_btn_claim",
+        "value": "수령"
+    },
+    {
+        "key": "UI_store_common_offlineerr_text",
+        "value": "오프라인 중에는 결제를 진행할 수 없습니다. 인터넷에 연결하고 다시 시도하세요."
+    },
+    {
+        "key": "UI_errmsg_duplicate_login_native",
+        "value": "다른 기기에서 게임을 실행했습니다. 다른 기기에서 플레이하려면 이 게임을 종료해야 합니다. 이 기기에서 플레이하려면 '확인'을 탭해서 게임을 다시 시작하면 됩니다."
+    },
+    {
+        "key": "UI_profile_force_use_server_profile_desc",
+        "value": "게임 프로필을 복구했습니다. 게임을 계속하세요!"
+    },
+    {
+        "key": "UI_update_app_title1",
+        "value": "새로운 콘텐츠"
+    },
+    {
+        "key": "UI_update_app_title2",
+        "value": "새로운 버전"
+    },
+    {
+        "key": "UI_update_app_title3",
+        "value": "업데이트 완료"
+    },
+    {
+        "key": "UI_bind_fb_fail_authen_error_text",
+        "value": "Facebook 연결 실패. 인증 오류."
+    },
+    {
+        "key": "UI_quit_game_tips_text",
+        "value": "종료하시겠습니까?"
+    },
+    {
+        "key": "UI_gift_limit_tips_pre_text",
+        "value": "하루에 친구로부터 최대"
+    },
+    {
+        "key": "UI_gift_limit_tips_after_text",
+        "value": "에너지까지만 받을 수 있습니다."
+    },
+    {
+        "key": "UI_take_your_reward_text",
+        "value": "보상을 받으세요."
+    },
+    {
+        "key": "UI_choose_language_tip_desc",
+        "value": "유저님 모바일의 사용 언어와 현재 게임상의 언어가 불일치합니다. 게임상의 사용 언어를 선택해 주세요. 잠시 후, ‘설정’에서도 수정하실 수 있습니다."
+    },
+    {
+        "key": "UI_common_download",
+        "value": "다운로드"
+    },
+    {
+        "key": "UI_common_free",
+        "value": "무료"
+    },
+    {
+        "key": "UI_common_free2",
+        "value": "무료+{0}s"
+    },
+    {
+        "key": "UI_common_iap",
+        "value": "구매를 취소했습니다. 원하는 패키지를 선택하여 계속 구매할 수 있습니다!"
+    },
+    {
+        "key": "UI_daily_bonus_day",
+        "value": "{0}일차"
+    },
+    {
+        "key": "UI_purchase_failed",
+        "value": "구매 실패. 다시 시도하시겠습니까?"
+    },
+    {
+        "key": "UI_level_goals_complete",
+        "value": "목표 완료!"
+    },
+    {
+        "key": "UI_upgrade_locked_text",
+        "value": "잠김"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Title",
+        "value": "나가기"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Content",
+        "value": "게임을 종료 하시겠습니까?"
+    },
+    {
+        "key": "UI_POPUP_EXIT_BUTTON_Exit",
+        "value": "나가기"
+    },
+    {
+        "key": "UI_POPUP_RESERROR_Content",
+        "value": "리소스를 다운로드 중입니다. 다시 시도하세요."
+    },
+    {
+        "key": "UI_POPUP_SAVE_Content",
+        "value": "저장 완료!"
+    },
+    {
+        "key": "UI_POPUP_BUY_Fail_Content",
+        "value": "구매 실패!"
+    },
+    {
+        "key": "UI_CHOOSE_PROFILE_POPUP_SUCCESS_Content",
+        "value": "프로필이 성공적으로 복구됐습니다! 저희 게임과 함께 즐거운 시간 보내세요!"
+    },
+    {
+        "key": "UI_MULTIDEVICE_LOGIN_Msg",
+        "value": "저희 게임을 다른 기기에서 플레이한 적이 있습니다. 해당 기기에서 플레이하려면 지금 게임을 종료하세요. 이 기기에서 플레이하려면 '확인'을 탭하세요. 그렇게 하면 게임이 다시 시작됩니다."
+    },
+    {
+        "key": "UI_NEEDUPDATE_Msg",
+        "value": "새로운 버전이 나왔어요. 게임을 업데이트하세요!"
+    },
+    {
+        "key": "UI_NTWORKOVERTIME_Content",
+        "value": "네트워크 상태가 불안정합니다. 다시 시도하세요."
+    },
+    {
+        "key": "UI_NTWORKXNET_Title",
+        "value": "미연결"
+    },
+    {
+        "key": "UI_NTWORKXNET_Content",
+        "value": "기기의 네트워크 상태를 확인하고 게임에 다시 로그인하세요."
+    },
+    {
+        "key": "UI_POPUP_NOADS_Title",
+        "value": "죄송합니다"
+    },
+    {
+        "key": "UI_POPUP_NOADS_Content",
+        "value": "광고가 가고 있습니다\n  나중에 다시 시도하십시오!"
+    },
+    {
+        "key": "UI_download_resources_error",
+        "value": "서버 연결 실패. 인터넷 연결을 확인해주세요."
+    },
+    {
+        "key": "UI_no_internet_tips",
+        "value": "서버 연결 실패. 인터넷 연결을 확인해주세요."
+    },
+    {
+        "key": "UI_privacy_title_native",
+        "value": "개인정보 보호정책 수락"
+    },
+    {
+        "key": "UI_privacy_message_native",
+        "value": "계속 플레이하려면 저희의 개인정보 보호정책에 동의해주셔야 합니다."
+    },
+    {
+        "key": "UI_privacy_btn_link_title_native",
+        "value": "개인정보 보호정책"
+    },
+    {
+        "key": "UI_privacy_btn_agree_title_native",
+        "value": "동의"
+    },
+    {
+        "key": "UI_download_fail_title",
+        "value": "다운로드 실패"
+    },
+    {
+        "key": "UI_download_fail_text",
+        "value": "게임에 필요한 소스를 다운로드할 수 없습니다. 네트워크 연결을 확인한 후, 다시 시도해 주십시오."
+    },
+    {
+        "key": "UI_download_fail_button",
+        "value": "재시도"
+    },
+    {
+        "key": "UI_rateus_title_text",
+        "value": "게임 평가"
+    },
+    {
+        "key": "UI_rateus_ios_desc_text",
+        "value": "이 게임이 마음에 든다면 잠시 시간을 내어 별점 5점을 주시겠습니까? 오래 걸리지는 않지만 많은 도움이 될 것입니다. 감사."
+    },
+    {
+        "key": "UI_rateus_ios_later_text",
+        "value": "나중에 알려줘"
+    },
+    {
+        "key": "UI_rateus_ios_no_text",
+        "value": "고맙지 만 사양 할게."
+    },
+    {
+        "key": "UI_sensitivewords_notice",
+        "value": "입력하신 정보에 민감한 단어가 포함되어 있으니 수정해주세요!"
+    },
+    {
+        "key": "UI_storagefull_notice_text",
+        "value": "저런, 장치의 저장 공간이 가득 찼습니다. 정리 후 다시 시도하세요."
+    },
+    {
+        "key": "UI_bind_Apple_fail_authen_error_text",
+        "value": "Apple 연결 실패. 인증 오류."
+    },
+    {
+        "key": "UI_Apple_accesstoken_ru_pwchange_text",
+        "value": "Apple으로 로그인하기 실패. 다시 시도하세요."
+    },
+    {
+        "key": "UI_fb_accesstoken_ru_pwchange_text",
+        "value": "Facebook으로 로그인하기 실패. 다시 시도하세요."
+    },
+    {
+        "key": "UI_Shop_Tab1",
+        "value": "코인"
+    },
+    {
+        "key": "UI_Shop_Tab2",
+        "value": "일반"
+    },
+    {
+        "key": "UI_Shop_Tab3",
+        "value": "특별"
+    },
+    {
+        "key": "UI_Shop_Text1",
+        "value": "남은 {0}"
+    },
+    {
+        "key": "UI_Shop_Text1_0",
+        "value": "남은 0"
+    },
+    {
+        "key": "UI_Shop_Text2",
+        "value": "할인"
+    },
+    {
+        "key": "UI_Shop_Btn1",
+        "value": "구매"
+    },
+    {
+        "key": "UI_Shop_Text3",
+        "value": "잠김"
+    },
+    {
+        "key": "UI_Shop_Text4",
+        "value": "품절"
+    },
+    {
+        "key": "UI_Shop_Tip1",
+        "value": "아이템이 매진되었습니다. 나중에 다시 확인하세요"
+    },
+    {
+        "key": "UI_Shop_Tip2",
+        "value": "이 아이템을 잠금 해제하려면 더 많이 병합하세요"
+    },
+    {
+        "key": "UI_button_continue",
+        "value": "계속하다"
+    },
+    {
+        "key": "UI_button_next",
+        "value": "계속하다"
+    },
+    {
+        "key": "UI_parkour_level_id",
+        "value": "레벨 {0}"
+    },
+    {
+        "key": "UI_level_selectbooster",
+        "value": "부스터 선택"
+    },
+    {
+        "key": "UI_button_area",
+        "value": "지역 {0}"
+    },
+    {
+        "key": "UI_button_house",
+        "value": "집 {0}"
+    },
+    {
+        "key": "UI_button_house_title",
+        "value": "작업 "
+    },
+    {
+        "key": "UI_button_house_pragess",
+        "value": "지역 진행 상황"
+    },
+    {
+        "key": "UI_house_title1",
+        "value": "집"
+    },
+    {
+        "key": "UI_TimeFormatWithDay",
+        "value": "{0:00}일 {1:00}시"
+    },
+    {
+        "key": "UI_TimeFormatWithHour",
+        "value": "{0:00}시 {1:00}분"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute",
+        "value": "{0:00}분 {1:00}초"
+    },
+    {
+        "key": "UI_button_claim_text",
+        "value": "받다"
+    },
+    {
+        "key": "UI_button_later",
+        "value": "나중에"
+    },
+    {
+        "key": "UI_rateus_ios_rate_text",
+        "value": "지금 평가"
+    },
+    {
+        "key": "UI_PayRegion_Btn1",
+        "value": "구매"
+    },
+    {
+        "key": "UI_button_play",
+        "value": "시작"
+    },
+    {
+        "key": "UI_SpecialLevel_Map_title",
+        "value": "지도"
+    },
+    {
+        "key": "UI_FindTM_Unlock_Des",
+        "value": "Lv {0}"
+    },
+    {
+        "key": "UI_button_house_btn_tips",
+        "value": "집"
+    },
+    {
+        "key": "UI_button_ASMR_btn_tips",
+        "value": "도전"
+    },
+    {
+        "key": "UI_makeover_pragess",
+        "value": "뷰티 진행"
+    },
+    {
+        "key": "UI_build_title",
+        "value": "집"
+    },
+    {
+        "key": "UI_makeover_title",
+        "value": "미니 게임"
+    },
+    {
+        "key": "UI_makeover_tips",
+        "value": "더 많은 레벨을 잠금 해제하여 더 많은 보상을 받으세요"
+    },
+    {
+        "key": "UI_makeover_win_title",
+        "value": "완전한!"
+    },
+    {
+        "key": "UI_makeover_reward",
+        "value": "보상:"
+    },
+    {
+        "key": "UI_UnlockReward_Title1",
+        "value": "새로운 영역이 잠금 해제되었습니다"
+    },
+    {
+        "key": "UI_makeover_get",
+        "value": "더 받기"
+    },
+    {
+        "key": "UI_common_home",
+        "value": "홀"
+    },
+    {
+        "key": "UI_common_Island",
+        "value": "홀"
+    },
+    {
+        "key": "UI_common_shop",
+        "value": "홀"
+    },
+    {
+        "key": "UI_ASMR_coming_tips",
+        "value": "오픈 예정"
+    },
+    {
+        "key": "UI_ASMR_button_cannot_play",
+        "value": "이전 레벨을 통과하십시오"
+    },
+    {
+        "key": "UI_level_desc_add",
+        "value": "타임아웃"
+    },
+    {
+        "key": "UI_common_box_tittle",
+        "value": "알아채다"
+    },
+    {
+        "key": "UI_cannot_connect_to_itunes_store",
+        "value": "iTunes Store 연결 실패!나중에 다시 시도하세요."
+    },
+    {
+        "key": "UI_cannot_connect_to_google_play",
+        "value": "Google Play 연결 실패!나중에 다시 시도하세요."
+    },
+    {
+        "key": "UI_common_notice",
+        "value": "알아채다"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_1",
+        "value": "광고를 제거하다"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_2",
+        "value": "더블 선물 팩"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_1",
+        "value": "비보상형 광고 숨기기"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_2",
+        "value": "{0}금"
+    },
+    {
+        "key": "UI_iap_market_1",
+        "value": "한정 제공"
+    },
+    {
+        "key": "UI_iap_market_2",
+        "value": "가장 인기 많은"
+    },
+    {
+        "key": "UI_iap_market_3",
+        "value": "최고의 가격"
+    },
+    {
+        "key": "UI_shop_moreoffers",
+        "value": "더 많은 혜택"
+    },
+    {
+        "key": "UI_button_go",
+        "value": "보기"
+    },
+    {
+        "key": "UI_common_function_locked_tip",
+        "value": "21단계를 완료하면 잠금 해제"
+    },
+    {
+        "key": "UI_common_finish_tip",
+        "value": "곧 출시"
+    },
+    {
+        "key": "UI_loading_loadStr",
+        "value": "로드 중...{0}%"
+    },
+    {
+        "key": "adbox_no_reward",
+        "value": "광고가 준비되지 않았습니다!"
+    },
+    {
+        "key": "UI_common_time_month",
+        "value": "달"
+    },
+    {
+        "key": "UI_common_time_week",
+        "value": "주"
+    },
+    {
+        "key": "UI_common_time_h",
+        "value": "시"
+    },
+    {
+        "key": "UI_common_time_m",
+        "value": "분"
+    },
+    {
+        "key": "UI_common_time_d",
+        "value": "일"
+    },
+    {
+        "key": "UI_common_time_s",
+        "value": "초"
+    },
+    {
+        "key": "UI_TimeFormatWithDay_2",
+        "value": "{0:00}일:{1:00}시"
+    },
+    {
+        "key": "UI_TimeFormatWithHour_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_level_desc_40",
+        "value": "제거 막대의 모든 항목을 지우세요."
+    },
+    {
+        "key": "UI_level_desc_41",
+        "value": "도구를 사용할 수 없습니다"
+    },
+    {
+        "key": "UI_iap_pack_name_icebreakgift",
+        "value": "서프라이즈 번들"
+    },
+    {
+        "key": "UI_iap_pack_num_per",
+        "value": "{0}%"
+    },
+    {
+        "key": "guide_world_1033",
+        "value": "게임을 하자! "
+    },
+    {
+        "key": "UI_fb_login_fail_tips",
+        "value": "로그인 실패! 네트워크에 연결한 후 다시 시도해 주세요!"
+    },
+    {
+        "key": "UI_level_desc_42",
+        "value": "아이템을 사용할 수 없으며 클릭할 수 없습니다!"
+    },
+    {
+        "key": "UI_iap_pack_num_2",
+        "value": "80%"
+    },
+    {
+        "key": "UI_iap_pack_num_scale_2",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_iap_pack_name_new_2",
+        "value": "마법 패키지"
+    },
+    {
+        "key": "UI_activity_end_tips",
+        "value": "활동 종료"
+    },
+    {
+        "key": "UI_settings_on",
+        "value": "ON"
+    },
+    {
+        "key": "UI_settings_off",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_settings_autoMatch",
+        "value": "자동 매칭"
+    },
+    {
+        "key": "UI_settings_autoComplete",
+        "value": "자동 완성"
+    },
+    {
+        "key": "UI_settings_free",
+        "value": "자유 블록 강조 표시"
+    },
+    {
+        "key": "UI_settings_play",
+        "value": "플레이 방법"
+    },
+    {
+        "key": "UI_settings_iap_no_ad",
+        "value": "광고 없음"
+    },
+    {
+        "key": "UI_settings_Restart",
+        "value": "다시 시작"
+    },
+    {
+        "key": "UI_setting_ language",
+        "value": "언어"
+    },
+    {
+        "key": "UI_setting_ support",
+        "value": "지원하다"
+    },
+    {
+        "key": "UI_setting_ Facebook",
+        "value": "페이스북"
+    },
+    {
+        "key": "UI_setting_version",
+        "value": "버전:"
+    },
+    {
+        "key": "UI_setting_user_id",
+        "value": "UID:"
+    },
+    {
+        "key": "UI_setting_common_1",
+        "value": "구매 복원"
+    },
+    {
+        "key": "UI_setting_common_2",
+        "value": "광고 없음 권한이 성공적으로 복원되었습니다. 계속 플레이하세요!"
+    },
+    {
+        "key": "UI_setting_common_3",
+        "value": "현재 복구 가능한 권한이 없으므로 먼저 해당 광고 방지 패키지를 구매해야 합니다."
+    },
+    {
+        "key": "UI_common_text_ScoreLabel",
+        "value": "점수"
+    },
+    {
+        "key": "UI_common_text_MatchesLabel",
+        "value": "매치"
+    },
+    {
+        "key": "UI_contactus_panel_title",
+        "value": "제안 및 질문"
+    },
+    {
+        "key": "UI_contactus_panel_email_textbox_text",
+        "value": "여기에 이메일 주소를 입력하세요."
+    },
+    {
+        "key": "UI_contactus_panel_input_textbox_text",
+        "value": "여기에 질문을 입력하세요."
+    },
+    {
+        "key": "UI_contactus_panel_email_err_text",
+        "value": "여기에 유효한 이메일 주소를 입력하세요."
+    },
+    {
+        "key": "UI_contactus_panel_input_popup_text",
+        "value": "여기에 질문을 입력하세요."
+    },
+    {
+        "key": "UI_contactus_panel_send_err_text",
+        "value": "전송 실패. 다시 시도하세요."
+    },
+    {
+        "key": "UI_settings_button_save_ios",
+        "value": "진도 저장"
+    },
+    {
+        "key": "UI_save_ios_title",
+        "value": "진도를 저장하세요"
+    },
+    {
+        "key": "UI_save_ios_text",
+        "value": "로그인하여 진도를 저장하세요"
+    },
+    {
+        "key": "UI_save_ios_button_apple",
+        "value": "Apple로 로그인"
+    },
+    {
+        "key": "UI_save_ios_button_fb",
+        "value": "페이스북 로그인"
+    },
+    {
+        "key": "UI_save_ios_button_tip",
+        "value": "페이스북 로그인"
+    },
+    {
+        "key": "UI_login_button_delete_account",
+        "value": "계정 삭제"
+    },
+    {
+        "key": "UI_login_tip_delete_account_7days",
+        "value": "계정 삭제 요청이 성공적으로 제출되었습니다. 계정은 7 일 후 삭제됩니다."
+    },
+    {
+        "key": "UI_login_tip_delete_account_title",
+        "value": "아카이브 삭제?"
+    },
+    {
+        "key": "UI_login_tip_delete_account_tips",
+        "value": "이 프로세스는 되돌릴 수 없습니다"
+    },
+    {
+        "key": "UI_delete_txt1",
+        "value": "정말로 저장된 개인 데이터를 모두 삭제하시겠습니까? <color=#FF322B>(이 과정은 되돌릴 수 없습니다)</color>"
+    },
+    {
+        "key": "UI_PrivacyPolicy_1",
+        "value": "개인 정보 보호 정책에 동의"
+    },
+    {
+        "key": "UI_PrivacyPolicy_2",
+        "value": "게임을 계속하기 전에 개인 정보 보호 정책 및 서비스 약관에 동의해야 합니다."
+    },
+    {
+        "key": "UI_PrivacyPolicy_3",
+        "value": "개인 정보 정책"
+    },
+    {
+        "key": "UI_PrivacyPolicy_4",
+        "value": "나는 동의한다"
+    },
+    {
+        "key": "UI_PrivacyPolicy_5",
+        "value": "서비스 기간"
+    },
+    {
+        "key": "UI_level_desc_22",
+        "value": "설정"
+    },
+    {
+        "key": "UI_Comb_prefect",
+        "value": "완벽한 콤보 보너스!"
+    },
+    {
+        "key": "UI_Locked_left",
+        "value": "좌우가 잠겼습니다"
+    },
+    {
+        "key": "UI_Locked_top",
+        "value": "위쪽이 잠겼습니다"
+    },
+    {
+        "key": "UI_hard_tip",
+        "value": "Hard"
+    },
+    {
+        "key": "UI_tip_loading_text",
+        "value": "로딩 중... 잠시 기다려 주세요"
+    },
+    {
+        "key": "UI_Shuffle_get_one",
+        "value": "하나 얻기"
+    },
+    {
+        "key": "UI_Hint_tip_01",
+        "value": "힌트를 얻으려면 동영상을 시청하세요"
+    },
+    {
+        "key": "UI_Return_tip",
+        "value": "이것은 첫 번째 단계입니다"
+    },
+    {
+        "key": "UI_restart_title",
+        "value": "유효한 매치가 없습니다"
+    },
+    {
+        "key": "UI_restart_tip",
+        "value": "셔플을 사용하시겠습니까?"
+    },
+    {
+        "key": "UI_restart_shuffle",
+        "value": "셔플 -1"
+    },
+    {
+        "key": "UI_restart_shuffle_none",
+        "value": "셔플 없음!"
+    },
+    {
+        "key": "UI_button_tip",
+        "value": "네"
+    },
+    {
+        "key": "UI_button_tip_1",
+        "value": "다음"
+    },
+    {
+        "key": "UI_button_ok",
+        "value": "확인"
+    },
+    {
+        "key": "UI_choose_progress_title_text",
+        "value": "진행상황 선택"
+    },
+    {
+        "key": "UI_choose_progress_desc_main_text",
+        "value": "어떤 진행상황을 유지하시겠어요?"
+    },
+    {
+        "key": "UI_choose_progress_on_server",
+        "value": "서버:"
+    },
+    {
+        "key": "UI_choose_progress_on_device",
+        "value": "기기:"
+    },
+    {
+        "key": "UI_choose_progress_button_server",
+        "value": "서버"
+    },
+    {
+        "key": "UI_choose_progress_button_device",
+        "value": "기기"
+    },
+    {
+        "key": "UI_loading_upgrade",
+        "value": "업데이트 중...{0} {1}"
+    },
+    {
+        "key": "UI_return_reward_help_target",
+        "value": "{0}스테이지"
+    },
+    {
+        "key": "UI_Daily_title",
+        "value": "매일"
+    },
+    {
+        "key": "UI_Daily_title_1",
+        "value": "매일 도전"
+    },
+    {
+        "key": "UI_skin_Theme",
+        "value": "테마"
+    },
+    {
+        "key": "UI_skin_Tiles",
+        "value": "마작"
+    },
+    {
+        "key": "UI_skin_Backgroud",
+        "value": "배경"
+    },
+    {
+        "key": "UI_skin_simple",
+        "value": "간단한"
+    },
+    {
+        "key": "UI_skin_poker",
+        "value": "포커"
+    },
+    {
+        "key": "UI_skin_old",
+        "value": "전통"
+    },
+    {
+        "key": "UI_game_daily_week1",
+        "value": "월요일"
+    },
+    {
+        "key": "UI_game_daily_week2",
+        "value": "화요일"
+    },
+    {
+        "key": "UI_game_daily_week3",
+        "value": "수요일"
+    },
+    {
+        "key": "UI_game_daily_week4",
+        "value": "목요일"
+    },
+    {
+        "key": "UI_game_daily_week5",
+        "value": "금요일"
+    },
+    {
+        "key": "UI_game_daily_week6",
+        "value": "토요일"
+    },
+    {
+        "key": "UI_game_daily_week7",
+        "value": "일요일"
+    },
+    {
+        "key": "UI_game_daily_date",
+        "value": "날짜"
+    },
+    {
+        "key": "UI_game_daily_month1",
+        "value": "1 월"
+    },
+    {
+        "key": "UI_game_daily_month2",
+        "value": "2 월"
+    },
+    {
+        "key": "UI_game_daily_month3",
+        "value": "3 월"
+    },
+    {
+        "key": "UI_game_daily_month4",
+        "value": "4 월"
+    },
+    {
+        "key": "UI_game_daily_month5",
+        "value": "5 월"
+    },
+    {
+        "key": "UI_game_daily_month6",
+        "value": "6 월"
+    },
+    {
+        "key": "UI_game_daily_month7",
+        "value": "7 월"
+    },
+    {
+        "key": "UI_game_daily_month8",
+        "value": "8 월"
+    },
+    {
+        "key": "UI_game_daily_month9",
+        "value": "9 월"
+    },
+    {
+        "key": "UI_game_daily_month10",
+        "value": "10 월"
+    },
+    {
+        "key": "UI_game_daily_month11",
+        "value": "11 월"
+    },
+    {
+        "key": "UI_game_daily_month12",
+        "value": "12 월"
+    },
+    {
+        "key": "UI_daily_Btn1",
+        "value": "도전"
+    },
+    {
+        "key": "UI_daily_Tip_2",
+        "value": "화실"
+    },
+    {
+        "key": "UI_button_task_title",
+        "value": "작업 "
+    },
+    {
+        "key": "UI_common_level",
+        "value": "레벨 {0}"
+    },
+    {
+        "key": "UI_common_unlock",
+        "value": "잠금 해제!"
+    },
+    {
+        "key": "UI_revive_title",
+        "value": "공간 부족!"
+    },
+    {
+        "key": "UI_new_tip_1",
+        "value": "이동 화살표를 탭하세요"
+    },
+    {
+        "key": "UI_new_tip_2",
+        "value": "두 손가락으로 확대/축소하세요"
+    },
+    {
+        "key": "UI_new_tip_3",
+        "value": "보조선이 레벨을 완료하는 데 도움이 됩니다!"
+    },
+    {
+        "key": "UI_new_tip_4",
+        "value": "<color=#299200>슬롯 추가</color>를 사용하여 새로운 빈 슬롯을 생성하세요!"
+    },
+    {
+        "key": "UI_new_tip_5",
+        "value": "<color=#299200>힌트</color>를 사용하여 <color=#299200>3</color>개의 일치하는 마작 패를 모으세요!"
+    },
+    {
+        "key": "UI_new_tip_6",
+        "value": "<color=#299200>청소</color>를 사용하여 임시 보관 영역의 패를 제거하세요!"
+    },
+    {
+        "key": "Purchase_Failed_Title",
+        "value": "구매에 실패했습니다!"
+    },
+    {
+        "key": "Purchase_Failed_Desc",
+        "value": "구매가 실패했습니다!"
+    },
+    {
+        "key": "UI_common_button_continue",
+        "value": "계속"
+    },
+    {
+        "key": "UI_revive_continue_title",
+        "value": "계속"
+    },
+    {
+        "key": "UI_revive_continue_tips",
+        "value": "HP를 회복하고 게임을 계속하세요!"
+    },
+    {
+        "key": "UI_revive_continue_tips_01",
+        "value": "이동 횟수를 추가하고 게임을 계속하세요!"
+    },
+    {
+        "key": "UI_end_title_1",
+        "value": "탁월해요!"
+    },
+    {
+        "key": "UI_end_title_2",
+        "value": "놀랍습니다!"
+    },
+    {
+        "key": "UI_end_title_3",
+        "value": "재능 있어요!"
+    },
+    {
+        "key": "UI_end_title_4",
+        "value": "전설적입니다!"
+    },
+    {
+        "key": "UI_end_title_5",
+        "value": "두려움이 없어요!"
+    },
+    {
+        "key": "UI_end_title_6",
+        "value": "장관입니다!"
+    },
+    {
+        "key": "UI_end_title_7",
+        "value": "훌륭합니다!"
+    },
+    {
+        "key": "UI_end_title_8",
+        "value": "멋집니다!"
+    },
+    {
+        "key": "UI_end_title_9",
+        "value": "눈부십니다!"
+    },
+    {
+        "key": "UI_Superhard_tip",
+        "value": "Super hard"
+    },
+    {
+        "key": "UI_common_revive",
+        "value": "부활"
+    },
+    {
+        "key": "UI_tips_text1",
+        "value": "친구들에게 무료 에너지를 보내고 친구들에게 도움을 요청하세요!"
+    },
+    {
+        "key": "UI_tips_text2",
+        "value": "부스트는 어려운 과제를 달성할 수 있게 도와줍니다!"
+    },
+    {
+        "key": "UI_tips_text3",
+        "value": "매일 돌아와서 일일 보너스를 받으세요!"
+    },
+    {
+        "key": "UI_tips_text4",
+        "value": "Facebook 친구들을 초대해서 함께 플레이하세요!"
+    },
+    {
+        "key": "UI_tips_text5",
+        "value": "Facebook 팬 페이지에서 좋아요를 누르고 보상을 받으세요!"
+    },
+    {
+        "key": "UI_tips_text6",
+        "value": "아이템을 명확하게 관찰하고 빠르게 수집하세요!"
+    },
+    {
+        "key": "UI_tips_text7",
+        "value": "더 많은 소품을 얻으려면 황금 화환을 획득하세요!"
+    },
+    {
+        "key": "UI_tips_text8",
+        "value": "주간 챌린지를 완료하고 푸짐한 보상을 받으세요!"
+    },
+    {
+        "key": "UI_tips_text9",
+        "value": "이벤트를 팔로우하고 적극적으로 참여해보세요!"
+    },
+    {
+        "key": "UI_tips_text10",
+        "value": "쇼핑몰에는 많은 슈퍼 밸류 선물 팩이 있습니다!"
+    },
+    {
+        "key": "UI_tips_text11",
+        "value": "팀은 중요한 사회 시스템입니다!"
+    },
+    {
+        "key": "UI_tips_text12",
+        "value": "언제든지 팀 정보를 팔로우하세요!"
+    },
+    {
+        "key": "UI_loading_progress_text",
+        "value": "로드 중"
+    },
+    {
+        "key": "UI_loading_tip",
+        "value": "더 많은 레벨을 잠금 해제하여 더 많은 보상을 받으세요"
+    },
+    {
+        "key": "UI_button_retry_text",
+        "value": "재시도"
+    },
+    {
+        "key": "UI_loading_init",
+        "value": "초기화 중...{0}%"
+    },
+    {
+        "key": "UI_loading_load",
+        "value": "로드 중...{0}%"
+    },
+    {
+        "key": "UI_loading_count",
+        "value": "계산"
+    },
+    {
+        "key": "UI_common_PlayOn",
+        "value": "부활"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name",
+        "value": "광고를 제거하다"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_01",
+        "value": "배너 및 전체 화면 광고 제거"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_02",
+        "value": "보상을 위한 선택형 광고는 유지"
+    },
+    {
+        "key": "UI_common_no_ad_buy",
+        "value": "축하합니다. 전면 광고를 영구적으로 제거할 수 있는 권한을 얻으셨습니다. 즐거운 게임 되시기 바랍니다!"
+    },
+    {
+        "key": "UI_Level_Moves",
+        "value": "이동 횟수: {0}"
+    },
+    {
+        "key": "UI_daily_unlock",
+        "value": "{0}에 잠금 해제"
+    },
+    {
+        "key": "UI_Achievement_title",
+        "value": "업적"
+    },
+    {
+        "key": "UI_Achievement_task",
+        "value": "임무"
+    },
+    {
+        "key": "UI_Achievement_mine",
+        "value": "보유 중"
+    },
+    {
+        "key": "UI_Achievement_tip",
+        "value": "진행 중"
+    },
+    {
+        "key": "UI_Achievement_full",
+        "value": "최대 레벨"
+    },
+    {
+        "key": "UI_Achievement_get",
+        "value": "업적 획득"
+    },
+    {
+        "key": "UI_Achievement_number",
+        "value": "훈장 {0}"
+    },
+    {
+        "key": "UI_Achievement_complete",
+        "value": "달성"
+    },
+    {
+        "key": "UI_achievenment_level_001",
+        "value": "스테이지 고수 (1)"
+    },
+    {
+        "key": "UI_achievenment_level_002",
+        "value": "스테이지 고수 (2)"
+    },
+    {
+        "key": "UI_achievenment_level_003",
+        "value": "스테이지 고수 (3)"
+    },
+    {
+        "key": "UI_achievenment_level_004",
+        "value": "스테이지 고수 (4)"
+    },
+    {
+        "key": "UI_achievenment_level_005",
+        "value": "스테이지 고수 (5)"
+    },
+    {
+        "key": "UI_achievenment_level_006",
+        "value": "스테이지 고수 (6)"
+    },
+    {
+        "key": "UI_achievenment_level_007",
+        "value": "스테이지 고수 (7)"
+    },
+    {
+        "key": "UI_achievenment_level_008",
+        "value": "스테이지 고수 (8)"
+    },
+    {
+        "key": "UI_achievenment_level_009",
+        "value": "스테이지 고수 (9)"
+    },
+    {
+        "key": "UI_achievenment_level_010",
+        "value": "스테이지 고수 (10)"
+    },
+    {
+        "key": "UI_achievenment_daily_001",
+        "value": "일일 도전 (1)"
+    },
+    {
+        "key": "UI_achievenment_daily_002",
+        "value": "일일 도전 (2)"
+    },
+    {
+        "key": "UI_achievenment_daily_003",
+        "value": "일일 도전 (3)"
+    },
+    {
+        "key": "UI_achievenment_daily_004",
+        "value": "일일 도전 (4)"
+    },
+    {
+        "key": "UI_achievenment_daily_005",
+        "value": "일일 도전 (5)"
+    },
+    {
+        "key": "UI_achievenment_daily_006",
+        "value": "일일 도전 (6)"
+    },
+    {
+        "key": "UI_achievenment_daily_007",
+        "value": "일일 도전 (7)"
+    },
+    {
+        "key": "UI_achievenment_daily_008",
+        "value": "일일 도전 (8)"
+    },
+    {
+        "key": "UI_achievenment_daily_009",
+        "value": "일일 도전 (9)"
+    },
+    {
+        "key": "UI_achievenment_daily_010",
+        "value": "일일 도전 (10)"
+    },
+    {
+        "key": "UI_achievenment_check_001",
+        "value": "출석왕 (1)"
+    },
+    {
+        "key": "UI_achievenment_check_002",
+        "value": "출석왕 (2)"
+    },
+    {
+        "key": "UI_achievenment_check_003",
+        "value": "출석왕 (3)"
+    },
+    {
+        "key": "UI_achievenment_check_004",
+        "value": "출석왕 (4)"
+    },
+    {
+        "key": "UI_achievenment_check_005",
+        "value": "출석왕 (5)"
+    },
+    {
+        "key": "UI_achievenment_check_006",
+        "value": "출석왕 (6)"
+    },
+    {
+        "key": "UI_achievenment_check_007",
+        "value": "출석왕 (7)"
+    },
+    {
+        "key": "UI_achievenment_check_008",
+        "value": "출석왕 (8)"
+    },
+    {
+        "key": "UI_achievenment_check_009",
+        "value": "출석왕 (9)"
+    },
+    {
+        "key": "UI_achievenment_check_010",
+        "value": "출석왕 (10)"
+    },
+    {
+        "key": "UI_achievenment_perfect_001",
+        "value": "퍼펙트 클리어 (1)"
+    },
+    {
+        "key": "UI_achievenment_perfect_002",
+        "value": "퍼펙트 클리어 (2)"
+    },
+    {
+        "key": "UI_achievenment_perfect_003",
+        "value": "퍼펙트 클리어 (3)"
+    },
+    {
+        "key": "UI_achievenment_perfect_004",
+        "value": "퍼펙트 클리어 (4)"
+    },
+    {
+        "key": "UI_achievenment_perfect_005",
+        "value": "퍼펙트 클리어 (5)"
+    },
+    {
+        "key": "UI_achievenment_perfect_006",
+        "value": "퍼펙트 클리어 (6)"
+    },
+    {
+        "key": "UI_achievenment_perfect_007",
+        "value": "퍼펙트 클리어 (7)"
+    },
+    {
+        "key": "UI_achievenment_perfect_008",
+        "value": "퍼펙트 클리어 (8)"
+    },
+    {
+        "key": "UI_achievenment_perfect_009",
+        "value": "퍼펙트 클리어 (9)"
+    },
+    {
+        "key": "UI_achievenment_perfect_010",
+        "value": "퍼펙트 클리어 (10)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_001",
+        "value": "스테이지 전설 (1)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_002",
+        "value": "스테이지 전설 (2)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_003",
+        "value": "스테이지 전설 (3)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_004",
+        "value": "스테이지 전설 (4)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_005",
+        "value": "스테이지 전설 (5)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_006",
+        "value": "스테이지 전설 (6)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_007",
+        "value": "스테이지 전설 (7)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_008",
+        "value": "스테이지 전설 (8)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_009",
+        "value": "스테이지 전설 (9)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_010",
+        "value": "스테이지 전설 (10)"
+    },
+    {
+        "key": "UI_achievenment_second_001",
+        "value": "역전 플레이어 (1)"
+    },
+    {
+        "key": "UI_achievenment_second_002",
+        "value": "역전 플레이어 (2)"
+    },
+    {
+        "key": "UI_achievenment_second_003",
+        "value": "역전 플레이어 (3)"
+    },
+    {
+        "key": "UI_achievenment_second_004",
+        "value": "역전 플레이어 (4)"
+    },
+    {
+        "key": "UI_achievenment_second_005",
+        "value": "역전 플레이어 (5)"
+    },
+    {
+        "key": "UI_achievenment_second_006",
+        "value": "역전 플레이어 (6)"
+    },
+    {
+        "key": "UI_achievenment_second_007",
+        "value": "역전 플레이어 (7)"
+    },
+    {
+        "key": "UI_achievenment_second_008",
+        "value": "역전 플레이어 (8)"
+    },
+    {
+        "key": "UI_achievenment_second_009",
+        "value": "역전 플레이어 (9)"
+    },
+    {
+        "key": "UI_achievenment_second_010",
+        "value": "역전 플레이어 (10)"
+    },
+    {
+        "key": "UI_achievenment_close_001",
+        "value": "두근두근 (1)"
+    },
+    {
+        "key": "UI_achievenment_close_002",
+        "value": "두근두근 (2)"
+    },
+    {
+        "key": "UI_achievenment_close_003",
+        "value": "두근두근 (3)"
+    },
+    {
+        "key": "UI_achievenment_close_004",
+        "value": "두근두근 (4)"
+    },
+    {
+        "key": "UI_achievenment_close_005",
+        "value": "두근두근 (5)"
+    },
+    {
+        "key": "UI_achievenment_close_006",
+        "value": "두근두근 (6)"
+    },
+    {
+        "key": "UI_achievenment_close_007",
+        "value": "두근두근 (7)"
+    },
+    {
+        "key": "UI_achievenment_close_008",
+        "value": "두근두근 (8)"
+    },
+    {
+        "key": "UI_achievenment_close_009",
+        "value": "두근두근 (9)"
+    },
+    {
+        "key": "UI_achievenment_close_010",
+        "value": "두근두근 (10)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_001",
+        "value": "궁극의 달인 (1)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_002",
+        "value": "궁극의 달인 (2)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_003",
+        "value": "궁극의 달인 (3)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_004",
+        "value": "궁극의 달인 (4)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_005",
+        "value": "궁극의 달인 (5)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_006",
+        "value": "궁극의 달인 (6)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_007",
+        "value": "궁극의 달인 (7)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_008",
+        "value": "궁극의 달인 (8)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_009",
+        "value": "궁극의 달인 (9)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_010",
+        "value": "궁극의 달인 (10)"
+    },
+    {
+        "key": "UI_achievenment_streak_001",
+        "value": "연승 전문가 (1)"
+    },
+    {
+        "key": "UI_achievenment_streak_002",
+        "value": "연승 전문가 (2)"
+    },
+    {
+        "key": "UI_achievenment_streak_003",
+        "value": "연승 전문가 (3)"
+    },
+    {
+        "key": "UI_achievenment_streak_004",
+        "value": "연승 전문가 (4)"
+    },
+    {
+        "key": "UI_achievenment_streak_005",
+        "value": "연승 전문가 (5)"
+    },
+    {
+        "key": "UI_achievenment_streak_006",
+        "value": "연승 전문가 (6)"
+    },
+    {
+        "key": "UI_achievenment_streak_007",
+        "value": "연승 전문가 (7)"
+    },
+    {
+        "key": "UI_achievenment_streak_008",
+        "value": "연승 전문가 (8)"
+    },
+    {
+        "key": "UI_achievenment_streak_009",
+        "value": "연승 전문가 (9)"
+    },
+    {
+        "key": "UI_achievenment_streak_010",
+        "value": "연승 전문가 (10)"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "재미있게 지내십니까?"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "우리를 평가 해주세요."
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "지금 평가"
+    },
+    {
+        "key": "UI_achievenment_level_name",
+        "value": "{0}개 스테이지 클리어"
+    },
+    {
+        "key": "UI_achievenment_daily_name",
+        "value": "{0}일 도전"
+    },
+    {
+        "key": "UI_achievenment_check_name",
+        "value": "{0}일 연속 로그인하고 레벨 1개 클리어"
+    },
+    {
+        "key": "UI_achievenment_perfect_name",
+        "value": "하트 가득, 부활 없이 레벨 {0}개 클리어"
+    },
+    {
+        "key": "UI_achievenment_puzzle_name",
+        "value": "힌트 없이 {0}개 스테이지 클리어"
+    },
+    {
+        "key": "UI_achievenment_second_name",
+        "value": "아무 스테이지에서나 {0}회 부활"
+    },
+    {
+        "key": "UI_achievenment_close_name",
+        "value": "부활 없이 하트 1개로 {0}회 클리어"
+    },
+    {
+        "key": "UI_achievenment_ultimate_name",
+        "value": "아이템 없이 {0}개 스테이지 클리어"
+    },
+    {
+        "key": "UI_achievenment_streak_name",
+        "value": "하루 안에 {0}개 스테이지 연속 도전"
+    },
+    {
+        "key": "UI_skin_Theme_choose",
+        "value": "테마 선택"
+    },
+    {
+        "key": "UI_achievenment_no_tips",
+        "value": "업적 미획득,\n과제를 완료하세요!"
+    }
+]

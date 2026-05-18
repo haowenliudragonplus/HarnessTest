@@ -1,0 +1,9 @@
+/******************************/
+/*****自动生成的UIViewName代码，禁止手动修改*****/
+/*****生成时间：#GENDATETIME#*****/
+/*****************************/
+
+public class UIViewName
+{
+#UIVIEWNAMEDEFINE#
+}

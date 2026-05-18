@@ -1,0 +1,7 @@
+using Framework;
+using UnityEngine.UI;
+
+public class #CLASSNAME# : #BASECLASSNAME#
+{
+    
+}

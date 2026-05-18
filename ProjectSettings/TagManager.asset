@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DoScale
+  - ResetAnim
+  - Except
+  - Export
+  - Jewel
+  - CrashCrateWalls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - InGame_Bg
+  - InGame_Element
+  - InGame_TopArea
+  - InGame_Guide
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: -Layer5
+    uniqueID: 1323357159
+    locked: 0
+  - name: -Layer4
+    uniqueID: 1276351759
+    locked: 0
+  - name: -Layer3
+    uniqueID: 2747885403
+    locked: 0
+  - name: -Layer2
+    uniqueID: 1536561225
+    locked: 0
+  - name: -Layer1
+    uniqueID: 2231773741
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer1
+    uniqueID: 3072825169
+    locked: 0
+  - name: Layer2
+    uniqueID: 2099116839
+    locked: 0
+  - name: Layer3
+    uniqueID: 3410773029
+    locked: 0
+  - name: Layer4
+    uniqueID: 3090500961
+    locked: 0
+  - name: Layer5
+    uniqueID: 680791591
+    locked: 0

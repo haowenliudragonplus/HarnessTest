@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 550747366, guid: b50a4df894f2d4b3ea35002b8c532fab, type: 3}
+  m_Name: ConfigurationController
+  m_EditorClassIdentifier: 
+  version: 1
+  Company_Name: Loong Rising Limited
+  Product_Name: "Zen Arrow\uFF1ATap&Unwind"
+  API_Config_Class_Name: BiEventArrowPuzzle1
+  API_Server_URL_Release: https://arrow-puzzle1-api.loongrising365.com
+  API_Server_Secret_Release: ru6a7WSQMZgsMZG969fTp5QulUl7UypWQzMVd6qw
+  API_Server_Timeout_Release: 15
+  API_Server_URL_Beta: https://arrow-puzzle1-api-alpha.dragonplus.net
+  API_Server_Secret_Beta: foobar
+  API_Server_Timeout_Beta: 15
+  Socket_IO_Enabled: 0
+  Res_Server_URL_Release: https://res.loongrising365.com/arrowpuzzle1/
+  Res_Server_URL_Beta: https://res.dragonplus.vip/arrowpuzzle1/
+  Chat_App_Id_Release: 
+  Chat_App_Id_Beta: 
+  AndroidKeyStoreUseConfiguration: 1
+  AndroidKeyStorePath: /Users/dragonplus/loongrising.keystore
+  AndroidKeyStorePass: LNR123
+  AndroidKeyStoreAlias: loongrising.keystore
+  AndroidKeyStoreAliasPass: LNR123
+  _AesKey: d14f8eac6263c592
+  _RC4Key: 
+  kUserPermissionLoginToken: 1
+  kUserPermissionBasicInfo: 1
+  kUserPermissionPublish: 0
+  kUserPermissionFriendList: 0
+  iOSAddPushNotification: 1
+  iOSAddSignInWithApple: 1
+  AESToolPath: 
+  UPDATE_URL: https://app.adjust.com/1vygc2la
+  PrivacyPolicyURL: https://www.loongrising365.com/privacypolicy/
+  TermsOfServiceURL: https://www.loongrising365.com/terms/
+  DebugBuildAppBundle: 0
+  ReleaseBuildAppBundle: 0
+  iOSAutomaticSigning: 1
+  iOSDebugCodeSignIdentity: 
+  iOSDebugManualProvisioningProfileID: 
+  iOSReleaseCodeSignIdentity: 
+  iOSReleaseManualProvisioningProfileID: 

@@ -1,0 +1,2 @@
+NSUserTrackingUsageDescription = "Si vous choisissez d’activer le suivi, nous pourrons vous montrer des publicités plus adaptées à vos intérêts, ce qui nous aide à améliorer l’expérience de jeu. Si vous refusez, nous ne pourrons pas vous offrir de publicités personnalisées. Peu importe votre décision, on vous souhaite une super expérience de jeu!  ";
+NSCameraUsageDescription = "Le module publicitaire tiers nécessite l'accès à la caméra pour prendre en charge les interactions avec les annonces RA";

@@ -1,0 +1,2017 @@
+[
+    {
+        "key": "公式",
+        "value": null
+    },
+    {
+        "key": "Title"
+    },
+    {
+        "key": "Custom",
+        "value": "垂唯识核渲染尺寸触震陀螺市（端辨"
+    },
+    {
+        "key": "UI_button_login",
+        "value": "ログイン"
+    },
+    {
+        "key": "UI_common_text_LevelLabel",
+        "value": "レベル"
+    },
+    {
+        "key": "UI_level_desc_13",
+        "value": "必要はありません"
+    },
+    {
+        "key": "UI_level_desc_14",
+        "value": "出口レベル"
+    },
+    {
+        "key": "UI_level_desc_15",
+        "value": "レベルを終了しますか?"
+    },
+    {
+        "key": "UI_level_desc_16",
+        "value": "あなたは失うでしょう:"
+    },
+    {
+        "key": "UI_level_desc_17",
+        "value": "終了する"
+    },
+    {
+        "key": "UI_level_desc_18",
+        "value": "止まる"
+    },
+    {
+        "key": "UI_level_desc_19",
+        "value": "突破に失敗"
+    },
+    {
+        "key": "UI_level_desc_20",
+        "value": "再試行"
+    },
+    {
+        "key": "UI_level_desc_21",
+        "value": "戻る"
+    },
+    {
+        "key": "UI_level_desc_23",
+        "value": "クリアしました"
+    },
+    {
+        "key": "UI_level_desc_level_fail_1",
+        "value": "さらに時間を追加してプレイを続けてください."
+    },
+    {
+        "key": "UI_level_desc_level_fail_2",
+        "value": "プレイを続けるにはすべてのアイテムをクリアしてください!"
+    },
+    {
+        "key": "UI_level_desc_24",
+        "value": "タイムアウト"
+    },
+    {
+        "key": "UI_level_desc_25",
+        "value": "再生し続けます"
+    },
+    {
+        "key": "UI_level_desc_26",
+        "value": "スペース以上!"
+    },
+    {
+        "key": "UI_level_desc_27",
+        "value": "そうじする"
+    },
+    {
+        "key": "UI_level_desc_28",
+        "value": "一時停止"
+    },
+    {
+        "key": "UI_level_desc_29",
+        "value": "より多くの命を得る"
+    },
+    {
+        "key": "UI_level_desc_30",
+        "value": "次の方法で、すぐにライフを取得できます."
+    },
+    {
+        "key": "UI_level_desc_31",
+        "value": "リフィル"
+    },
+    {
+        "key": "UI_level_desc_32",
+        "value": "フリーライフ"
+    },
+    {
+        "key": "UI_button_watch",
+        "value": "観る"
+    },
+    {
+        "key": "UI_button_cancel",
+        "value": "キャンセル"
+    },
+    {
+        "key": "UI_button_do_it",
+        "value": "装飾"
+    },
+    {
+        "key": "UI_button_collect",
+        "value": "受け取る"
+    },
+    {
+        "key": "UI_common_lives_desc",
+        "value": "スタミナを増やす"
+    },
+    {
+        "key": "UI_common_lives",
+        "value": "体力"
+    },
+    {
+        "key": "UI_common_lives_max",
+        "value": "無限スタミナ"
+    },
+    {
+        "key": "UI_common_teams",
+        "value": "ギルドチーム"
+    },
+    {
+        "key": "UI_common_rank",
+        "value": "ランク"
+    },
+    {
+        "key": "UI_common_offline",
+        "value": "オフライン"
+    },
+    {
+        "key": "UI_common_new",
+        "value": "新しい"
+    },
+    {
+        "key": "UI_level_desc_33",
+        "value": "空飛ぶ円盤"
+    },
+    {
+        "key": "UI_iap_coin_desc_1",
+        "value": "金"
+    },
+    {
+        "key": "UI_shop_purchase_2",
+        "value": "完成!"
+    },
+    {
+        "key": "UI_shop_purchase_1",
+        "value": "購入が完了しました."
+    },
+    {
+        "key": "UI_purchase_failed_title",
+        "value": "購入に失敗しました!"
+    },
+    {
+        "key": "UI_purchase_failed_content",
+        "value": "アカウントに請求が行われていませんでした."
+    },
+    {
+        "key": "UI_common_text_one_line1",
+        "value": "1行"
+    },
+    {
+        "key": "UI_common_text_one_line3",
+        "value": "近日公開!"
+    },
+    {
+        "key": "UI_common_text_one_line4",
+        "value": "指を持ち上げたり、線が重なったりすることはありません"
+    },
+    {
+        "key": "UI_common_text_one_line6",
+        "value": "一致するゲームのレベル {0} に到達すると、次のレベルのロックが解除されます"
+    },
+    {
+        "key": "UI_HAPPYSHAVE_17",
+        "value": "ロックが解除されていません"
+    },
+    {
+        "key": "UI_drink_game_1",
+        "value": "% 重ならない線を描いて、鹿の水をすべて手に入れましょう!"
+    },
+    {
+        "key": "UI_drink_game_2",
+        "value": "もう一度やり直してください?"
+    },
+    {
+        "key": "UI_drink_game_3",
+        "value": "もう一度挑戦して、すべての報酬を獲得しましょう!"
+    },
+    {
+        "key": "UI_brain_title",
+        "value": "水管"
+    },
+    {
+        "key": "UI_drink_game_4",
+        "value": "ヘルプ!"
+    },
+    {
+        "key": "UI_mini_game_play_again",
+        "value": "再びプレー"
+    },
+    {
+        "key": "UI_common_decorate_star",
+        "value": "星の不足"
+    },
+    {
+        "key": "UI_button_loading_ADS",
+        "value": "広告を読み込んでいます..."
+    },
+    {
+        "key": "UI_ support_1",
+        "value": "Eメール:"
+    },
+    {
+        "key": "UI_ support_2",
+        "value": "テキストを入力"
+    },
+    {
+        "key": "UI_ support_3",
+        "value": "送信"
+    },
+    {
+        "key": "UI_likeus_1",
+        "value": "私たちのような"
+    },
+    {
+        "key": "UI_likeus_2",
+        "value": "アワード:"
+    },
+    {
+        "key": "UI_likeus_3",
+        "value": "Facebookでいいね!"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "フィードバック"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "愛を示してください\n アイランドマッチを与えることで"
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "参加する"
+    },
+    {
+        "key": "UI_feedback_5",
+        "value": "あまり"
+    },
+    {
+        "key": "UI_feedback_8",
+        "value": "参加する"
+    },
+    {
+        "key": "UI_feedback_9",
+        "value": "あまり"
+    },
+    {
+        "key": "UI_rate_us_5stars",
+        "value": "<color=#FDE74E>星 5 つ</color>"
+    },
+    {
+        "key": "UI_facebook_1",
+        "value": "フェイスブック"
+    },
+    {
+        "key": "UI_facebook_2",
+        "value": "Facebook で初めてログインすると、次の情報が表示されます."
+    },
+    {
+        "key": "UI_facebook_3",
+        "value": "デバイス間でゲームの進行状況を同期し、いつでもプレイを続ける"
+    },
+    {
+        "key": "UI_facebook_4",
+        "value": "接続"
+    },
+    {
+        "key": "UI_login_tip1",
+        "value": "ゲームのバージョンが低すぎます.ゲームを更新してから、もう一度お試しください."
+    },
+    {
+        "key": "UI_login_tip1_btn",
+        "value": "更新する"
+    },
+    {
+        "key": "UI_login_tip_delete_account",
+        "value": "アカウント削除のリクエストは処理されました.ゲーム アカウントを削除してもよろしいですか?"
+    },
+    {
+        "key": "ui_fte_1001",
+        "value": "壊れたドックを修理するにはいくつかのスターが必要です.レベルを完了することでスターを獲得してください!"
+    },
+    {
+        "key": "guide_enter_amsr",
+        "value": "オーロラの耳の治療を続けています."
+    },
+    {
+        "key": "ui_fte_1039",
+        "value": "オーロラが病気から回復するのを助け続けている."
+    },
+    {
+        "key": "ui_fte_1008",
+        "value": "十分なスターを集めたら、それをタップしてタスクを完了します."
+    },
+    {
+        "key": "UI_levelstart_level_empty",
+        "value": "レベル"
+    },
+    {
+        "key": "UI_BUTTON_Ok",
+        "value": "かくてい"
+    },
+    {
+        "key": "UI_ck_gamelose_button_leave",
+        "value": "離れる"
+    },
+    {
+        "key": "UI_button_yes",
+        "value": "はい"
+    },
+    {
+        "key": "UI_button_no",
+        "value": "いいえ"
+    },
+    {
+        "key": "UI_choose_progress_now",
+        "value": "現在使用中"
+    },
+    {
+        "key": "UI_choose_progress_last",
+        "value": "最後の同期:"
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_later",
+        "value": "もう一度考えて"
+    },
+    {
+        "key": "UI_choose_progress_confirm_desc",
+        "value": "このアーカイブを同期用に選択してよろしいですか? 「111」と入力して [OK] をクリックしてください."
+    },
+    {
+        "key": "UI_choose_progress_confirm_tip",
+        "value": "注: 別のアーカイブは選択後に削除されます.慎重に選択してください"
+    },
+    {
+        "key": "UI_choose_progress_confirm_btn_confirm",
+        "value": "確認"
+    },
+    {
+        "key": "UI_choose_progress_recommend",
+        "value": "お勧め"
+    },
+    {
+        "key": "UI_progress_1",
+        "value": "アーカイブを選択"
+    },
+    {
+        "key": "UI_progress_2",
+        "value": "どのアーカイブを保持しますか?"
+    },
+    {
+        "key": "UI_progress_3",
+        "value": "デバイスで:"
+    },
+    {
+        "key": "UI_progress_4",
+        "value": "サーバー上:"
+    },
+    {
+        "key": "UI_ck_exit_text1",
+        "value": "よろしいですか?"
+    },
+    {
+        "key": "UI_update_app_desc_text",
+        "value": "新しいバージョンが見つかった場合は、ストアにアクセスしてアップデートをダウンロードしてください. アップデート後にログインすると、より多くのゲーム コンテンツのロックが解除されます."
+    },
+    {
+        "key": "UI_update_app_btn_update",
+        "value": "アップグレード"
+    },
+    {
+        "key": "UI_update_app_btn_later",
+        "value": "後で"
+    },
+    {
+        "key": "UI_store_energy_full_text",
+        "value": "フル"
+    },
+    {
+        "key": "UI_shop_title",
+        "value": "ショップ"
+    },
+    {
+        "key": "UI_shop_more",
+        "value": "他の商品"
+    },
+    {
+        "key": "UI_shop_fail_title",
+        "value": "接続できませんでした"
+    },
+    {
+        "key": "UI_shop_fail_explain",
+        "value": "通信環境をご確認ください"
+    },
+    {
+        "key": "UI_Shop_ADS",
+        "value": "観る"
+    },
+    {
+        "key": "UI_button_connected",
+        "value": "ログイン済"
+    },
+    {
+        "key": "UI_update_reward_title",
+        "value": "更新報酬:"
+    },
+    {
+        "key": "UI_update_btn_update",
+        "value": "アップグレード"
+    },
+    {
+        "key": "UI_update_btn_later",
+        "value": "後で"
+    },
+    {
+        "key": "UI_update_btn_claim",
+        "value": "受け取る"
+    },
+    {
+        "key": "UI_store_common_offlineerr_text",
+        "value": "オフライン中はお支払いできません. インターネットに接続してもう一度やり直してください."
+    },
+    {
+        "key": "UI_errmsg_duplicate_login_native",
+        "value": "別のデバイスでゲームが開かれました.そのデバイスでプレイする場合は、現在お使いのデバイスでゲームを終了してください.同じデバイスでプレイし続ける場合は「かくてい」をタップすると、ゲームを再開できます."
+    },
+    {
+        "key": "UI_profile_force_use_server_profile_desc",
+        "value": "ゲームプロフィールを復元しました.ゲームを続けましょう!"
+    },
+    {
+        "key": "UI_update_app_title1",
+        "value": "新しいコンテンツ"
+    },
+    {
+        "key": "UI_update_app_title2",
+        "value": "新しいバージョン"
+    },
+    {
+        "key": "UI_update_app_title3",
+        "value": "アップデート完了"
+    },
+    {
+        "key": "UI_bind_fb_fail_authen_error_text",
+        "value": "Facebook連携に失敗しました.認証エラーです."
+    },
+    {
+        "key": "UI_quit_game_tips_text",
+        "value": "終了しますか?"
+    },
+    {
+        "key": "UI_gift_limit_tips_pre_text",
+        "value": "フレンドからは一日につき"
+    },
+    {
+        "key": "UI_gift_limit_tips_after_text",
+        "value": "までのエネルギーが受け取れます."
+    },
+    {
+        "key": "UI_take_your_reward_text",
+        "value": "これがあなたの報酬です"
+    },
+    {
+        "key": "UI_choose_language_tip_desc",
+        "value": "お客様の携帯電話で使用している言語と現在のゲーム内の言語が一致していないことが検出されました.ゲーム内で使用する言語を選択してください.後で「設定」で変更することができます."
+    },
+    {
+        "key": "UI_common_download",
+        "value": "ダウンロード"
+    },
+    {
+        "key": "UI_common_free",
+        "value": "無料"
+    },
+    {
+        "key": "UI_common_free2",
+        "value": "無料+{0}s"
+    },
+    {
+        "key": "UI_common_iap",
+        "value": "購入をキャンセルしました.お好きなパッケージを選択して、購入を続けることができます!"
+    },
+    {
+        "key": "UI_daily_bonus_day",
+        "value": "{0}日目"
+    },
+    {
+        "key": "UI_purchase_failed",
+        "value": "購入に失敗しました. もう一度試してみますか?"
+    },
+    {
+        "key": "UI_level_goals_complete",
+        "value": "目標が完了しました!"
+    },
+    {
+        "key": "UI_upgrade_locked_text",
+        "value": "ロック"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Title",
+        "value": "終了"
+    },
+    {
+        "key": "UI_POPUP_EXIT_Content",
+        "value": "ゲームを終了しますか?"
+    },
+    {
+        "key": "UI_POPUP_EXIT_BUTTON_Exit",
+        "value": "終了"
+    },
+    {
+        "key": "UI_POPUP_RESERROR_Content",
+        "value": "資源をダウンロード中だよ.もう一度試してね."
+    },
+    {
+        "key": "UI_POPUP_SAVE_Content",
+        "value": "セーブ完了!"
+    },
+    {
+        "key": "UI_POPUP_BUY_Fail_Content",
+        "value": "購入に失敗しました!"
+    },
+    {
+        "key": "UI_CHOOSE_PROFILE_POPUP_SUCCESS_Content",
+        "value": "プロフィールの復元が完了したよ!引き続きゲームを楽しんでね!"
+    },
+    {
+        "key": "UI_MULTIDEVICE_LOGIN_Msg",
+        "value": "すでに他のデバイスでゲームをプレイしているよ.そのデバイスでプレイするには、今すぐゲームを閉じてね.このデバイスでプレイを続けるには'OK'をタップしてね.ゲームが再起動するよ."
+    },
+    {
+        "key": "UI_NEEDUPDATE_Msg",
+        "value": "新しいバージョンで遊べるよ.ゲームを更新してね!"
+    },
+    {
+        "key": "UI_NTWORKOVERTIME_Content",
+        "value": "安定したネットワーク環境で再接続してね."
+    },
+    {
+        "key": "UI_NTWORKXNET_Title",
+        "value": "未接続"
+    },
+    {
+        "key": "UI_NTWORKXNET_Content",
+        "value": "デバイスのネットワーク接続を確認して、もう一度ゲームにログインしてね."
+    },
+    {
+        "key": "UI_POPUP_NOADS_Title",
+        "value": "ごめんなさい"
+    },
+    {
+        "key": "UI_POPUP_NOADS_Content",
+        "value": "広告が出ています\n  後でもう一度やり直してください!"
+    },
+    {
+        "key": "UI_download_resources_error",
+        "value": "サーバーとの接続に失敗しました.インターネット接続を確認してください."
+    },
+    {
+        "key": "UI_no_internet_tips",
+        "value": "サーバーとの接続に失敗しました.インターネット接続を確認してください."
+    },
+    {
+        "key": "UI_privacy_title_native",
+        "value": "プライバシーポリシーに同意する"
+    },
+    {
+        "key": "UI_privacy_message_native",
+        "value": "続行するには、当ゲームのプライバシーポリシーに同意する必要があります."
+    },
+    {
+        "key": "UI_privacy_btn_link_title_native",
+        "value": "プライバシーポリシー"
+    },
+    {
+        "key": "UI_privacy_btn_agree_title_native",
+        "value": "同意する"
+    },
+    {
+        "key": "UI_download_fail_title",
+        "value": "ダウンロード失敗"
+    },
+    {
+        "key": "UI_download_fail_text",
+        "value": "ゲームに必要なデータをダウンロードすることができませんでした、通信環境をご確認の上、再度お試しください."
+    },
+    {
+        "key": "UI_download_fail_button",
+        "value": "もう一度"
+    },
+    {
+        "key": "UI_rateus_title_text",
+        "value": "ゲームの評価"
+    },
+    {
+        "key": "UI_rateus_ios_desc_text",
+        "value": "このゲームを楽しんでいただけましたら、5 つ星の評価を付けていただけませんか? それほど時間はかかりませんが、私たちを大いに助けてくれます. ありがとう."
+    },
+    {
+        "key": "UI_rateus_ios_later_text",
+        "value": "後で通知する"
+    },
+    {
+        "key": "UI_rateus_ios_no_text",
+        "value": "結構です."
+    },
+    {
+        "key": "UI_sensitivewords_notice",
+        "value": "入力した情報にはデリケートな言葉が含まれています.修正してください."
+    },
+    {
+        "key": "UI_storagefull_notice_text",
+        "value": "スマホの容量がいっぱいのようです.空き容量を作ってからやり直してください"
+    },
+    {
+        "key": "UI_bind_Apple_fail_authen_error_text",
+        "value": "Apple連携に失敗しました.認証エラーです."
+    },
+    {
+        "key": "UI_Apple_accesstoken_ru_pwchange_text",
+        "value": "Appleでのログインができませんでした.ログインをやり直してください"
+    },
+    {
+        "key": "UI_fb_accesstoken_ru_pwchange_text",
+        "value": "Facebookでのログインができませんでした.ログインをやり直してください"
+    },
+    {
+        "key": "UI_Shop_Tab1",
+        "value": "コイン"
+    },
+    {
+        "key": "UI_Shop_Tab2",
+        "value": "通常"
+    },
+    {
+        "key": "UI_Shop_Tab3",
+        "value": "特別"
+    },
+    {
+        "key": "UI_Shop_Text1",
+        "value": "残り {0}"
+    },
+    {
+        "key": "UI_Shop_Text1_0",
+        "value": "残り 0"
+    },
+    {
+        "key": "UI_Shop_Text2",
+        "value": "割引"
+    },
+    {
+        "key": "UI_Shop_Btn1",
+        "value": "購入"
+    },
+    {
+        "key": "UI_Shop_Text3",
+        "value": "ロック中"
+    },
+    {
+        "key": "UI_Shop_Text4",
+        "value": "売り切れ"
+    },
+    {
+        "key": "UI_Shop_Tip1",
+        "value": "アイテムが売り切れました.後で再確認してください"
+    },
+    {
+        "key": "UI_Shop_Tip2",
+        "value": "このアイテムをアンロックするには、もっと合成してください"
+    },
+    {
+        "key": "UI_button_continue",
+        "value": "続く"
+    },
+    {
+        "key": "UI_button_next",
+        "value": "続く"
+    },
+    {
+        "key": "UI_parkour_level_id",
+        "value": "レベル {0}"
+    },
+    {
+        "key": "UI_level_selectbooster",
+        "value": "ブースターを選択 "
+    },
+    {
+        "key": "UI_button_area",
+        "value": "エリア {0}"
+    },
+    {
+        "key": "UI_button_house",
+        "value": "家 {0}"
+    },
+    {
+        "key": "UI_button_house_title",
+        "value": "タスク"
+    },
+    {
+        "key": "UI_button_house_pragess",
+        "value": "エリアの進捗"
+    },
+    {
+        "key": "UI_house_title1",
+        "value": "家"
+    },
+    {
+        "key": "UI_TimeFormatWithDay",
+        "value": "{0:00}日 {1:00}時"
+    },
+    {
+        "key": "UI_TimeFormatWithHour",
+        "value": "{0:00}時 {1:00}分"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute",
+        "value": "{0:00}分 {1:00}秒"
+    },
+    {
+        "key": "UI_button_claim_text",
+        "value": "受け取る"
+    },
+    {
+        "key": "UI_button_later",
+        "value": "後で"
+    },
+    {
+        "key": "UI_rateus_ios_rate_text",
+        "value": "今すぐ評価"
+    },
+    {
+        "key": "UI_PayRegion_Btn1",
+        "value": "購入"
+    },
+    {
+        "key": "UI_button_play",
+        "value": "始める"
+    },
+    {
+        "key": "UI_SpecialLevel_Map_title",
+        "value": "マップ"
+    },
+    {
+        "key": "UI_FindTM_Unlock_Des",
+        "value": "Lv {0}"
+    },
+    {
+        "key": "UI_button_house_btn_tips",
+        "value": "家"
+    },
+    {
+        "key": "UI_button_ASMR_btn_tips",
+        "value": "チャレンジ"
+    },
+    {
+        "key": "UI_makeover_pragess",
+        "value": "ビューティー進捗"
+    },
+    {
+        "key": "UI_build_title",
+        "value": "家"
+    },
+    {
+        "key": "UI_makeover_title",
+        "value": "ミニゲーム"
+    },
+    {
+        "key": "UI_makeover_tips",
+        "value": "より多くのレベルのロックを解除して、より多くの報酬を獲得してください"
+    },
+    {
+        "key": "UI_makeover_win_title",
+        "value": "完成!"
+    },
+    {
+        "key": "UI_makeover_reward",
+        "value": "褒美："
+    },
+    {
+        "key": "UI_UnlockReward_Title1",
+        "value": "新しいエリアがアンロックされました"
+    },
+    {
+        "key": "UI_makeover_get",
+        "value": "もっと取得する"
+    },
+    {
+        "key": "UI_common_home",
+        "value": "ホール"
+    },
+    {
+        "key": "UI_common_Island",
+        "value": "ホール"
+    },
+    {
+        "key": "UI_common_shop",
+        "value": "ホール"
+    },
+    {
+        "key": "UI_ASMR_coming_tips",
+        "value": "開かれる"
+    },
+    {
+        "key": "UI_ASMR_button_cannot_play",
+        "value": "前のレベルを渡します"
+    },
+    {
+        "key": "UI_level_desc_add",
+        "value": "タイムアウト"
+    },
+    {
+        "key": "UI_common_box_tittle",
+        "value": "知らせ"
+    },
+    {
+        "key": "UI_cannot_connect_to_itunes_store",
+        "value": "iTunes Storeへの接続に失敗しました! しばらくしてからもう一度お試しください."
+    },
+    {
+        "key": "UI_cannot_connect_to_google_play",
+        "value": "Google Playへの接続に失敗しました! しばらくしてからもう一度お試しください."
+    },
+    {
+        "key": "UI_common_notice",
+        "value": "知らせ"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_1",
+        "value": "広告を削除"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name_2",
+        "value": "ダブルギフトパック"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_1",
+        "value": "リワードなしの広告を非表示にする"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_desc_2",
+        "value": "{0}金"
+    },
+    {
+        "key": "UI_iap_market_1",
+        "value": "限定サービス"
+    },
+    {
+        "key": "UI_iap_market_2",
+        "value": "最も人気のある"
+    },
+    {
+        "key": "UI_iap_market_3",
+        "value": "ベストプライス"
+    },
+    {
+        "key": "UI_shop_moreoffers",
+        "value": "さらにお得な情報"
+    },
+    {
+        "key": "UI_button_go",
+        "value": "見ること"
+    },
+    {
+        "key": "UI_common_function_locked_tip",
+        "value": "レベル21をクリア後に解除"
+    },
+    {
+        "key": "UI_common_finish_tip",
+        "value": "近日公開"
+    },
+    {
+        "key": "UI_loading_loadStr",
+        "value": "読み込み中...{0}%"
+    },
+    {
+        "key": "adbox_no_reward",
+        "value": "広告が準備できていません！"
+    },
+    {
+        "key": "UI_common_time_month",
+        "value": "月"
+    },
+    {
+        "key": "UI_common_time_week",
+        "value": "週"
+    },
+    {
+        "key": "UI_common_time_h",
+        "value": "時"
+    },
+    {
+        "key": "UI_common_time_m",
+        "value": "分"
+    },
+    {
+        "key": "UI_common_time_d",
+        "value": "日"
+    },
+    {
+        "key": "UI_common_time_s",
+        "value": "秒"
+    },
+    {
+        "key": "UI_TimeFormatWithDay_2",
+        "value": "{0:00}日:{1:00}時"
+    },
+    {
+        "key": "UI_TimeFormatWithHour_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_TimeFormatWithMinute_2",
+        "value": "{0:00}:{1:00}"
+    },
+    {
+        "key": "UI_level_desc_40",
+        "value": "排除バーのすべてのアイテムを削除します。"
+    },
+    {
+        "key": "UI_level_desc_41",
+        "value": "道具が使用できません"
+    },
+    {
+        "key": "UI_iap_pack_name_icebreakgift",
+        "value": "サプライズバンドル"
+    },
+    {
+        "key": "UI_iap_pack_num_per",
+        "value": "{0}%"
+    },
+    {
+        "key": "guide_world_1033",
+        "value": "ゲームをしましょう！"
+    },
+    {
+        "key": "UI_fb_login_fail_tips",
+        "value": "ログインに失敗しました！ネットワークに接続してから再試行してください。"
+    },
+    {
+        "key": "UI_level_desc_42",
+        "value": "アイテムは使用不可でクリックできません！"
+    },
+    {
+        "key": "UI_iap_pack_num_2",
+        "value": "80%"
+    },
+    {
+        "key": "UI_iap_pack_num_scale_2",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_iap_pack_name_new_2",
+        "value": "マジックパック"
+    },
+    {
+        "key": "UI_activity_end_tips",
+        "value": "活動終了"
+    },
+    {
+        "key": "UI_settings_on",
+        "value": "ON"
+    },
+    {
+        "key": "UI_settings_off",
+        "value": "OFF"
+    },
+    {
+        "key": "UI_settings_autoMatch",
+        "value": "自動マッチング"
+    },
+    {
+        "key": "UI_settings_autoComplete",
+        "value": "自動完了"
+    },
+    {
+        "key": "UI_settings_free",
+        "value": "フリーブロックをハイライト"
+    },
+    {
+        "key": "UI_settings_play",
+        "value": "遊び方"
+    },
+    {
+        "key": "UI_settings_iap_no_ad",
+        "value": "広告なし"
+    },
+    {
+        "key": "UI_settings_Restart",
+        "value": "再開始"
+    },
+    {
+        "key": "UI_setting_ language",
+        "value": "言語"
+    },
+    {
+        "key": "UI_setting_ support",
+        "value": "サポート"
+    },
+    {
+        "key": "UI_setting_ Facebook",
+        "value": "フェイスブック"
+    },
+    {
+        "key": "UI_setting_version",
+        "value": "バージョン:"
+    },
+    {
+        "key": "UI_setting_user_id",
+        "value": "UID:"
+    },
+    {
+        "key": "UI_setting_common_1",
+        "value": "購入商品を復元する"
+    },
+    {
+        "key": "UI_setting_common_2",
+        "value": "広告なしの特権が正常に復元されました.プレイを続けましょう!"
+    },
+    {
+        "key": "UI_setting_common_3",
+        "value": "現在、回復可能な権限がありません.対応する広告防止パッケージを最初に購入する必要があります."
+    },
+    {
+        "key": "UI_common_text_ScoreLabel",
+        "value": "スコア"
+    },
+    {
+        "key": "UI_common_text_MatchesLabel",
+        "value": "マッチ"
+    },
+    {
+        "key": "UI_contactus_panel_title",
+        "value": "提案と質問"
+    },
+    {
+        "key": "UI_contactus_panel_email_textbox_text",
+        "value": "メールアドレスを入力してください"
+    },
+    {
+        "key": "UI_contactus_panel_input_textbox_text",
+        "value": "ここに質問を入力してください"
+    },
+    {
+        "key": "UI_contactus_panel_email_err_text",
+        "value": "正しいメールアドレスを入力してください"
+    },
+    {
+        "key": "UI_contactus_panel_input_popup_text",
+        "value": "ここに質問を入力してください"
+    },
+    {
+        "key": "UI_contactus_panel_send_err_text",
+        "value": "送信に失敗しました.もう一度お試しください"
+    },
+    {
+        "key": "UI_settings_button_save_ios",
+        "value": "進捗状況をセーブする"
+    },
+    {
+        "key": "UI_save_ios_title",
+        "value": "あなたの進捗状況をセーブする"
+    },
+    {
+        "key": "UI_save_ios_text",
+        "value": "ログインして進捗状況をセーブする"
+    },
+    {
+        "key": "UI_save_ios_button_apple",
+        "value": "Appleでサインイン"
+    },
+    {
+        "key": "UI_save_ios_button_fb",
+        "value": "Facebookでログイン"
+    },
+    {
+        "key": "UI_save_ios_button_tip",
+        "value": "でログイン"
+    },
+    {
+        "key": "UI_login_button_delete_account",
+        "value": "アカウント削除"
+    },
+    {
+        "key": "UI_login_tip_delete_account_7days",
+        "value": "削除リクエストが正常に送信されました.アカウントは7日後に削除されます."
+    },
+    {
+        "key": "UI_login_tip_delete_account_title",
+        "value": "アーカイブを削除しますか?"
+    },
+    {
+        "key": "UI_login_tip_delete_account_tips",
+        "value": "このプロセスは取り消すことができません"
+    },
+    {
+        "key": "UI_delete_txt1",
+        "value": "保存された個人データをすべて削除しますか？<color=#FF322B>（このプロセスは元に戻せません）</color>"
+    },
+    {
+        "key": "UI_PrivacyPolicy_1",
+        "value": "プライバシー ポリシーに同意する"
+    },
+    {
+        "key": "UI_PrivacyPolicy_2",
+        "value": "ゲームを続行する前に、当社のプライバシー ポリシーと利用規約に同意する必要があります."
+    },
+    {
+        "key": "UI_PrivacyPolicy_3",
+        "value": "プライバシーポリシー"
+    },
+    {
+        "key": "UI_PrivacyPolicy_4",
+        "value": "同意します"
+    },
+    {
+        "key": "UI_PrivacyPolicy_5",
+        "value": "利用期間"
+    },
+    {
+        "key": "UI_level_desc_22",
+        "value": "設定"
+    },
+    {
+        "key": "UI_Comb_prefect",
+        "value": "パーフェクトコンボボーナス!"
+    },
+    {
+        "key": "UI_Locked_left",
+        "value": "左右がロックされています"
+    },
+    {
+        "key": "UI_Locked_top",
+        "value": "上方がロックされています"
+    },
+    {
+        "key": "UI_hard_tip",
+        "value": "Hard"
+    },
+    {
+        "key": "UI_tip_loading_text",
+        "value": "読み込み中...しばらくお待ちください"
+    },
+    {
+        "key": "UI_Shuffle_get_one",
+        "value": "1つ取得"
+    },
+    {
+        "key": "UI_Hint_tip_01",
+        "value": "ヒントを取得するにはビデオを見てください"
+    },
+    {
+        "key": "UI_Return_tip",
+        "value": "これが最初のステップです"
+    },
+    {
+        "key": "UI_restart_title",
+        "value": "有効なマッチがありません"
+    },
+    {
+        "key": "UI_restart_tip",
+        "value": "シャッフルを使用しますか？"
+    },
+    {
+        "key": "UI_restart_shuffle",
+        "value": "シャッフル -1"
+    },
+    {
+        "key": "UI_restart_shuffle_none",
+        "value": "シャッフルなし！"
+    },
+    {
+        "key": "UI_button_tip",
+        "value": "はい"
+    },
+    {
+        "key": "UI_button_tip_1",
+        "value": "次の"
+    },
+    {
+        "key": "UI_button_ok",
+        "value": "かくてい"
+    },
+    {
+        "key": "UI_choose_progress_title_text",
+        "value": "進行データ選択"
+    },
+    {
+        "key": "UI_choose_progress_desc_main_text",
+        "value": "どちらの進行状況を保存しますか?"
+    },
+    {
+        "key": "UI_choose_progress_on_server",
+        "value": "サーバー上:"
+    },
+    {
+        "key": "UI_choose_progress_on_device",
+        "value": "お使いのデバイス:"
+    },
+    {
+        "key": "UI_choose_progress_button_server",
+        "value": "サーバー"
+    },
+    {
+        "key": "UI_choose_progress_button_device",
+        "value": "お使いのデバイス"
+    },
+    {
+        "key": "UI_loading_upgrade",
+        "value": "更新中...{0} {1}"
+    },
+    {
+        "key": "UI_return_reward_help_target",
+        "value": "ステージ{0}"
+    },
+    {
+        "key": "UI_Daily_title",
+        "value": "毎日"
+    },
+    {
+        "key": "UI_Daily_title_1",
+        "value": "毎日の挑戦"
+    },
+    {
+        "key": "UI_skin_Theme",
+        "value": "テーマ"
+    },
+    {
+        "key": "UI_skin_Tiles",
+        "value": "麻雀"
+    },
+    {
+        "key": "UI_skin_Backgroud",
+        "value": "背景"
+    },
+    {
+        "key": "UI_skin_simple",
+        "value": "簡単"
+    },
+    {
+        "key": "UI_skin_poker",
+        "value": "ポーカー"
+    },
+    {
+        "key": "UI_skin_old",
+        "value": "伝統"
+    },
+    {
+        "key": "UI_game_daily_week1",
+        "value": "月曜日"
+    },
+    {
+        "key": "UI_game_daily_week2",
+        "value": "火曜日"
+    },
+    {
+        "key": "UI_game_daily_week3",
+        "value": "水曜日"
+    },
+    {
+        "key": "UI_game_daily_week4",
+        "value": "木曜日"
+    },
+    {
+        "key": "UI_game_daily_week5",
+        "value": "金曜日"
+    },
+    {
+        "key": "UI_game_daily_week6",
+        "value": "土曜日"
+    },
+    {
+        "key": "UI_game_daily_week7",
+        "value": "日曜日"
+    },
+    {
+        "key": "UI_game_daily_date",
+        "value": "日付"
+    },
+    {
+        "key": "UI_game_daily_month1",
+        "value": "1月"
+    },
+    {
+        "key": "UI_game_daily_month2",
+        "value": "2月"
+    },
+    {
+        "key": "UI_game_daily_month3",
+        "value": "3月"
+    },
+    {
+        "key": "UI_game_daily_month4",
+        "value": "4月"
+    },
+    {
+        "key": "UI_game_daily_month5",
+        "value": "5月"
+    },
+    {
+        "key": "UI_game_daily_month6",
+        "value": "6月"
+    },
+    {
+        "key": "UI_game_daily_month7",
+        "value": "7月"
+    },
+    {
+        "key": "UI_game_daily_month8",
+        "value": "8月"
+    },
+    {
+        "key": "UI_game_daily_month9",
+        "value": "9月"
+    },
+    {
+        "key": "UI_game_daily_month10",
+        "value": "10月"
+    },
+    {
+        "key": "UI_game_daily_month11",
+        "value": "11月"
+    },
+    {
+        "key": "UI_game_daily_month12",
+        "value": "12月"
+    },
+    {
+        "key": "UI_daily_Btn1",
+        "value": "挑戦"
+    },
+    {
+        "key": "UI_daily_Tip_2",
+        "value": "花の部屋"
+    },
+    {
+        "key": "UI_button_task_title",
+        "value": "タスク"
+    },
+    {
+        "key": "UI_common_level",
+        "value": "レベル {0}"
+    },
+    {
+        "key": "UI_common_unlock",
+        "value": "ロック解除！"
+    },
+    {
+        "key": "UI_revive_title",
+        "value": "スペース不足！"
+    },
+    {
+        "key": "UI_new_tip_1",
+        "value": "移動矢印をタップ"
+    },
+    {
+        "key": "UI_new_tip_2",
+        "value": "2本指でピンチして拡大/縮小"
+    },
+    {
+        "key": "UI_new_tip_3",
+        "value": "ガイドラインはレベルクリアの助けになります！"
+    },
+    {
+        "key": "UI_new_tip_4",
+        "value": "<color=#299200>スロット追加</color>を使って新しい空きスロットを作成しましょう！"
+    },
+    {
+        "key": "UI_new_tip_5",
+        "value": "<color=#299200>ヒント</color>を使って<color=#299200>3</color>枚の一致する麻雀牌を集めましょう！"
+    },
+    {
+        "key": "UI_new_tip_6",
+        "value": "<color=#299200>清掃</color>を使って一時保存エリアの牌を取り除きましょう！"
+    },
+    {
+        "key": "Purchase_Failed_Title",
+        "value": "購入に失敗しました！"
+    },
+    {
+        "key": "Purchase_Failed_Desc",
+        "value": "購入が失敗しました！"
+    },
+    {
+        "key": "UI_common_button_continue",
+        "value": "続ける"
+    },
+    {
+        "key": "UI_revive_continue_title",
+        "value": "続ける"
+    },
+    {
+        "key": "UI_revive_continue_tips",
+        "value": "HPを回復し、ゲームを続行してください！"
+    },
+    {
+        "key": "UI_revive_continue_tips_01",
+        "value": "手数を追加してゲームを続けよう！"
+    },
+    {
+        "key": "UI_end_title_1",
+        "value": "抜群です！"
+    },
+    {
+        "key": "UI_end_title_2",
+        "value": "素晴らしい！"
+    },
+    {
+        "key": "UI_end_title_3",
+        "value": "才能豊か！"
+    },
+    {
+        "key": "UI_end_title_4",
+        "value": "伝説的！"
+    },
+    {
+        "key": "UI_end_title_5",
+        "value": "恐れ知らず！"
+    },
+    {
+        "key": "UI_end_title_6",
+        "value": "壮観です！"
+    },
+    {
+        "key": "UI_end_title_7",
+        "value": "素晴らしい！"
+    },
+    {
+        "key": "UI_end_title_8",
+        "value": "最高です！"
+    },
+    {
+        "key": "UI_end_title_9",
+        "value": "素晴らしい！"
+    },
+    {
+        "key": "UI_Superhard_tip",
+        "value": "Super hard"
+    },
+    {
+        "key": "UI_common_revive",
+        "value": "復活"
+    },
+    {
+        "key": "UI_tips_text1",
+        "value": "フレンドにエネルギーをプレゼントして、お返しをもらおう!"
+    },
+    {
+        "key": "UI_tips_text2",
+        "value": "難しいチャレンジにはブーストを使おう!"
+    },
+    {
+        "key": "UI_tips_text3",
+        "value": "デイリーボーナスは毎日手に入ります!"
+    },
+    {
+        "key": "UI_tips_text4",
+        "value": "Facebookのフレンドを招待して、一緒にプレイしよう!"
+    },
+    {
+        "key": "UI_tips_text5",
+        "value": "当ゲームのFacebookファンページをフォローすると、報酬が手に入るよ!"
+    },
+    {
+        "key": "UI_tips_text6",
+        "value": "アイテムをはっきりと観察し、すばやく収集してください."
+    },
+    {
+        "key": "UI_tips_text7",
+        "value": "黄金の花輪を手に入れて、より多くの小道具を手に入れましょう!"
+    },
+    {
+        "key": "UI_tips_text8",
+        "value": "ウィークリー チャレンジを完了して、たくさんの報酬を獲得しましょう!"
+    },
+    {
+        "key": "UI_tips_text9",
+        "value": "イベントをフォローして、積極的に参加してください!"
+    },
+    {
+        "key": "UI_tips_text10",
+        "value": "モールには超お得なギフトパックがたくさん!"
+    },
+    {
+        "key": "UI_tips_text11",
+        "value": "チームは重要な社会システムです!"
+    },
+    {
+        "key": "UI_tips_text12",
+        "value": "チーム情報をいつでもフォロー!"
+    },
+    {
+        "key": "UI_loading_progress_text",
+        "value": "読み込み中"
+    },
+    {
+        "key": "UI_loading_tip",
+        "value": "より多くのレベルのロックを解除して、より多くの報酬を獲得してください"
+    },
+    {
+        "key": "UI_button_retry_text",
+        "value": "もう一度"
+    },
+    {
+        "key": "UI_loading_init",
+        "value": "初期化中...{0}%"
+    },
+    {
+        "key": "UI_loading_load",
+        "value": "読み込み中...{0}%"
+    },
+    {
+        "key": "UI_loading_count",
+        "value": "計算する"
+    },
+    {
+        "key": "UI_common_PlayOn",
+        "value": "復活"
+    },
+    {
+        "key": "UI_iap_no_ad_pack_name",
+        "value": "広告を削除"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_01",
+        "value": "バナー広告と全画面広告を削除"
+    },
+    {
+        "key": "UI_iap_no_ad_tips_02",
+        "value": "報酬のための任意広告は残します"
+    },
+    {
+        "key": "UI_common_no_ad_buy",
+        "value": "おめでとう、インタースティシャル広告を完全に削除する特権を獲得しました.楽しいゲームをお祈りします!"
+    },
+    {
+        "key": "UI_Level_Moves",
+        "value": "移動回数: {0}"
+    },
+    {
+        "key": "UI_daily_unlock",
+        "value": "{0}で解放"
+    },
+    {
+        "key": "UI_Achievement_title",
+        "value": "実績"
+    },
+    {
+        "key": "UI_Achievement_task",
+        "value": "ミッション"
+    },
+    {
+        "key": "UI_Achievement_mine",
+        "value": "所持済み"
+    },
+    {
+        "key": "UI_Achievement_tip",
+        "value": "進行中"
+    },
+    {
+        "key": "UI_Achievement_full",
+        "value": "最大Lv"
+    },
+    {
+        "key": "UI_Achievement_get",
+        "value": "実績獲得"
+    },
+    {
+        "key": "UI_Achievement_number",
+        "value": "勲章 {0}"
+    },
+    {
+        "key": "UI_Achievement_complete",
+        "value": "達成"
+    },
+    {
+        "key": "UI_achievenment_level_001",
+        "value": "ステージ達人 (1)"
+    },
+    {
+        "key": "UI_achievenment_level_002",
+        "value": "ステージ達人 (2)"
+    },
+    {
+        "key": "UI_achievenment_level_003",
+        "value": "ステージ達人 (3)"
+    },
+    {
+        "key": "UI_achievenment_level_004",
+        "value": "ステージ達人 (4)"
+    },
+    {
+        "key": "UI_achievenment_level_005",
+        "value": "ステージ達人 (5)"
+    },
+    {
+        "key": "UI_achievenment_level_006",
+        "value": "ステージ達人 (6)"
+    },
+    {
+        "key": "UI_achievenment_level_007",
+        "value": "ステージ達人 (7)"
+    },
+    {
+        "key": "UI_achievenment_level_008",
+        "value": "ステージ達人 (8)"
+    },
+    {
+        "key": "UI_achievenment_level_009",
+        "value": "ステージ達人 (9)"
+    },
+    {
+        "key": "UI_achievenment_level_010",
+        "value": "ステージ達人 (10)"
+    },
+    {
+        "key": "UI_achievenment_daily_001",
+        "value": "デイリーチャレンジ (1)"
+    },
+    {
+        "key": "UI_achievenment_daily_002",
+        "value": "デイリーチャレンジ (2)"
+    },
+    {
+        "key": "UI_achievenment_daily_003",
+        "value": "デイリーチャレンジ (3)"
+    },
+    {
+        "key": "UI_achievenment_daily_004",
+        "value": "デイリーチャレンジ (4)"
+    },
+    {
+        "key": "UI_achievenment_daily_005",
+        "value": "デイリーチャレンジ (5)"
+    },
+    {
+        "key": "UI_achievenment_daily_006",
+        "value": "デイリーチャレンジ (6)"
+    },
+    {
+        "key": "UI_achievenment_daily_007",
+        "value": "デイリーチャレンジ (7)"
+    },
+    {
+        "key": "UI_achievenment_daily_008",
+        "value": "デイリーチャレンジ (8)"
+    },
+    {
+        "key": "UI_achievenment_daily_009",
+        "value": "デイリーチャレンジ (9)"
+    },
+    {
+        "key": "UI_achievenment_daily_010",
+        "value": "デイリーチャレンジ (10)"
+    },
+    {
+        "key": "UI_achievenment_check_001",
+        "value": "皆勤賞 (1)"
+    },
+    {
+        "key": "UI_achievenment_check_002",
+        "value": "皆勤賞 (2)"
+    },
+    {
+        "key": "UI_achievenment_check_003",
+        "value": "皆勤賞 (3)"
+    },
+    {
+        "key": "UI_achievenment_check_004",
+        "value": "皆勤賞 (4)"
+    },
+    {
+        "key": "UI_achievenment_check_005",
+        "value": "皆勤賞 (5)"
+    },
+    {
+        "key": "UI_achievenment_check_006",
+        "value": "皆勤賞 (6)"
+    },
+    {
+        "key": "UI_achievenment_check_007",
+        "value": "皆勤賞 (7)"
+    },
+    {
+        "key": "UI_achievenment_check_008",
+        "value": "皆勤賞 (8)"
+    },
+    {
+        "key": "UI_achievenment_check_009",
+        "value": "皆勤賞 (9)"
+    },
+    {
+        "key": "UI_achievenment_check_010",
+        "value": "皆勤賞 (10)"
+    },
+    {
+        "key": "UI_achievenment_perfect_001",
+        "value": "パーフェクトクリア (1)"
+    },
+    {
+        "key": "UI_achievenment_perfect_002",
+        "value": "パーフェクトクリア (2)"
+    },
+    {
+        "key": "UI_achievenment_perfect_003",
+        "value": "パーフェクトクリア (3)"
+    },
+    {
+        "key": "UI_achievenment_perfect_004",
+        "value": "パーフェクトクリア (4)"
+    },
+    {
+        "key": "UI_achievenment_perfect_005",
+        "value": "パーフェクトクリア (5)"
+    },
+    {
+        "key": "UI_achievenment_perfect_006",
+        "value": "パーフェクトクリア (6)"
+    },
+    {
+        "key": "UI_achievenment_perfect_007",
+        "value": "パーフェクトクリア (7)"
+    },
+    {
+        "key": "UI_achievenment_perfect_008",
+        "value": "パーフェクトクリア (8)"
+    },
+    {
+        "key": "UI_achievenment_perfect_009",
+        "value": "パーフェクトクリア (9)"
+    },
+    {
+        "key": "UI_achievenment_perfect_010",
+        "value": "パーフェクトクリア (10)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_001",
+        "value": "ステージ伝説 (1)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_002",
+        "value": "ステージ伝説 (2)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_003",
+        "value": "ステージ伝説 (3)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_004",
+        "value": "ステージ伝説 (4)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_005",
+        "value": "ステージ伝説 (5)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_006",
+        "value": "ステージ伝説 (6)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_007",
+        "value": "ステージ伝説 (7)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_008",
+        "value": "ステージ伝説 (8)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_009",
+        "value": "ステージ伝説 (9)"
+    },
+    {
+        "key": "UI_achievenment_puzzle_010",
+        "value": "ステージ伝説 (10)"
+    },
+    {
+        "key": "UI_achievenment_second_001",
+        "value": "逆転プレイヤー (1)"
+    },
+    {
+        "key": "UI_achievenment_second_002",
+        "value": "逆転プレイヤー (2)"
+    },
+    {
+        "key": "UI_achievenment_second_003",
+        "value": "逆転プレイヤー (3)"
+    },
+    {
+        "key": "UI_achievenment_second_004",
+        "value": "逆転プレイヤー (4)"
+    },
+    {
+        "key": "UI_achievenment_second_005",
+        "value": "逆転プレイヤー (5)"
+    },
+    {
+        "key": "UI_achievenment_second_006",
+        "value": "逆転プレイヤー (6)"
+    },
+    {
+        "key": "UI_achievenment_second_007",
+        "value": "逆転プレイヤー (7)"
+    },
+    {
+        "key": "UI_achievenment_second_008",
+        "value": "逆転プレイヤー (8)"
+    },
+    {
+        "key": "UI_achievenment_second_009",
+        "value": "逆転プレイヤー (9)"
+    },
+    {
+        "key": "UI_achievenment_second_010",
+        "value": "逆転プレイヤー (10)"
+    },
+    {
+        "key": "UI_achievenment_close_001",
+        "value": "ドキドキの瞬間 (1)"
+    },
+    {
+        "key": "UI_achievenment_close_002",
+        "value": "ドキドキの瞬間 (2)"
+    },
+    {
+        "key": "UI_achievenment_close_003",
+        "value": "ドキドキの瞬間 (3)"
+    },
+    {
+        "key": "UI_achievenment_close_004",
+        "value": "ドキドキの瞬間 (4)"
+    },
+    {
+        "key": "UI_achievenment_close_005",
+        "value": "ドキドキの瞬間 (5)"
+    },
+    {
+        "key": "UI_achievenment_close_006",
+        "value": "ドキドキの瞬間 (6)"
+    },
+    {
+        "key": "UI_achievenment_close_007",
+        "value": "ドキドキの瞬間 (7)"
+    },
+    {
+        "key": "UI_achievenment_close_008",
+        "value": "ドキドキの瞬間 (8)"
+    },
+    {
+        "key": "UI_achievenment_close_009",
+        "value": "ドキドキの瞬間 (9)"
+    },
+    {
+        "key": "UI_achievenment_close_010",
+        "value": "ドキドキの瞬間 (10)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_001",
+        "value": "究極マスター (1)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_002",
+        "value": "究極マスター (2)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_003",
+        "value": "究極マスター (3)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_004",
+        "value": "究極マスター (4)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_005",
+        "value": "究極マスター (5)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_006",
+        "value": "究極マスター (6)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_007",
+        "value": "究極マスター (7)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_008",
+        "value": "究極マスター (8)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_009",
+        "value": "究極マスター (9)"
+    },
+    {
+        "key": "UI_achievenment_ultimate_010",
+        "value": "究極マスター (10)"
+    },
+    {
+        "key": "UI_achievenment_streak_001",
+        "value": "連勝エキスパート (1)"
+    },
+    {
+        "key": "UI_achievenment_streak_002",
+        "value": "連勝エキスパート (2)"
+    },
+    {
+        "key": "UI_achievenment_streak_003",
+        "value": "連勝エキスパート (3)"
+    },
+    {
+        "key": "UI_achievenment_streak_004",
+        "value": "連勝エキスパート (4)"
+    },
+    {
+        "key": "UI_achievenment_streak_005",
+        "value": "連勝エキスパート (5)"
+    },
+    {
+        "key": "UI_achievenment_streak_006",
+        "value": "連勝エキスパート (6)"
+    },
+    {
+        "key": "UI_achievenment_streak_007",
+        "value": "連勝エキスパート (7)"
+    },
+    {
+        "key": "UI_achievenment_streak_008",
+        "value": "連勝エキスパート (8)"
+    },
+    {
+        "key": "UI_achievenment_streak_009",
+        "value": "連勝エキスパート (9)"
+    },
+    {
+        "key": "UI_achievenment_streak_010",
+        "value": "連勝エキスパート (10)"
+    },
+    {
+        "key": "UI_feedback_1",
+        "value": "楽しんでいますか？"
+    },
+    {
+        "key": "UI_feedback_2",
+        "value": "評価してください。"
+    },
+    {
+        "key": "UI_feedback_3",
+        "value": "今すぐ評価してください"
+    },
+    {
+        "key": "UI_achievenment_level_name",
+        "value": "{0}ステージクリア"
+    },
+    {
+        "key": "UI_achievenment_daily_name",
+        "value": "{0}日挑戦"
+    },
+    {
+        "key": "UI_achievenment_check_name",
+        "value": "{0}日連続ログインして1ステージクリア"
+    },
+    {
+        "key": "UI_achievenment_perfect_name",
+        "value": "全ハート・復活なしで{0}ステージクリア"
+    },
+    {
+        "key": "UI_achievenment_puzzle_name",
+        "value": "ヒントなしで{0}ステージクリア"
+    },
+    {
+        "key": "UI_achievenment_second_name",
+        "value": "任意のステージで{0}回復活"
+    },
+    {
+        "key": "UI_achievenment_close_name",
+        "value": "復活なし・残り1ハートで{0}回クリア"
+    },
+    {
+        "key": "UI_achievenment_ultimate_name",
+        "value": "アイテムなしで{0}ステージクリア"
+    },
+    {
+        "key": "UI_achievenment_streak_name",
+        "value": "1日で{0}ステージ連続挑戦"
+    },
+    {
+        "key": "UI_skin_Theme_choose",
+        "value": "テーマを選ぶ"
+    },
+    {
+        "key": "UI_achievenment_no_tips",
+        "value": "実績未獲得です。\n条件を達成してください！"
+    }
+]

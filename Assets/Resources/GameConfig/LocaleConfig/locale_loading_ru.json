@@ -1,0 +1,190 @@
+[
+    {
+        "key": "UI_tips_text1",
+        "value": "Отправьте бесплатную энергию своим друзьям и попросите их вернуть долг!"
+    },
+    {
+        "key": "UI_tips_text2",
+        "value": "Усиления помогут вам справиться с трудными задачами!"
+    },
+    {
+        "key": "UI_tips_text3",
+        "value": "Возвращайтесь и получайте ежедневный бонус каждый день!"
+    },
+    {
+        "key": "UI_tips_text4",
+        "value": "Пригласите своих друзей из Facebook и играйте вместе!"
+    },
+    {
+        "key": "UI_tips_text5",
+        "value": "Поставьте лайк нашей фан-странице в Facebook и получите свою награду!"
+    },
+    {
+        "key": "UI_tips_text6",
+        "value": "Четко наблюдайте за предметами и быстро собирайте их!"
+    },
+    {
+        "key": "UI_tips_text7",
+        "value": "Получите золотые венки, чтобы получить больше реквизита!"
+    },
+    {
+        "key": "UI_tips_text8",
+        "value": "Выполняйте еженедельные задания и получайте множество наград!"
+    },
+    {
+        "key": "UI_tips_text9",
+        "value": "Следите за событием и принимайте в нем активное участие!"
+    },
+    {
+        "key": "UI_tips_text10",
+        "value": "В торговом центре есть много суперценных подарочных наборов!"
+    },
+    {
+        "key": "UI_tips_text11",
+        "value": "Команды – важная социальная система!"
+    },
+    {
+        "key": "UI_tips_text12",
+        "value": "Следите за информацией о команде в любое время!"
+    },
+    {
+        "key": "UI_loading_progress_text",
+        "value": "Загрузка"
+    },
+    {
+        "key": "UI_loading_tip",
+        "value": "Разблокируйте больше уровней, чтобы получить больше наград"
+    },
+    {
+        "key": "UI_download_fail_button",
+        "value": "Повторить попытку"
+    },
+    {
+        "key": "UI_common_box_tittle",
+        "value": "Уведомление"
+    },
+    {
+        "key": "UI_privacy_title_native",
+        "value": "Принять политику конфиденциальности"
+    },
+    {
+        "key": "UI_privacy_message_native",
+        "value": "Чтобы продолжить игру, вам необходимо подтвердить свое согласие с нашей Политикой конфиденциальности."
+    },
+    {
+        "key": "UI_privacy_btn_link_title_native",
+        "value": "политика конфиденциальности"
+    },
+    {
+        "key": "UI_privacy_btn_agree_title_native",
+        "value": "Я согласен"
+    },
+    {
+        "key": "UI_download_resources_error",
+        "value": "Не удалось подключиться к серверу. Пожалуйста, проверьте ваше интернет-соединение."
+    },
+    {
+        "key": "UI_no_internet_tips",
+        "value": "Не удалось подключиться к серверу. Пожалуйста, проверьте ваше интернет-соединение."
+    },
+    {
+        "key": "UI_button_cancel",
+        "value": "Отмена"
+    },
+    {
+        "key": "UI_button_ok",
+        "value": "ХОРОШО"
+    },
+    {
+        "key": "UI_button_retry_text",
+        "value": "Повторить попытку"
+    },
+    {
+        "key": "UI_button_cancel",
+        "value": "Отмена"
+    },
+    {
+        "key": "UI_quit_game_tips_text",
+        "value": "Хотели бы вы бросить?"
+    },
+    {
+        "key": "UI_update_app_desc_text",
+        "value": "Если найдена новая версия, перейдите в магазин, чтобы загрузить обновление. Войдите в систему после обновления, чтобы разблокировать больше игрового контента."
+    },
+    {
+        "key": "UI_update_app_btn_update",
+        "value": "Обновление"
+    },
+    {
+        "key": "UI_update_app_btn_later",
+        "value": "Позже"
+    },
+    {
+        "key": "UI_errmsg_duplicate_login_native",
+        "value": "Вы открыли игру на другом устройстве. Чтобы играть на другом устройстве, закройте эту игру. Чтобы продолжить играть здесь, просто нажмите «ХОРОШО», и игра перезапустится."
+    },
+    {
+        "key": "UI_choose_progress_title_text",
+        "value": "ВЫБОР ПРОГРЕССА"
+    },
+    {
+        "key": "UI_choose_progress_desc_main_text",
+        "value": "Какой прогресс вы хотите сохранить?"
+    },
+    {
+        "key": "UI_choose_progress_on_server",
+        "value": "На сервере:"
+    },
+    {
+        "key": "UI_choose_progress_on_device",
+        "value": "На вашем устройстве:"
+    },
+    {
+        "key": "UI_choose_progress_button_server",
+        "value": "Сервер"
+    },
+    {
+        "key": "UI_choose_progress_button_device",
+        "value": "Ваше устройство"
+    },
+    {
+        "key": "UI_loading_init",
+        "value": "Инициализация...{0}%"
+    },
+    {
+        "key": "UI_loading_upgrade",
+        "value": "Обновление...{0} {1}"
+    },
+    {
+        "key": "UI_loading_load",
+        "value": "Загрузка...{0}%"
+    },
+    {
+        "key": "UI_loading_count",
+        "value": "Расчет"
+    },
+    {
+        "key": "UI_PrivacyPolicy_1",
+        "value": "Принять политику конфиденциальности"
+    },
+    {
+        "key": "UI_PrivacyPolicy_2",
+        "value": "Прежде чем продолжить игру, вам необходимо согласиться с нашей Политикой конфиденциальности и Условиями обслуживания:"
+    },
+    {
+        "key": "UI_PrivacyPolicy_3",
+        "value": "Политика"
+    },
+    {
+        "key": "UI_PrivacyPolicy_4",
+        "value": "Я согласен"
+    },
+    {
+        "key": "UI_PrivacyPolicy_5",
+        "value": "Срок службы"
+    },
+    {
+        "key": "UI_common_notice",
+        "value": "Уведомление"
+    }
+]

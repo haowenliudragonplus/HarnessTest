@@ -1,0 +1,2 @@
+NSUserTrackingUsageDescription = "Wenn du dem Tracking zustimmst, können wir dir Werbung anzeigen, die besser zu deinen Interessen passt, und so das Spielerlebnis weiter verbessern. Wenn du ablehnst, können wir keine personalisierte Werbung anbieten. Wie du dich auch entscheidest: Viel Spaß beim Spielen!  ";
+NSCameraUsageDescription = "Das Werbemodul eines Drittanbieters benötigt Zugriff auf die Kamera, um AR-Werbungsinteraktionen zu unterstützen";

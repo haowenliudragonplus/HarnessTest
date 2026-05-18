@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "winRewardCoinNumberSimple": 5,
+        "winRewardCoinNumberHard": 10,
+        "winRewardCoinNumberSuperHard": 20,
+        "hintCd": 10,
+        "freeRevive": 15,
+        "moveRevive": 5
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "id": 100,
+        "functionUnlockConditionTypeList": [
+            1
+        ],
+        "functionUnlockConditionParamList": [
+            16
+        ]
+    }
+]

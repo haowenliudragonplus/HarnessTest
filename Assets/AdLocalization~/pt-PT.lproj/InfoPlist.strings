@@ -1,0 +1,2 @@
+NSUserTrackingUsageDescription = "Se optar por ativar o rastreio, poderemos mostrar anúncios mais alinhados com os seus interesses, o que nos ajuda a melhorar a experiência de jogo. Se optar por recusar, não poderemos fornecer anúncios personalizados. Seja qual for a sua decisão, esperamos que desfrute do jogo!  ";
+NSCameraUsageDescription = "O módulo de publicidade de terceiros requer acesso à câmara para suportar interações com anúncios RA";

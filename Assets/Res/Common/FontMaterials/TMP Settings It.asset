@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92f37bcc778e54c22bc92510e5c20a5f, type: 3}
+  m_Name: TMP Settings It
+  m_EditorClassIdentifier: 
+  m_list:
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF Material
+    m_materialSuffix: Material
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF button
+    m_materialSuffix: button
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF Common
+    m_materialSuffix: Common
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF gold
+    m_materialSuffix: gold
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF hint
+    m_materialSuffix: hint
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF normal
+    m_materialSuffix: normal
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF normal blue
+    m_materialSuffix: normal blue
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF normal gold
+    m_materialSuffix: normal gold
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF normal purple
+    m_materialSuffix: normal purple
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF outline Blue
+    m_materialSuffix: outline Blue
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF outline Brownish
+    m_materialSuffix: outline Brownish
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF outline gold
+    m_materialSuffix: outline gold
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF outline White
+    m_materialSuffix: outline White
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}
+  - m_isLock: 1
+    m_name: LocaleFont_It SDF popupTitle
+    m_materialSuffix: popupTitle
+    m_characterSpacing: 0
+    m_wordSpacing: 0
+    m_lineSpacing: 0
+    m_paragraphSpacing: 0
+    m_fontAsset: {fileID: 11400000, guid: 697234d7eaed073468dbd699274c0c64, type: 2}
+    m_material: {fileID: 9005037661861118982, guid: 697234d7eaed073468dbd699274c0c64,
+      type: 2}

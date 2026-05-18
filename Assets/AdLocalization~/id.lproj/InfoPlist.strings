@@ -1,0 +1,2 @@
+NSUserTrackingUsageDescription = "Jika Anda memilih untuk mengaktifkan pelacakan, kami dapat menampilkan iklan yang lebih sesuai dengan minat Anda, sehingga membantu kami meningkatkan pengalaman bermain. Jika Anda memilih menolak, kami tidak dapat menyediakan iklan yang dipersonalisasi. Apa pun pilihan Anda, semoga Anda menikmati permainan!  ";
+NSCameraUsageDescription = "Modul iklan pihak ketiga memerlukan akses kamera untuk mendukung interaksi iklan AR";

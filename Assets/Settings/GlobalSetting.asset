@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f285cc4f935a964e9202858e86cea41, type: 3}
+  m_Name: GlobalSetting
+  m_EditorClassIdentifier: 
+  LogEnable: 1
+  LogTypeMask: -1
+  LogTagMask: -1
+  DefaultPackageName: ArrowPuzzle
+  BuildInResTag: BuildIn
+  SupportLanguage: 22719
+  HotfixAssemblyList:
+  - Hotfix.dll
+  ExternalHotfixAssemblyDirList: []
+  PatchedAOTAssemblyList:
+  - DOTween.dll
+  - DragonPlus.Config.Hub.dll
+  - DragonPlus.Core.dll
+  - DragonPlus.Network.dll
+  - DragonPlus.Save.dll
+  - Google.Protobuf.dll
+  - Newtonsoft.Json.dll
+  - System.dll
+  - System.Core.dll
+  - UniTask.dll
+  - System.Core.dll
+  - UnityEngine.AndroidJNIModule.dll
+  - UnityEngine.CoreModule.dll
+  - UnityEngine.JSONSerializeModule.dll
+  - UnityEngine.UI.dll
+  - YooAsset.dll
+  - mscorlib.dll
+  SupportMinAndroidVersion: 26
+  TargetAndroidVersion: 35
+  SupportMinIosVersion: 14.0
+  ManagedStrippingLevel: 4
+  Release_DefineSymbolList:
+  - GOOGLE_UMP_ENABLE
+  Debug_DefineSymbolList:
+  - DEVELOPMENT_BUILD
+  - ENABLE_LOG
+  - LOG_ENABLE
+  - GOOGLE_UMP_ENABLE
+  DefaultIcon: {fileID: 2800000, guid: c761f325c60f5e141a00827d7f861380, type: 3}
+  DefaultIconsPath: Assets/AppIcon/ArrowPuzzle1-ICON4-1024-260422-KLF-YYQ.png
+  AndroidIcons:
+  - {fileID: 2800000, guid: e5fb1378be1e93e42be66b9e5b06a186, type: 3}
+  - {fileID: 2800000, guid: c761f325c60f5e141a00827d7f861380, type: 3}
+  - {fileID: 2800000, guid: c761f325c60f5e141a00827d7f861380, type: 3}
+  AndroidIconsPath:
+  - Assets/AppIcon/ArrowPuzzle1-ICON4-288-260422-KLF-YYQ.png
+  - Assets/AppIcon/ArrowPuzzle1-ICON4-1024-260422-KLF-YYQ.png
+  - Assets/AppIcon/ArrowPuzzle1-ICON4-1024-260422-KLF-YYQ.png
+  IOSIcons:
+  - {fileID: 2800000, guid: c761f325c60f5e141a00827d7f861380, type: 3}
+  IosIconsPath:
+  - Assets/AppIcon/ArrowPuzzle1-ICON4-1024-260422-KLF-YYQ.png
+  AppleTeamID: 6DNQV2YA4K
+  ResEncrypt: 1
+  Res_AESKey: wodemimahencheng

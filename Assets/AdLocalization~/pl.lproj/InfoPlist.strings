@@ -1,0 +1,2 @@
+NSUserTrackingUsageDescription = "Jeśli zdecydujesz się włączyć śledzenie, możemy wyświetlać reklamy lepiej dopasowane do Twoich zainteresowań, co pomoże nam ulepszyć wrażenia z gry. Jeśli odmówisz, nie będziemy mogli wyświetlać spersonalizowanych reklam. Niezależnie od wyboru, życzymy miłej zabawy!  ";
+NSCameraUsageDescription = "Moduł reklamowy stron trzecich wymaga dostępu do aparatu, aby obsługiwać interakcje z reklamami AR";

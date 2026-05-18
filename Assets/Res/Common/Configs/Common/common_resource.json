@@ -1,0 +1,237 @@
+[
+    {
+        "id": 1,
+        "resourceKey": "UIView_Tip",
+        "resourceType": 1
+    },
+    {
+        "id": 2,
+        "resourceKey": "UIView_Waiting",
+        "resourceType": 1
+    },
+    {
+        "id": 3,
+        "resourceKey": "UIView_Notice",
+        "resourceType": 1
+    },
+    {
+        "id": 4,
+        "resourceKey": "UIView_Loading",
+        "resourceType": 1
+    },
+    {
+        "id": 5,
+        "resourceKey": "UIView_FlyObj",
+        "resourceType": 1
+    },
+    {
+        "id": 6,
+        "resourceKey": "UIView_GM",
+        "resourceType": 1
+    },
+    {
+        "id": 100,
+        "resourceKey": "UIView_HomeMain",
+        "resourceType": 1
+    },
+    {
+        "id": 101,
+        "resourceKey": "UIView_SaveYourProgress",
+        "resourceType": 1
+    },
+    {
+        "id": 102,
+        "resourceKey": "UIView_SetLanguage",
+        "resourceType": 1
+    },
+    {
+        "id": 103,
+        "resourceKey": "UIView_Setting",
+        "resourceType": 1
+    },
+    {
+        "id": 105,
+        "resourceKey": "UIView_BuyEnergy",
+        "resourceType": 1
+    },
+    {
+        "id": 118,
+        "resourceKey": "UIView_GuideMain",
+        "resourceType": 1
+    },
+    {
+        "id": 119,
+        "resourceKey": "UIView_UIShopMain",
+        "resourceType": 1
+    },
+    {
+        "id": 132,
+        "resourceKey": "UIPrivacyPolicy",
+        "resourceType": 1
+    },
+    {
+        "id": 134,
+        "resourceKey": "UIChooseProgress",
+        "resourceType": 1
+    },
+    {
+        "id": 135,
+        "resourceKey": "UIChooseTip",
+        "resourceType": 1
+    },
+    {
+        "id": 136,
+        "resourceKey": "UIView_ContactUs",
+        "resourceType": 1
+    },
+    {
+        "id": 137,
+        "resourceKey": "UICommonReward",
+        "resourceType": 1
+    },
+    {
+        "id": 300,
+        "resourceKey": "UIView_InGame_Main",
+        "resourceType": 1
+    },
+    {
+        "id": 301,
+        "resourceKey": "UIView_InGame_Pause",
+        "resourceType": 1
+    },
+    {
+        "id": 302,
+        "resourceKey": "UIView_InGame_Win",
+        "resourceType": 1
+    },
+    {
+        "id": 303,
+        "resourceKey": "UIView_InGame_Fail",
+        "resourceType": 1
+    },
+    {
+        "id": 304,
+        "resourceKey": "UIView_InGame_GetItem",
+        "resourceType": 1
+    },
+    {
+        "id": 305,
+        "resourceKey": "UIView_InGame_Loading",
+        "resourceType": 1
+    },
+    {
+        "id": 306,
+        "resourceKey": "UIView_InGame_GetProp",
+        "resourceType": 1
+    },
+    {
+        "id": 307,
+        "resourceKey": "UIView_InGame_Setting",
+        "resourceType": 1
+    },
+    {
+        "id": 310,
+        "resourceKey": "UIView_PurchaseFailure",
+        "resourceType": 1
+    },
+    {
+        "id": 311,
+        "resourceKey": "UIView_CommonReward",
+        "resourceType": 1
+    },
+    {
+        "id": 312,
+        "resourceKey": "UIView_InGame_HardTips",
+        "resourceType": 1
+    },
+    {
+        "id": 313,
+        "resourceKey": "UIView_AchievementMain",
+        "resourceType": 1
+    },
+    {
+        "id": 314,
+        "resourceKey": "UIView_GetAchievementPop",
+        "resourceType": 1
+    },
+    {
+        "id": 500,
+        "resourceKey": "UIView_RemoveAd",
+        "resourceType": 1
+    },
+    {
+        "id": 1004,
+        "resourceKey": "Atlas_InGame_UI[UI_common_lives]",
+        "resourceType": 2
+    },
+    {
+        "id": 1006,
+        "resourceKey": "Atlas_InGame_UI[UI_common_renovation_coin]",
+        "resourceType": 2
+    },
+    {
+        "id": 1007,
+        "resourceKey": "Atlas_Boost[icon_boost_coin]",
+        "resourceType": 2
+    },
+    {
+        "id": 1008,
+        "resourceKey": "Atlas_InGame_UI[UI_common_lives_max]",
+        "resourceType": 2
+    },
+    {
+        "id": 1009,
+        "resourceKey": "Atlas_Boost[icon_boost_refresh]",
+        "resourceType": 2
+    },
+    {
+        "id": 1010,
+        "resourceKey": "Atlas_Boost[icon_boost_hint]",
+        "resourceType": 2
+    },
+    {
+        "id": 1011,
+        "resourceKey": "Atlas_Boost[icon_boost_kuang]",
+        "resourceType": 2
+    },
+    {
+        "id": 1012,
+        "resourceKey": "Atlas_Boost[icon_boost_saoba]",
+        "resourceType": 2
+    },
+    {
+        "id": 2000,
+        "resourceKey": "main_bgm",
+        "resourceType": 3
+    },
+    {
+        "id": 2001,
+        "resourceKey": "sfx_show",
+        "resourceType": 3
+    },
+    {
+        "id": 2002,
+        "resourceKey": "sfx_move",
+        "resourceType": 3
+    },
+    {
+        "id": 2003,
+        "resourceKey": "sfx_no_move",
+        "resourceType": 3
+    },
+    {
+        "id": 2004,
+        "resourceKey": "sfx_win",
+        "resourceType": 3
+    },
+    {
+        "id": 2005,
+        "resourceKey": "sfx_lose",
+        "resourceType": 3
+    },
+    {
+        "id": 2006,
+        "resourceKey": "sfx_click",
+        "resourceType": 3
+    }
+]

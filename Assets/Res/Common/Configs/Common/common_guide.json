@@ -1,0 +1,57 @@
+[
+    {
+        "id": 101,
+        "guideId": "GUIDE_101",
+        "desc": "手指点击中间的箭头 +提示文本 tap to move",
+        "triggerPosition": 1,
+        "triggerParam": "1",
+        "targetTypes": [
+            11
+        ],
+        "ignoreCache": true,
+        "textGuide": "UI_new_tip_1",
+        "NPCTextEnable": true,
+        "TextType": "1",
+        "NPCTextPos": 4,
+        "fingerEnable": 1,
+        "clickToFinishType": 1
+    },
+    {
+        "id": 102,
+        "guideId": "GUIDE_102",
+        "desc": "手指左右拉伸 放大和缩小 +文本 按住滑动可以放大缩小",
+        "triggerPosition": 1,
+        "triggerParam": "6",
+        "targetTypes": [
+            13
+        ],
+        "ignoreCache": true,
+        "textGuide": "UI_new_tip_2",
+        "NPCTextEnable": true,
+        "TextType": "1",
+        "NPCTextPos": 4,
+        "fingerEnable": 4,
+        "clickToFinishType": 1
+    },
+    {
+        "id": 103,
+        "guideId": "GUIDE_103",
+        "desc": "手指点击辅助线icon  +提示文本  辅助线可以帮助玩家更多的游戏",
+        "triggerPosition": 1,
+        "triggerParam": "10",
+        "targetTypes": [
+            12
+        ],
+        "targetToTop": true,
+        "saveFlag": true,
+        "textGuide": "UI_new_tip_3",
+        "NPCTextEnable": true,
+        "TextType": "1",
+        "NPCTextPos": 4,
+        "fingerEnable": 1,
+        "maskRaycastEnable": true,
+        "maskEnable": true,
+        "maskColor": 0.8,
+        "clickToFinishType": 2
+    }
+]

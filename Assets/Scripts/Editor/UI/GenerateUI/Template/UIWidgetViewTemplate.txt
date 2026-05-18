@@ -1,0 +1,16 @@
+/******************************/
+/*****自动生成的UIWidget界面代码，禁止手动修改*****/
+/*****界面逻辑写在子类中*****/
+/*****生成时间：#GENDATETIME#*****/
+/*****************************/
+
+using Framework;
+#NAMESPACE#
+public class #CLASSNAME# : UIWidgetBase
+{
+#FIELDDEFINECODE#
+    protected override void BindComponent()
+    {
+#FIELDBINDCODE#
+    }
+}

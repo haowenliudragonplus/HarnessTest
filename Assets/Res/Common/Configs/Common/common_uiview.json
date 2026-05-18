@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "resourceId": 1,
+        "layerType": 4,
+        "type": 2
+    },
+    {
+        "id": 2,
+        "resourceId": 2,
+        "layerType": 5,
+        "type": 5
+    },
+    {
+        "id": 3,
+        "resourceId": 3,
+        "layerType": 5,
+        "type": 2
+    },
+    {
+        "id": 4,
+        "resourceId": 4,
+        "layerType": 1,
+        "type": 1
+    },
+    {
+        "id": 5,
+        "resourceId": 5,
+        "layerType": 4,
+        "type": 2
+    },
+    {
+        "id": 6,
+        "resourceId": 6,
+        "layerType": 5,
+        "type": 4
+    },
+    {
+        "id": 100,
+        "resourceId": 100,
+        "layerType": 1,
+        "type": 1
+    },
+    {
+        "id": 101,
+        "resourceId": 101,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 102,
+        "resourceId": 102,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 103,
+        "resourceId": 103,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 105,
+        "resourceId": 105,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 118,
+        "resourceId": 118,
+        "layerType": 3,
+        "type": 2
+    },
+    {
+        "id": 119,
+        "resourceId": 119,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 132,
+        "resourceId": 132,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 134,
+        "resourceId": 134,
+        "layerType": 5,
+        "type": 2
+    },
+    {
+        "id": 135,
+        "resourceId": 135,
+        "layerType": 5,
+        "type": 2
+    },
+    {
+        "id": 136,
+        "resourceId": 136,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 137,
+        "resourceId": 137,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 205,
+        "resourceId": 205,
+        "layerType": 2,
+        "type": 4
+    },
+    {
+        "id": 300,
+        "resourceId": 300,
+        "layerType": 1,
+        "type": 1
+    },
+    {
+        "id": 301,
+        "resourceId": 301,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 304,
+        "resourceId": 304,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 305,
+        "resourceId": 305,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 306,
+        "resourceId": 306,
+        "layerType": 2,
+        "type": 4
+    },
+    {
+        "id": 307,
+        "resourceId": 307,
+        "layerType": 4,
+        "type": 4
+    },
+    {
+        "id": 302,
+        "resourceId": 302,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 303,
+        "resourceId": 303,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 310,
+        "resourceId": 310,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 311,
+        "resourceId": 311,
+        "layerType": 4,
+        "type": 4
+    },
+    {
+        "id": 312,
+        "resourceId": 312,
+        "layerType": 4,
+        "type": 4
+    },
+    {
+        "id": 313,
+        "resourceId": 313,
+        "layerType": 2,
+        "type": 2
+    },
+    {
+        "id": 314,
+        "resourceId": 314,
+        "layerType": 4,
+        "type": 4
+    },
+    {
+        "id": 500,
+        "resourceId": 500,
+        "layerType": 2,
+        "type": 2
+    }
+]

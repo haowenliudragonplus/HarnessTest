@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809018430730",
+    "project_id": "fb-arrow-puzzle1",
+    "storage_bucket": "fb-arrow-puzzle1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809018430730:android:2517593825199f6d5f96f3",
+        "android_client_info": {
+          "package_name": "com.lrg.arrowpuzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDntXXmEYmnvx61NHxNqAfM4A1GU40Csb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "uiViewId": 500,
+        "priority": 199,
+        "levelFinishRequired": 7,
+        "showscene1": 0,
+        "showscene4": 2
+    }
+]

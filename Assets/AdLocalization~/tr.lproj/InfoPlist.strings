@@ -1,0 +1,2 @@
+NSUserTrackingUsageDescription = "Takibi etkinleştirmeyi seçerseniz, ilgi alanlarınıza daha uygun reklamlar gösterebiliriz; bu da oyun deneyimini geliştirmemize yardımcı olur. Reddederseniz, kişiselleştirilmiş reklamlar sunamayız. Hangi seçimi yaparsanız yapın, oyunun keyfini çıkarmanızı dileriz!  ";
+NSCameraUsageDescription = "Üçüncü taraf reklam modülünün AR reklam etkileşimlerini desteklemek için kamera erişim izni gereklidir";

@@ -1,0 +1,2 @@
+NSUserTrackingUsageDescription = "如果您选择启用跟踪，我们可以展示更符合您兴趣的广告，从而帮助我们提升游戏体验。如果您选择拒绝，我们将无法提供个性化广告。无论您作何决定，都祝您游戏愉快！  ";
+NSCameraUsageDescription = "第三方广告模块需要访问相机以支持AR广告交互";
